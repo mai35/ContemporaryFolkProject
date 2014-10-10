@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="folkSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<songs language="Japanese" country="Japan">
+    <song>
+        <meta>
+            <title>精霊流し</title>
+            <artist>さだまさし</artist>
+            <year>1974</year>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza>
+                <line><noun cat="thing" typeN="common">去年</noun>の<noun cat="person" typeN="pro">あなた</noun>の<noun cat="thing" typeN="common">想い出</noun>が</line>
+                <line><noun cat="thing" typeN="common">テープレコーダー</noun>から こぼれています</line>
+                <line><noun cat="person" typeN="pro">あなた</noun>のために<noun cat="person" typeN="common">お友達</noun>も</line>
+                <line>集まってくれました</line>
+                <line><noun cat="person" typeN="common">二人</noun>でこさえたおそろいの</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">浴衣</noun>も<noun cat="thing" typeN="common">今夜</noun>は<noun cat="person" typeN="common">一人</noun>で着ます</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">線香花火</noun>が見えますか <noun cat="thing" typeN="common">空</noun>の上から</line>
+            </stanza>
+            <stanza>
+                <line><noun cat="thing" typeN="common">約束</noun>通りに <noun cat="person" typeN="pro">あなた</noun>の愛した</line>
+                <line><noun cat="thing" typeN="common">レコード</noun>も一緒に流しましょう</line>
+                <line>そして<noun cat="person" typeN="pro">あなた</noun>の <noun cat="thing" typeN="common">舟</noun>のあとを</line>
+                <line>ついてゆきましょう</line>
+            </stanza>
+            <stanza>
+                <line><noun cat="person" typeN="pro">私</noun>の小さな<noun cat="person" typeN="common">弟</noun>が</line>
+                <line><noun cat="thing" typeN="common">何</noun>にも知らずに はしゃぎまわって</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">精霊流し</noun>が華やかに始まるのです</line>
+            </stanza>
+            <stanza>
+                <line>あの<noun cat="thing" typeN="common">頃</noun><noun cat="person" typeN="pro">あなた</noun>がつま弾いた</line>
+                <line><noun cat="thing" typeN="common">ギター</noun>を<noun cat="person" typeN="pro">私</noun>が奏(ひ)いてみました</line>
+                <line>いつの<noun cat="thing" typeN="common">間</noun>にさびついた<noun cat="thing" typeN="common">糸</noun>で</line>
+                <line><noun cat="thing" typeN="common">くすり指</noun>を切りました</line>
+                <line><noun cat="person" typeN="pro">あなた</noun>の愛した<noun cat="thing" typeN="common">母さん</noun>の</line>
+                <line><noun cat="thing" typeN="common">今夜</noun >の<noun cat="thing" typeN="common" subtheme="cultural">着物</noun>は<noun cat="thing" typeN="common">浅黄色</noun></line>
+                <line>わずかの<noun cat="thing" typeN="common">間</noun>に年老いて 寂しそうです</line>
+            </stanza>
+            <stanza>
+                <line><noun cat="thing" typeN="common">約束</noun>通りに <noun cat="person" typeN="pro">あなた</noun>の嫌いな</line>
+                <line><noun cat="thing" typeN="common">涙</noun>は見せずに 過ごしましょう</line>
+                <line>そして黙って <noun cat="thing" typeN="common">舟</noun>のあとを</line>
+                <line>ついてゆきましょう</line>
+            </stanza>
+            <stanza>
+                <line><noun cat="thing" typeN="common">人ごみ</noun>の中を縫う様に</line>
+                <line>静かに<noun cat="thing" typeN="common">時間</noun>が通り過ぎます</line>
+                <line><noun cat="person" typeN="pro">あなた</noun>と<noun cat="person" typeN="pro">私</noun>の<noun cat="thing" typeN="common">人生</noun>をかばうみたいに</line>
+            </stanza>
+        </lyrics>
+    </song>
+</songs>
