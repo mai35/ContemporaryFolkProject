@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="folkSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="folkSchemaRevised_10-10.rnc" type="application/relax-ng-compact-syntax"?>
 <songs language="Japanese" country="Japan">
     <song>
         <meta>
@@ -9,7 +9,7 @@
             <theme>social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type="verse">
                 <line><noun cat="thing" typeN="common">去年</noun>の<noun cat="person" typeN="pro">あなた</noun>の<noun cat="thing" typeN="common">想い出</noun>が</line>
                 <line><noun cat="thing" typeN="common">テープレコーダー</noun>から こぼれています</line>
                 <line><noun cat="person" typeN="pro">あなた</noun>のために<noun cat="person" typeN="common">お友達</noun>も</line>
@@ -18,18 +18,18 @@
                 <line><noun cat="thing" typeN="common" subtheme="cultural">浴衣</noun>も<noun cat="thing" typeN="common">今夜</noun>は<noun cat="person" typeN="common">一人</noun>で着ます</line>
                 <line><noun cat="thing" typeN="common" subtheme="cultural">線香花火</noun>が見えますか <noun cat="thing" typeN="common">空</noun>の上から</line>
             </stanza>
-            <stanza>
+            <stanza type="chorus">
                 <line><noun cat="thing" typeN="common">約束</noun>通りに <noun cat="person" typeN="pro">あなた</noun>の愛した</line>
                 <line><noun cat="thing" typeN="common">レコード</noun>も一緒に流しましょう</line>
                 <line>そして<noun cat="person" typeN="pro">あなた</noun>の <noun cat="thing" typeN="common">舟</noun>のあとを</line>
                 <line>ついてゆきましょう</line>
             </stanza>
-            <stanza>
+            <stanza type="bridge">
                 <line><noun cat="person" typeN="pro">私</noun>の小さな<noun cat="person" typeN="common">弟</noun>が</line>
                 <line><noun cat="thing" typeN="common">何</noun>にも知らずに はしゃぎまわって</line>
                 <line><noun cat="thing" typeN="common" subtheme="cultural">精霊流し</noun>が華やかに始まるのです</line>
             </stanza>
-            <stanza>
+            <stanza type="verse">
                 <line>あの<noun cat="thing" typeN="common">頃</noun><noun cat="person" typeN="pro">あなた</noun>がつま弾いた</line>
                 <line><noun cat="thing" typeN="common">ギター</noun>を<noun cat="person" typeN="pro">私</noun>が奏(ひ)いてみました</line>
                 <line>いつの<noun cat="thing" typeN="common">間</noun>にさびついた<noun cat="thing" typeN="common">糸</noun>で</line>
@@ -38,16 +38,422 @@
                 <line><noun cat="thing" typeN="common">今夜</noun >の<noun cat="thing" typeN="common" subtheme="cultural">着物</noun>は<noun cat="thing" typeN="common">浅黄色</noun></line>
                 <line>わずかの<noun cat="thing" typeN="common">間</noun>に年老いて 寂しそうです</line>
             </stanza>
-            <stanza>
+            <stanza type="chorus">
                 <line><noun cat="thing" typeN="common">約束</noun>通りに <noun cat="person" typeN="pro">あなた</noun>の嫌いな</line>
                 <line><noun cat="thing" typeN="common">涙</noun>は見せずに 過ごしましょう</line>
                 <line>そして黙って <noun cat="thing" typeN="common">舟</noun>のあとを</line>
                 <line>ついてゆきましょう</line>
             </stanza>
-            <stanza>
+            <stanza type="bridge">
                 <line><noun cat="thing" typeN="common">人ごみ</noun>の中を縫う様に</line>
                 <line>静かに<noun cat="thing" typeN="common">時間</noun>が通り過ぎます</line>
                 <line><noun cat="person" typeN="pro">あなた</noun>と<noun cat="person" typeN="pro">私</noun>の<noun cat="thing" typeN="common">人生</noun>をかばうみたいに</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>赤ちょうちん</title>
+            <artist>かぐや姫</artist>
+            <year>1974</year>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>あのころふたりの アパートは</line>
+                <line>裸電球 まぶしくて</line>
+                <line>貨物列車が 通ると揺れた</line>
+                <line>ふたりに似合いの 部屋でした</line>
+                <line>覚えてますか 寒い夜</line>
+                <line>赤ちょうちんに 誘われて</line>
+                <line>おでんを沢山 買いました</line>
+                <line>月に一度の ぜいたくだけど</line>
+                <line>お酒もちょっぴり 飲んだわね</line>
+            </stanza>
+            <stanza type="verse">
+                <line>雨がつづくと 仕事もせずに</line>
+                <line>キャベツばかりを かじってた</line>
+                <line>そんな生活が おかしくて</line>
+                <line>あなたの横顔 見つめてた</line>
+                <line>あなたと別れた 雨の夜</line>
+                <line>公衆電話の 箱の中</line>
+                <line>ひざをかかえて 泣きました</line>
+                <line>生きてることは ただそれだけで</line>
+                <line>哀しいことだと 知りました</line>
+            </stanza>
+            <stanza type="coda">
+                <line>今でも時々 雨の夜</line>
+                <line>赤ちょうちんも 濡れている</line>
+                <line>屋台にあなたが いるような気がします</line>
+                <line>背中丸めて サンダルはいて</line>
+                <line>ひとりで いるような気がします</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>想い出の渚</title>
+            <artist>ザ・ワイルド・ワンズ</artist>
+            <year>1966</year>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>君を見つけたこの渚に</line>
+                <line>一人たたずみ思い出す</line>
+                <line>小麦色した可愛いほほ</line>
+                <line>忘れはしないいつまでも</line>
+                <line>水面走る白い船</line>
+                <line>長い黒髪風になびかせ</line>
+                <line>波に向って叫んで見ても</line>
+                <line>もう帰らないあの夏の日</line>
+            </stanza>
+            <stanza type="verse">
+                <line>長いまつげの大きな瞳が</line>
+                <line>僕を見つめてうるんでた</line>
+                <line>このまま二人で空の果てまで</line>
+                <line>飛んで行きたい夜だった</line>
+                <line>波に向って　叫んで見ても</line>
+                <line>もう帰らないあの夏の日</line>
+                <line>あの夏の日　あの夏の日</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>東京</title>
+            <artist>マイ・ペース</artist>
+            <year>1974</year>
+            <theme>regional social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>最終電車で 君にさよなら</line>
+                <line>いつまた逢えると きいた君の言葉が</line>
+                <line>走馬燈のように めぐりながら</line>
+                <line>僕の心に火をともす</line>
+                <line>何も思わずに 電車に飛び乗り</line>
+                <line>君の東京へ東京へと 出かけました</line>
+                <line>いつもいつでも 夢と希望をもって</line>
+                <line>君は東京で 生きていました</line>
+                <line>東京へはもう何度も 行きましたね</line>
+                <line>君の住む美し都</line>
+                <line>東京へはもう何度も 行きましたね</line>
+                <line>君が咲く花の都</line>
+            </stanza>
+            <stanza type="verse">
+                <line>君はいつでも やさしく微笑む</line>
+                <line>だけど心は むなしくなるばかり</line>
+                <line>いつか二人で 暮らすことを夢みて</line>
+                <line>今は離れて 生きてゆこう</line>
+                <line>君に笑って さよなら言って</line>
+                <line>電車は走る遠い道を</line>
+                <line>あぁ今すぐにでも 戻りたいんだ</line>
+                <line>君の住む町 花の東京</line>
+                <line>東京へはもう何度も 行きましたね</line>
+                <line>君の住む美し都</line>
+                <line>東京へはもう何度も 行きましたね</line>
+                <line>君が咲く花の都</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>涙そうそう</title>
+            <artist>森山良子 BEGIN</artist>
+            <year>2000</year>
+            <theme>regional social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>古いアルバムめくり　ありがとうってつぶやいた</line>
+                <line>いつもいつも胸の中　励ましてくれる人よ</line>
+                <line>晴れ渡る日も　雨の日も　浮かぶあの笑顔</line>
+                <line>想い出遠くあせても</line>
+                <line>おもかげ探して　よみがえる日は　涙そうそう</line>
+            </stanza>
+            <stanza type="verse">
+                <line>一番星に祈る　それが私のくせになり</line>
+                <line>夕暮れに見上げる空　心いっぱいあなた探す</line>
+                <line>悲しみにも　喜びにも　おもうあの笑顔</line>
+                <line>あなたの場所から私が</line>
+                <line>見えたら　きっといつか　会えると信じ　生きてゆく</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>晴れ渡る日も　雨の日も　浮かぶあの笑顔</line>
+                <line>想い出遠くあせても</line>
+                <line>さみしくて　恋しくて　君への想い　涙そうそう</line>
+                <line>会いたくて　会いたくて　君への想い　涙そうそう</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>さとうきび畑</title>
+            <artist>森山良子</artist>
+            <year>1969</year>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>今日もみわたすかぎりに</line>
+                <line>緑の波がうねる</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>むかし海の向こうから</line>
+                <line>いくさがやってきた</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>あの日鉄の雨にうたれ</line>
+                <line>父は死んでいった</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>そして私の生まれた日に</line>
+                <line>いくさの終わりがきた</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>風の音にとぎれて消える</line>
+                <line>母の子守の唄</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>知らないはずの父の手に</line>
+                <line>だかれた夢を見る</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>父の声をさがしながら</line>
+                <line>たどる畑の道</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>お父さんて呼んでみたい</line>
+                <line>お父さんどこにいるの</line>
+                <line>このまま緑の波に</line>
+                <line>おぼれてしまいそう</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>広いさとうきび畑は</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風が通りぬけるだけ</line>
+                <line>今日もみわたすかぎりに</line>
+                <line>緑の波がうねる</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="verse">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>忘れられない悲しみが</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>波のように押し寄せる</line>
+                <line>風よ悲しみの歌を</line>
+                <line>海に返してほしい</line>
+                <line>夏の陽ざしの中で</line>
+            </stanza>
+            <stanza type="coda">
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>風に涙はかわいても</line>
+                <line>ざわわ　ざわわ　ざわわ</line>
+                <line>この悲しみは消えない</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>山谷ブルース</title>
+            <artist>岡林信康</artist>
+            <year>1968</year>
+            <theme>regional social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>今日の仕事はつらかった</line>
+                <line>あとは焼酎をあおるだけ</line>
+                <line>どうせ　どうせ山谷のドサずまい</line>
+                <line>ほかにやる事ありゃしねぇ</line>
+            </stanza>
+            <stanza type="verse">
+                <line>一人酒場で飲む酒に</line>
+                <line>かえらぬ昔がなつかしい</line>
+                <line>泣いて　泣いてみたってなんになる</line>
+                <line>今じゃ山谷がふるさとよ</line>
+            </stanza>
+            <stanza type="verse">
+                <line>工事終ればそれっきり</line>
+                <line>お払い箱のおれ達さ</line>
+                <line>いいさ　いいさ山谷の立ちん坊</line>
+                <line>世間うらんで何になる</line>
+            </stanza>
+            <stanza type="verse">
+                <line>人は山谷を悪く言う</line>
+                <line>だけどおれ達いなくなりゃ</line>
+                <line>ビルも　ビルも道路も出来ゃしねえ</line>
+                <line>誰も分かっちゃくれねぇか</line>
+            </stanza>
+            <stanza type="verse">
+                <line>だけどおれ達ゃ泣かないぜ</line>
+                <line>はたらくおれ達の世の中が</line>
+                <line>きっと　きっと来るさそのうちに</line>
+                <line>その日にゃ泣こうぜ　うれし泣き</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>傘がない</title>
+            <artist>井上陽水</artist>
+            <year>1972</year>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>都会では自殺する若者が増えている</line>
+                <line>今朝来た新聞の片隅に書いていた</line>
+                <line>だけども問題は今日の雨　傘がない</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
+                <line>君の町に行かなくちゃ　雨にぬれ</line>
+            </stanza>
+            <stanza type="verse">
+                <line>つめたい雨が今日は心に浸みる</line>
+                <line>君の事以外は考えられなくなる</line>
+                <line>それはいい事だろう?</line>
+            </stanza>
+            <stanza type="verse">
+                <line>テレビでは我が国の将来の問題を</line>
+                <line>誰かが深刻な顔をしてしゃべってる</line>
+                <line>だけども問題は今日の雨　傘がない</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
+                <line>君の家に行かなくちゃ　雨にぬれ</line>
+            </stanza>
+            <stanza type="verse">
+                <line>つめたい雨が僕の目の中に降る</line>
+                <line>君の事以外は何も見えなくなる</line>
+                <line>それはいい事だろう?</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
+                <line>君の町に行かなくちゃ　雨にぬれ</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
+                <line>君の家に行かなくちゃ　雨の中を</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
+                <line>雨にぬれて行かなくちゃ　傘がない</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>サルビアの花</title>
+            <artist>早川義夫</artist>
+            <year>1969</year>
+            <theme>regional social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>いつもいつも 思ってた</line>
+                <line>サルビアの花を あなたの部屋の中に</line>
+                <line>投げ入れたくて</line>
+                <line>そして君のベットに</line>
+                <line>サルビアの紅い花 しきつめて</line>
+                <line>僕は君を死ぬまで 抱きしめていようと</line>
+            </stanza>
+            <stanza type="bridge">
+                <line>なのになのに どうして他の人のところへ</line>
+                <line>僕の愛の方が すてきなのに</line>
+                <line>泣きながら 君のあとを追いかけて</line>
+                <line>花ふぶき 舞う道を</line>
+                <line>教会の鐘の音はなんてうそっぱちなのさ</line>
+            </stanza>
+            <stanza type="verse">
+                <line>とびらを開けて 出てきた君は</line>
+                <line>偽りの花嫁</line>
+                <line>ほほをこわばらせ 僕をチラッと見た</line>
+                <line>泣きながら 君のあとを追いかけて</line>
+                <line>花ふぶき 舞う道を</line>
+                <line>ころげながら ころげながら</line>
+                <line>走りつづけたのさ</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>戦友会</title>
+            <artist>さだまさし</artist>
+            <year>1991</year>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>櫛の歯が欠けるように　仲間が減ってゆく</line>
+                <line>戦友会に出掛けた夜　おやじが呟いた</line>
+                <line>学舎でなく古の戦の友が集う</line>
+                <line>年に一度の　思えばなんて儚い祭りだろう</line>
+                <line>誰もがいつか　年老いてゆくけれど</line>
+                <line>何とも俺達の風情は</line>
+                <line>他人に玉手箱　開けられてしまった</line>
+                <line>青春の浦島たちのようだ</line>
+                <line>生命懸けておまえ達を　守ったと言わせてやれ</line>
+                <line>それを正義と言うつもりはないが　時代と片付けたくもない</line>
+            </stanza>
+            <stanza type="verse">
+                <line>今の青春を羨ましくなくもないが　替わろうかと言われても断るだろう</line>
+                <line>不幸な時代の若者たちはそれでも青春を確かに見たのだ</line>
+                <line>銃弾に倒れた友の顔を　忘れることなど出来ない</line>
+                <line>あいつの分もあいつの分もと　生きる思いは解るまい</line>
+                <line>いつかは消えゆく　集いなのだ</line>
+                <line>冬の名残の雪なのだ</line>
+                <line>そして必ず　二度と必ず</line>
+                <line>降ってはならない雪なのだ</line>
+                <line>穏やかにそう言った後　息子の僕をサカナに</line>
+                <line>珍しくおやじは家で酒を呑んで　その日は早くつぶれた</line>
+            </stanza>
+            <stanza type="coda">
+                <line>雪が降る今日もどこかで　誰かが凍えてる</line>
+                <line>遠くでバイクの走り去る　青春が聞こえた</line>
             </stanza>
         </lyrics>
     </song>
