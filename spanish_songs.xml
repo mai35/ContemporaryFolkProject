@@ -300,7 +300,7 @@
             <theme>political</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Dicen los viejos que en este país hubo una guerra </line>
                 <line>y hay dos Españas que guardan aún,</line>
                 <line>el rencor de viejas deudas</line>
@@ -309,7 +309,7 @@
                 <line>para evitar lo peor </line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Pero yo sólo he visto gente</line>
                 <line> que sufre y calla </line>
                 <line>Dolor y miedo </line>
@@ -317,7 +317,7 @@
                 <line>su hembra y la fiesta en paz </line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Libertad, libertad sin ira libertad </line>
                 <line> guárdate tu miedo y tu ira </line>
                 <line>porque hay libertad, sin ira libertad </line>
@@ -328,7 +328,7 @@
                 <line>y si no la hay sin duda la habrá </line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line> Dicen los viejos que hacemos lo que nos da la gana </line>
                 <line> Y no es posible que así pueda haber </line>
                 <line> Gobierno que gobierne nada </line>
@@ -336,14 +336,14 @@
                 <line>que todos aquí llevamos</line>
                 <line>la violencia a flor de piel</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line> Pero yo sólo he visto gente muy obediente </line>
                 <line>hasta en la cama </line>
                 <line>Gente que tan sólo pide</line>
                 <line>vivir su vida, sin más mentiras y en paz</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Libertad, libertad sin ira libertad </line>
                 <line>guárdate tu miedo y tu ira </line>
                 <line>porque hay libertad, sin ira libertad </line>
@@ -354,14 +354,14 @@
                 <line>y si no la hay sin duda la habrá </line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Libertad, libertad sin ira libertad </line>
                 <line> guárdate tu miedo y tu ira </line>
                 <line> porque hay libertad, sin ira libertad </line>
                 <line> y si no la hay sin duda la habrá </line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line> Libertad, libertad sin ira libertad</line>
                 <line> guárdate tu miedo y tu ira </line>
                 <line>porque hay libertad, sin ira libertad </line>
@@ -376,10 +376,10 @@
             <year>1978</year>
             <country>Cuba</country>
 
-            <theme>polictical social</theme>
+            <theme>political social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line> Ojala que las hojas no te toquen el cuerpo cuando caigan </line>
                 <line>para que no las puedas convertir en cristal </line>
                 <line>ojala que la lluvia deje de ser el milagro que baja por tu cuerpo </line>
@@ -388,7 +388,7 @@
             </stanza>
 
 
-            <stanza>
+            <stanza type='verse'>
                 <line> ojala se te acabe la mirada constante </line>
                 <line>la palara precisa, la sonrisa perfecta</line>
                 <line>ojala pase algo que te borre de pronto</line>
@@ -399,7 +399,7 @@
                 <line>ojala que no pueda tocarte ni en canciones </line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Ojala que la aurora no de gritos que caigan en mi espalda</line>
                 <line>ojala que tu nombre se le olvide esa voz </line>
                 <line>ojala las paredes no retengan tu ruido de camino cansado</line>
@@ -407,7 +407,7 @@
                 <line>a tu viejo gobierno de difuntos y flores</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>ojala se te acabe la mirada constante </line>
                 <line>la palara precisa, la sonrisa perfecta </line>
                 <line>ojala pase algo que te borre de pronto</line>
@@ -429,7 +429,7 @@
             <theme>social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Hay algunos que dicen</line>
                 <line>que todos los caminos conducen a roma</line>
                 <line>y es verdad porque el mío</line>
@@ -439,14 +439,14 @@
                 <line>luego apago tus ojos</line>
                 <line>y duermo con tu nombre besando mi boca.</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>Ay, amor mío,</line>
                 <line>qué terriblemente absurdo</line>
                 <line>es estar vivo</line>
                 <line>sin el alma de tu cuerpo,</line>
                 <line>sin tu latido.</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line> Que el final de esta historia,</line>
                 <line>enésima autobiografía de un fracaso,</line>
                 <line> no te sirva de ejemplo,</line>
@@ -456,7 +456,7 @@
                 <line>eso casi lo salva,</line>
                 <line>lo malo son las noches que mojan mi mano.</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>Aunque todo ya es nada,</line>
                 <line>no sé por qué te escondes y huyes de mi encuentro.</line>
                 <line>por saber de tu vida</line>
@@ -478,13 +478,13 @@
             <theme>social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Hoy que llevo en la boca el sabor a vencido</line>
                 <line>procura tener a la mano un amigo que cuide tu frente y tu voz </line>
                 <line>y que cuide de ti, y para ti tus vestidos</line>
                 <line>y a tus pensamientos mantenlos atentos y a mano tu amigo</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>La importancia de verte morderte los labios de preocupación</line>
                 <line>es hoy tan necesaria como verte siempre</line>
                 <line>como andar siguiéndote con la cabeza en la imaginación</line>
@@ -494,7 +494,7 @@
                 <line>y estos puños que tiemblan de rabia cuando estas contenta</line>
                 <line>que tiemblan de muerte si alguien se te acercara a ti.</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>Hoy procura que aquella ventana que mira a la calle en tu cuarto</line>
                 <line> se tenga cerrada, porque no vaya a ser yo el viento de la noche</line>
                 <line>y te mire y recorra la piel con mi aliento</line>
@@ -502,13 +502,13 @@
                 <line>y me meta en tu pecho y me vuelva a salir</line>
                 <line> y respires de mí...</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>O me vuelva una estrella y te estreche en mis rayos</line>
                 <line>y todo por no hacerme un poco de caso</line>
                 <line>ten miedo de mayo</line>
                 <line> y ten miedo de mí</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>Porque no vaya a ser que cansado de verte</line>
                 <line>me meta en tus brazos para poseerte y te arranque las ropas</line>
                 <line> y te bese los pies</line>
