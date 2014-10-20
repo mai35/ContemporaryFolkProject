@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="folkSchemaRevised_10-20.rnc" type="application/relax-ng-compact-syntax"?>
+<songs language="Italian">
+    <song>
+        <meta>
+            <title>Crêuza de mä</title>
+            <artist>Fabrizio De André</artist>
+            <year>1984</year>
+            <country>Italy</country>
+            <theme>regional</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>Umbre de muri muri de mainé</line>
+                <line>dunde ne vegnì duve l'è ch'ané</line>
+                <line>da 'n scitu duve a l'ûn-a a se mustra nûa</line>
+                <line>e a neutte a n'à puntou u cutellu ä gua</line>
+                <line>e a muntä l'àse gh'é restou Diu</line>
+                <line>u Diàu l'é in çë e u s'è gh'è faetu u nìu</line>
+                <line>ne sciurtìmmu da u mä pe sciugà e osse da u Dria</line>
+                <line>e a funtan-a di cumbi 'nta cä de pria</line>
+            </stanza>
+            <stanza type="verse">
+                <line>E 'nt'a cä de pria chi ghe saià</line>
+                <line>int'à cä du Dria che u nu l'è mainà</line>
+                <line>gente de Lûgan facce da mandillä</line>
+                <line>qui che du luassu preferiscian l'ä</line>
+                <line>figge de famiggia udù de bun</line>
+                <line>che ti peu ammiàle senza u gundun</line>
+            </stanza>
+            <stanza type="verse">
+                <line>E a 'ste panse veue cose ghe daià</line>
+                <line>cose da beive, cose da mangiä</line>
+                <line>frittûa de pigneu giancu de Purtufin</line>
+                <line>çervelle de bae 'nt'u meximu vin</line>
+                <line>lasagne da fiddià ai quattru tucchi</line>
+                <line>paciûgu in aegruduse de lévre de cuppi</line>
+            </stanza>
+            <stanza type="verse">
+                <line>E 'nt'a barca du vin ghe naveghiemu 'nsc'i scheuggi</line>
+                <line>emigranti du rìe cu'i cioi 'nt'i euggi</line>
+                <line>finché u matin crescià da puéilu rechéugge</line>
+                <line>frè di ganeuffeni e dè figge</line>
+                <line>bacan d'a corda marsa d'aegua e de sä</line>
+                <line>che a ne liga e a ne porta 'nte 'na creuza de mä.</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>Le Memorie Della Musica</title>
+            <artist>Maria Carta</artist>
+            <year>1993</year>
+            <country>Italy</country>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>Danzano, le memorie danzano</line>
+                <line>e suonano, i ricordi suonano</line>
+                <line>e cantano vecchie ninnie</line>
+                <line>vecchie madri cantano:</line>
+                <line>“Deus meu! Deus meu! No bides cantas lacrimas in musica?</line>
+                <line>Deus meu! Deus meu! Deus meu!”</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>Cantano, i ragazzi cantano (dillos antigos, duru duru de allegria)</line>
+                <line>e ballano ad occhi chiusi </line>
+                <line>disperati ballano:</line>
+                <line>“Deus meu! Deus meu! Deus meu!”</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Nella musica la voce della lacrime</line>
+                <line>nella musica la forza delle idee</line>
+                <line>è una liturgia di dolore e di allegria</line>
+                <line>questa musica, Deus meu!</line>
+                <line>Perché musica è la voce di ogni popolo</line>
+                <line>che raccoglie tutta la sua eredità </line>
+                <line>chi la canterà chi la scrive non lo sa ma nell’aria c’era già</line>
+                <line>Ninninnia… Deus meu!</line>
+            </stanza>
+            <stanza type="bridge">
+                <line>Ma si s’amore tou, s’illuminat de musica</line>
+                <line>e tando non este amore come</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Non si cullano i bambini senza musica</line>
+                <line>non si resta insieme senza una canzon</line>
+                <line>è una liturgia di dolore e di allegria che ci tiene compagnia</line>
+                <line>Sono eterne le memorie della musica </line>
+                <line>perché in fondo le canzoni siamo noi</line>
+                <line>anche se non vuoi le ritrovi prima o poi </line>
+                <line>proprio come te Deus meu</line>
+                <line>Ninnininnia… Deus meu!</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>(cantano )i bambini cantano (dillos antigos, duru duru de allegria) </line>
+                <line>e danzano ( de tamburos diliriende) le memorie danzano</line>
+                <line>e nascono nuove ninnie</line>
+                <line>che le madri imparano:</line>
+                <line>“Deus meu! Deus meu! Deus meu!”</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>Bella Ciao</title>
+            <artist>Giovanna Daffini</artist>
+            <year>1962</year>
+            <country>Italy</country>
+            <theme>political social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>Stamattina me son svegliato</line>
+                <line>O bella ciao, bella ciao,bella ciao ciao ciao</line>
+                <line>Stamattina me son svegliato</line>
+                <line>e io trovato l'invasor</line>
+            </stanza>
+            <stanza type="verse">
+                <line>O partigiano portami via</line>
+                <line>O bella ciao, bella ciao, bella ciao ciao ciao</line>
+                <line>O partigiano mi portami via</line>
+                <line>Io mi sento di morir</line>
+            </stanza>
+            <stanza type="verse">
+                <line>E se io muoio da partigiano</line>
+                <line>O bella ciao, bella ciao,bella ciao ciao ciao</line>
+                <line>E se io muoio da partigiano</line>
+                <line>Tu mi devi seppelir</line>
+            </stanza>
+            <stanza type="verse">
+                <line>E sepperlirmi lassu' n montagna</line>
+                <line>O bella ciao, bella ciao, bella ciao ciao ciao</line>
+                <line>E sepperlirmi lassu' n montagna</line>
+                <line>Sotto l'ombra d'un bel fior</line>
+            </stanza>
+            <stanza type="verse">
+                <line>E la gente che passeranno</line>
+                <line>O bella ciao, bella ciao, bella ciao ciao ciao</line>
+                <line>E la gente che passeranno</line>
+                <line>Mi diranno che bel fior</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Quest'e fiore del partigiano</line>
+                <line>O bella ciao, bella ciao, bella ciao ciao ciao</line>
+                <line>Quest'e fiore del partigiano</line>
+                <line>Morto per la liberta.</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>La mia canzone per Maria</title>
+            <artist>Lucio Battisti</artist>
+            <year>1968</year>
+            <country>Italy</country>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="chorus">
+                <line>Sento una canzone dolce in fondo al cuor</line>
+                <line>quando penso a Maria.</line>
+                <line>Sento una canzone, una canzone d'amor</line>
+                <line>quando penso a Maria.</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>Alzo il mio bicchiere rosso e brindo a te,</line>
+                <line>sento che la mente mia si accende.</line>
+                <line>Questa notte il vento porter con se'</line>
+                <line>La Mia Canzone Per Maria.</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>Sento una canzone dolce in fondo al cuor</line>
+                <line>quando penso a Rosa.</line>
+                <line>Sento una canzone, una canzone d'amor</line>
+                <line>quando penso a Rosa.</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>Alzo il mio bicchiere rosso e brindo a te,</line>
+                <line>sento che la mente mia si accende.</line>
+                <line>Questa notte il vento porter con se'</line>
+                <line>la mia canzone per Rosa.</line>
+            </stanza>
+            <stanza type="bridge">
+                <line>Quanti volti, quanti volti ha l'amore, l'amore.</line>
+                <line>Per tutti una canzone sentir.</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>Sento una canzone dolce in fondo al cuor</line>
+                <line>quando penso a Maria.</line>
+                <line>Sento una canzone, una canzone d'amor</line>
+                <line>quando penso a Rosa.</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Alzo il mio bicchiere rosso e brindo a voi,</line>
+                <line>sento che la mente mia si accende.</line>
+                <line>Questa notte il vento porter con se'</line>
+                <line>La Mia Canzone Per Maria,</line>
+                <line>la mia canzone per Rosa,</line>
+                <line>La Mia Canzone Per Maria,</line>
+                <line>la mia canzone per Rosa.</line>
+            </stanza>
+            <stanza type="coda">
+                <line>Questa notte il vento porter con se'</line>
+                <line>La Mia Canzone Per Maria.</line>
+                <line>La la la...</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>La Pulce d'Acqua</title>
+            <artist>Angelo Branduardi</artist>
+            <year>1977</year>
+            <country>Italy</country>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="chorus">
+                <line>È la pulce d'acqua</line>
+                <line>che l'ombra ti rubò</line>
+                <line>e tu ora sei malato</line>
+                <line>e la mosca d'autunno</line>
+                <line>che hai schiacciato</line>
+                <line>non ti perdonerà.</line>
+            </stanza>
+            <stanza type="bridge">
+                <line>Sull'acqua del ruscello</line>
+                <line>forse tu troppo ti sei chinato,</line>
+                <line>tu chiami la tua ombra,</line>
+                <line>ma lei non ritornerà.</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>È la pulce d'acqua</line>
+                <line>che l'ombra ti rubò</line>
+                <line>e tu ora sei malato</line>
+                <line>e la serpe verde</line>
+                <line>che hai schiacciato</line>
+                <line>non ti perdonerà.</line>
+            </stanza>
+            <stanza type="coda">
+                <line>E allora devi a lungo cantare</line>
+                <line>per farti perdonare</line>
+                <line>e la pulce d'acqua che lo sa</line>
+                <line>l'ombra ti renderà.</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>La Lionetta</title>
+            <artist>La Lionetta</artist>
+            <year>1981</year>
+            <country>Italy</country>
+            <theme>political social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>La Lioneta l'era ant'al camp,</line>
+                <line>ant’al camp ch'a la lavurava,</line>
+                <line>gentil galant ch'a la risguardava.</line>
+            </stanza>
+            <stanza type="verse">
+                <line>"Cosa risguarda gentil galant?"</line>
+                <line>- "Mi na risguardo che sì tant bela,</line>
+                <line>vuri venì cun nui a la guera.</line>
+            </stanza>
+            <stanza type="verse">
+                <line>“O Lioneta vuri venì.</line>
+                <line>Vuri venì cun nui a la guera,</line>
+                <line>mangè pan durmì per tera?</line>
+            </stanza>
+            <stanza type="verse">
+                <line>“E mi a la guera na vegnu pa,</line>
+                <line>mi voi durmì su la bianca piuma</line>
+                <line>cunfurma l'è nostra costuma".</line>
+            </stanza>
+            <stanza type="verse">
+                <line>"Nostra costuma l'è i ninsoi bianc,</line>
+                <line>ninsoi bianc d'teila d'Ulanda".</line>
+                <line>- "Sur capitani cosa cumanda?"</line>
+            </stanza>
+            <stanza type="coda">
+                <line>Suné trumbete! Suné tambur!</line>
+                <line>Suné tambur! Suné la marciada!</line>
+                <line>La Lioneta ven a l'armada.</line>
+                <line>Suné tambur! Suné la cuntradansa!</line>
+                <line>La Lioneta na intra an Fransa!</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>I Treni di Tozeur</title>
+            <artist>Franco Battiato and Alice</artist>
+            <year>1984</year>
+            <country>Italy</country>
+            <theme>regional</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>Nei villaggi di frontiera guardano passare i treni</line>
+                <line>Le strade deserte di Tozeur</line>
+                <line>Da una casa lontana tua madre mi vede</line>
+                <line>Si ricorda di me delle mie abitudini</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>E per un istante ritorna la voglia di vivere</line>
+                <line>A un'altra velocità</line>
+            </stanza>
+            <stanza type="refrain">
+                <line>Passano ancora lenti i treni per Tozeur</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Nelle chiese abbandonate si preparano rifugi</line>
+                <line>E nuove astronavi per viaggi interstellari</line>
+            </stanza>
+            <stanza type="verse">
+                <line>In una vecchia miniera distese di sale</line>
+                <line>E un ricordo di me come un incantesimo</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>E per un istante ritorna la voglia di vivere</line>
+                <line>A un'altra velocità</line>
+            </stanza>
+            <stanza type="refrain">
+                <line>Passano ancora lenti i treni per Tozeur</line>
+            </stanza>
+            <stanza type="coda">
+                <line>Nei villaggi di frontiera guardano passare</line>
+                <line>I treni per Tozeur</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>Sogna Fiore Mio</title>
+            <artist>Lucilla Galeazzi</artist>
+            <year>2002</year>
+            <country>Italy</country>
+            <theme>social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>Sogna fiore mio, sogna e riposa</line>
+                <line>Chiude sta vocca che pare na rosa</line>
+                <line>Sogna chiude gli occhi tunne tunne</line>
+                <line>Ca quanne sogni tu sogna gliu munne</line>
+                <line>Chiude gli occhi e nun parlare</line>
+                <line>Sogna gliu funne di gliu mare</line>
+                <line>Chiude gli occhi e nun ave paura</line>
+                <line>Sogna nu munne fatta a sunnature.</line>
+            </stanza>
+            <stanza type="refrain">
+                <line>Hmmmmmm</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Sogna lu ventu e sogna la tempesta</line>
+                <line>Sogna gliu mare e sogna la foresta</line>
+                <line>Ca la musica de storganetto</line>
+                <line>Te riempe ncore e te scaveta mpette</line>
+                <line>E raziulella mia nun parlare</line>
+                <line>Nun e cchiu tempe de rifiatare</line>
+                <line>Oggi hai finite de disperare</line>
+                <line>Dopedimani jamma a faticare.</line>
+            </stanza>
+            <stanza type="refrain">
+                <line>Hmmmmm</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Ch glamma da fare nu gran castelle</line>
+                <line>Piene de tante cose belle</line>
+                <line>Glamma da fare dore e dargente</line>
+                <line>Channa abitare tutta la gente</line>
+                <line>E ogni jorne sara allegria</line>
+                <line>E ci sara pure mamma mia</line>
+                <line>E la fatia nin sara cchi u amara</line>
+                <line>Pecche saremo allora tutti quanti uguale.</line>
+            </stanza>
+            <stanza type="refrain">
+                <line>Hmmmmm</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Sogna fiore mio sogna e riposa</line>
+                <line>Stocchi toi so comme li rose</line>
+                <line>Sogna tutti sti cose belle</line>
+                <line>Gliu cielo gliu mare e tutte li stelle</line>
+                <line>E sogna sogna e nun tardare</line>
+                <line>E falla subito reposare</line>
+                <line>E scegne sogne e se non vo venire</line>
+                <line>Co chesta musica falla addormire.</line>
+            </stanza>
+            <stanza type="coda">
+                <line>Falla addormire yallala yallala Lelo lelo</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>U trenu chi và in Bastia</title>
+            <artist>Tuscae Gentes</artist>
+            <year>2008</year>
+            <country>Italy</country>
+            <theme>regional</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>U trenu chi và in Bastia</line>
+                <line>hè fattu per li signori</line>
+                <line>pienghjenu li carritteri</line>
+                <line>suspiranu li pastori</line>
+                <line>per noi altri osteriaghji</line>
+                <line>sonu affanni è crepacori</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>Anghjulì lu mio Anghjulinu</line>
+                <line>pensatu n'aghjiu una cosa,</line>
+                <line>quand'ellu passa lu trenu</line>
+                <line>tiragli una mitragliosa</line>
+                <line>e' li sceffi chi so nentru</line>
+                <line>voltali à l'arritrosa</line>
+            </stanza>
+            <stanza type="verse">
+                <line>A'ch'hà inventatu lu trenu</line>
+                <line>hè statu una brutta ghigna</line>
+                <line>li ghjinga u filosserà</line>
+                <line>cum'ell'hè ghjuntu à la vigna,</line>
+                <line>li caschinu li capelli</line>
+                <line>incù la più forte tigna</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Ch'ellu piovi mesi interi</line>
+                <line>e' po empiene una pozza ch'ellu s'anneghi lu trenu</line>
+                <line>a' l'entre di Casamozza</line>
+                <line>micca pè li passegeri</line>
+                <line>ma per quellu chì li porta</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>Anghjulì lu mio Anghjulinu</line>
+                <line>datti un pocu di rimenu</line>
+                <line>vai è feghja issu catinu</line>
+                <line>s'ellu hè viotu o s'ellu hè pienu</line>
+                <line>ch'avimu da prisentallu</line>
+                <line>a' lu sceffu di lu trenu</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Un si vende più furaggi</line>
+                <line>poci pan è micca vinu</line>
+                <line>passanu le settimane</line>
+                <line>senza vende un bichjerinu</line>
+                <line>chì ci avimu più da fa</line>
+                <line>in piaghja lu mio Anghjulinu</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Anghjulì le nostre mule</line>
+                <line>portemule à lu macellu</line>
+                <line>chì lu ladru di lu trenu</line>
+                <line>passa è vende da per ellu</line>
+                <line>hè cuntentu Micaellu</line>
+                <line>ch'hà impiegatu lu fratellu</line>
+            </stanza>
+            <stanza type="verse">
+                <line>Mi vogliu fa una casetta</line>
+                <line>vicin'à Monte Rutondu</line>
+                <line>ch'ell'ùn abbiamu sentoru</line>
+                <line>mancu s'o so à stu mondu</line>
+                <line>ci vole ch'o mi ramenti</line>
+                <line>chì lu dulore hè prufondu</line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <meta>
+            <title>Amante Italiana</title>
+            <artist>Pietra Montecorvino</artist>
+            <year>2009</year>
+            <country>Italy</country>
+            <theme>regional social</theme>
+        </meta>
+        <lyrics>
+            <stanza type="verse">
+                <line>e che ci vuole a raccontare</line>
+                <line>l'amore vero e il suo contrario</line>
+                <line>l'indifferenza e il desiderio </line>
+                <line>il rosso ruggine l'azzurro cielo</line>
+                <line>tutto il mistero di un'amante italiana</line>
+                <line>con l'aggravante di essere napoletana</line>
+                <line>promesse tante ma certezze nessuna</line>
+                <line>e che ci vuole a regalarti la luna</line>
+                <line>e che ci vuole a rivelare</line>
+                <line>i sentimenti ed i veleni</line>
+            </stanza>
+            <stanza type="verse">
+                <line>ci vuole un poeta</line>
+                <line>per raccontare i primi incontri</line>
+                <line>e glòi abbandoni e le canzoni le canzoni d'amore</line>
+                <line>che chi lo sa che cosa vogliono dire</line>
+                <line>promesse tante ma certezze nessuna</line>
+                <line>e che ci vuole a regalarti la luna</line>
+                <line>la luna..</line>
+                <line>che se non t'innammori</line>
+                <line>l'odierai</line>
+                <line>ma se una voce ti conduce a lei</line>
+                <line>ritroverai tutto il</line>
+                <line>mistero di un'amante italiana</line>
+                <line>con l'aggravante di essere napoletana</line>
+            </stanza>
+            <stanza type="chorus">
+                <line>e che ci vuole a regalarti la luna</line>
+                <line>e a regalarti una promessa infinita</line>
+                <line>che puo' durare un giorno o tutta una vita</line>
+                <line>e che ci vuole a regalarti un amore</line>
+                <line>che puo' durare il tempo di una canzone</line>
+            </stanza>
+        </lyrics>
+    </song>
+</songs>

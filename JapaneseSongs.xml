@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="folkSchemaRevised_10-10.rnc" type="application/relax-ng-compact-syntax"?>
-<songs language="Japanese" country="Japan">
+<?xml-model href="folkSchemaRevised_10-20.rnc" type="application/relax-ng-compact-syntax"?>
+<songs language="Japanese">
     <song>
         <meta>
             <title>精霊流し</title>
             <artist>さだまさし</artist>
             <year>1974</year>
+            <country>Japan</country>
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -56,6 +57,7 @@
             <title>赤ちょうちん</title>
             <artist>かぐや姫</artist>
             <year>1974</year>
+            <country>Japan</country>
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -95,6 +97,7 @@
             <title>想い出の渚</title>
             <artist>ザ・ワイルド・ワンズ</artist>
             <year>1966</year>
+            <country>Japan</country>
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -124,6 +127,7 @@
             <title>東京</title>
             <artist>マイ・ペース</artist>
             <year>1974</year>
+            <country>Japan</country>
             <theme>regional social</theme>
         </meta>
         <lyrics>
@@ -162,6 +166,7 @@
             <title>涙そうそう</title>
             <artist>森山良子 BEGIN</artist>
             <year>2000</year>
+            <country>Japan</country>
             <theme>regional social</theme>
         </meta>
         <lyrics>
@@ -192,6 +197,7 @@
             <title>さとうきび畑</title>
             <artist>森山良子</artist>
             <year>1969</year>
+            <country>Japan</country>
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -300,6 +306,7 @@
             <title>山谷ブルース</title>
             <artist>岡林信康</artist>
             <year>1968</year>
+            <country>Japan</country>
             <theme>regional social</theme>
         </meta>
         <lyrics>
@@ -340,6 +347,7 @@
             <title>傘がない</title>
             <artist>井上陽水</artist>
             <year>1972</year>
+            <country>Japan</country>
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -390,6 +398,7 @@
             <title>サルビアの花</title>
             <artist>早川義夫</artist>
             <year>1969</year>
+            <country>Japan</country>
             <theme>regional social</theme>
         </meta>
         <lyrics>
@@ -424,6 +433,7 @@
             <title>戦友会</title>
             <artist>さだまさし</artist>
             <year>1991</year>
+            <country>Japan</country>
             <theme>social</theme>
         </meta>
         <lyrics>
