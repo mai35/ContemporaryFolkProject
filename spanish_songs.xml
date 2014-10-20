@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<spanish>
+<?xml-model href="folkSchemaRevised_10-20.rnc" type="application/relax-ng-compact-syntax"?>
+<songs language="spanish">
     <song>
         <meta>
             <title>Pájaro Chogüí</title>
             <artist>Julio Iglesias</artist>
             <year>1995</year>
             <country>Spain</country>
-            <language>Spanish</language>
-            <theme>social and political</theme>
+
+            <theme>political social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type="verse">
                 <line>Cuenta la leyenda que en un árbol</line>
                 <line>se encontraba encaramado</line>
                 <line>un indiecito guaraní </line>
@@ -21,14 +22,14 @@
                 <line>en chogüi se convirtió </line>
             </stanza>
 
-            <stanza>
+            <stanza type="chorus">
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
                 <line>Cantando esta volando va perdiéndose en el cielo azul turquí</line>
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
                 <line>Que lindo esta, que lindo va perdiéndose en el guaraní</line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line>Y desde aquel día se recuerda al indiecito </line>
                 <line>Cuando se oye como un eco aquel chogüi </line>
                 <line>Es el canto alegre y bullanguero </line>
@@ -37,7 +38,7 @@
                 <line>Repitiendo sin cesar </line>
             </stanza>
 
-            <stanza>
+            <stanza type="chorus">
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
                 <line>Cantando esta volando va perdiéndose en el cielo azul turquí </line>
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
@@ -51,31 +52,33 @@
             <artist>Teresa Parodi and León Gieco</artist>
             <year>1987</year>
             <country>Argentina</country>
-            <language>Spanish</language>
+
             <theme>political</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type="verse">
                 <line>A veces te imagino libre de verdad,</line>
                 <line>Cumpliendo tu destino de felicidad, </line>
                 <line>Ninguna pena adentro ni una soledad</line>
                 <line> Y es tanto ese deseo que parece real.</line>
             </stanza>
-            <stanza>
+            <stanza type="chorus">
                 <line> Aprender la lección de la historia </line>
                 <line> Debe ser no perder la memoria. </line>
+            </stanza>
+            <stanza type="chorus">
                 <line>Aprender la lección de la historia </line>
                 <line> Debe ser no perder la memoria. </line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line> Te busco en los que sueñan y los que te dan </line>
                 <line>Eternamente todo sin echarse atrás, </line>
                 <line>La gente más sencilla, la que sabe amar </line>
                 <line> Y aun tiene coraje para no callar. </line>
             </stanza>
 
-            <stanza>
+            <stanza type="chorus">
                 <line>Aprender la lección de la historia... </line>
                 <line>NUNCA MÁS</line>
             </stanza>
@@ -87,67 +90,67 @@
             <artist>Grupo Cimarrón</artist>
             <year/>
             <country/>
-            <language>Spanish</language>
-            <theme/>
+
+            <theme>social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type="verse">
                 <line>Amor, ya que te encuentro </line>
                 <line>ven que quiero saludarte </line>
                 <line>tal vez seria la suerte </line>
                 <line>que hoy se puso de mi parte </line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line>el dia que terminamos </line>
                 <line>y parti te vi llorando </line>
                 <line> crei que iba olvidarlo </line>
                 <line>y mas de ti voy recordando </line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line>yo se que te hice daño</line>
                 <line> y del adios yo fui el culpable </line>
                 <line>tal vez pedir perdon </line>
                 <line>no es suficiente o ya sea tarde </line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line> ya vez al confesarte lo </line>
                 <line>que siento estoy llorando </line>
                 <line>mi amor quiero que sepas la verdad </line>
                 <line>te sigo amando </line>
             </stanza>
 
-            <stanza>
+            <stanza type="chorus">
                 <line>No es casualidad </line>
                 <line> yo sali a buscarte </line>
                 <line> a caminar sin rumbo </line>
                 <line>queriendo encontrarte </line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line>Hoy te quiero pedir </line>
                 <line> para demostrarte </line>
                 <line>si no es imposible </line>
                 <line> otra oportunidad </line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line>el dia que terminamos</line>
                 <line> y parti te vi llorando </line>
                 <line>crei que iba olvidarlo </line>
                 <line>y mas de ti voy recordando </line>
             </stanza>
 
-            <stanza>
+            <stanza type="verse">
                 <line>ya vez al confesarte lo </line>
                 <line>que siento estoy llorando </line>
                 <line> mi amor quiero que sepas la verdad </line>
                 <line>te sigo amando </line>
             </stanza>
 
-            <stanza>
+            <stanza type="chorus">
                 <line>No es casualidad </line>
                 <line>yo sali a buscarte </line>
                 <line>a caminar sin rumbo </line>
@@ -161,32 +164,38 @@
             <artist>León Gieco</artist>
             <year>1989</year>
             <country>Argentina</country>
-            <language>Spanish</language>
-            <theme>political and regional</theme>
+
+            <theme>regional political</theme>
         </meta>
-        <lyrics><stanza><line>Yo soy del continente del miedo </line>
+        <lyrics>
+            <stanza type="verse">
+                <line>Yo soy del continente del miedo </line>
                 <line>Yo soy del continente del fuego. </line>
                 <line>Yo soy del continente del miedo</line>
                 <line>Yo soy del continente del fuego. </line>
                 <line>Continente del fuego </line>
-                <line>Juego futuro, futuro juego. </line></stanza>
-            <stanza><line>Yo soy del continente del miedo </line>
+                <line>Juego futuro, futuro juego. </line>
+            </stanza>
+            <stanza type="verse">
+                <line>Yo soy del continente del miedo </line>
                 <line>Yo soy del continente del fuego.</line>
                 <line>Tierra llena de sol y de luna</line>
                 <line>el miedo alumbra debajo de mi. </line>
                 <line>Y en esta tierra de cuerpo de fuego </line>
-                <line>el miedo del juego me hace triste asi</line></stanza></lyrics>. </song>
+                <line>el miedo del juego me hace triste asi.</line>
+            </stanza>
+        </lyrics> </song>
     <song>
         <meta>
             <title>Gracias a la vida</title>
             <artist>Joan Baez</artist>
             <year>1974</year>
             <country>USA</country>
-            <language>Spanish</language>
-            <theme>social and regional</theme>
+            
+            <theme>regional social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Gracias a la vida que me ha dado tanto.</line>
                 <line>Me dio dos luceros, que cuando los abro,</line>
                 <line>Perfecto distingo lo negro del blanco</line>
@@ -194,7 +203,7 @@
                 <line> Y en las multitudes el hombre que yo amo.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Gracias a la vida que me ha dado tanto.</line>
                 <line>Me ha dado el oido que en todo su ancho</line>
                 <line>Graba noche y dia, grillos y canarios,</line>
@@ -202,7 +211,7 @@
                 <line>Y la voz tan tierna de mi bien amado.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Gracias a la vida que me ha dado tanto.</line>
                 <line>Me ha dado el sonido y el abecedario;</line>
                 <line> Con el las palabras que pienso y declaro:</line>
@@ -210,7 +219,7 @@
                 <line>La ruta del alma del que estoy amando.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Gracias a la vida que me ha dado tanto.</line>
                 <line> Me ha dado la marcha de mis pies cansados;</line>
                 <line>Con ellos anduve ciudades y charcos,</line>
@@ -218,7 +227,7 @@
                 <line>Y la casa tuya, tu calle y tu patio.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Gracias a la vida que me ha dado tanto.</line>
                 <line>Me dio el corazon que agita su marco</line>
                 <line> Cuando miro el fruto del cerebro humano,</line>
@@ -226,7 +235,7 @@
                 <line> Cuando miro al fondo de tus ojos claros.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line> Gracias a la vida que me ha dado tanto.</line>
                 <line>Me ha dado la risa y me ha dado el llanto.</line>
                 <line>Asi yo distingo dicha de quebranto,</line>
@@ -243,11 +252,11 @@
             <artist>Charly García</artist>
             <year>1983</year>
             <country>Argentina</country>
-            <language>Spanish</language>
+
             <theme>political</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Los amigos del barrio pueden desaparecer,</line>
                 <line>los cantores de radio pueden desaparecer. </line>
                 <line> Los que están en los diarios pueden desaparecer, </line>
@@ -258,18 +267,18 @@
                 <line>pueden desaparecer en la calle.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line> Los amigos del barrio pueden desaparecer,</line>
                 <line>pero los dinosaurios van a desaparecer.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line> No estoy tranquilo, mi amor, </line>
                 <line>hoy es sábado a la noche un amigo está en cana. </line>
                 <line>Oh, mi amor, desaparece el mundo.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Si los pesados, mi amor,</line>
                 <line>llevan todo ese montón </line>
                 <line>de equipaje en la mano. </line>
@@ -287,7 +296,7 @@
             <artist>Jarcha</artist>
             <year>1976</year>
             <country>España</country>
-            <language>Spanish</language>
+
             <theme>political</theme>
         </meta>
         <lyrics>
@@ -366,8 +375,8 @@
             <artist>Silvio Rodriguez</artist>
             <year>1978</year>
             <country>Cuba</country>
-            <language>Spanish</language>
-            <theme>social and political</theme>
+
+            <theme>polictical social</theme>
         </meta>
         <lyrics>
             <stanza>
@@ -416,7 +425,7 @@
             <artist>Luis Eduardo Aute</artist>
             <year>1984</year>
             <country>Filipinas</country>
-            <language>Spanish</language>
+
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -465,7 +474,7 @@
             <artist>Fernando Delgadillo</artist>
             <year>1992</year>
             <country>México</country>
-            <language>Spanish</language>
+
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -512,4 +521,4 @@
             </stanza>
         </lyrics>
     </song>
-</spanish>
+</songs>
