@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<english>
+<?xml-model href="folkSchemaRevised_10-20.rnc" type="application/relax-ng-compact-syntax"?>
+<songs language ='english'>
     <song>
         <meta>
             <title>Where Have All the Flowers Gone?</title>
             <artist>The Kingston Trio</artist>
             <year>1961</year>
             <country>USA</country>
-            <language>English</language>
+            
             <theme> political</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Where have all the flowers gone, long time passing?</line>
                 <line>Where have all the flowers gone, long time ago?</line>
                 <line>Where have all the flowers gone?</line>
@@ -18,7 +19,7 @@
                 <line>When will they ever learn, when will they ever learn?</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Where have all the young girls gone, long time passing?</line>
                 <line>Where have all the young girls gone, long time ago?</line>
                 <line>Where have all the young girls gone?</line>
@@ -26,15 +27,15 @@
                 <line>When will they ever learn, when will they ever learn?</line>
             </stanza>
 
-            <stanza>
-                <ine>Where have all the young men gone, long time passing?</ine>
+            <stanza type='verse'>
+                <line>Where have all the young men gone, long time passing?</line>
                 <line>Where have all the young men gone, long time ago?</line>
                 <line>Where have all the young men gone?</line>
                 <line>Gone for soldiers, every one</line>
                 <line>When will they ever learn, when will they ever learn?</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>And where have all the soldiers gone, long time passing?</line>
                 <line>Where have all the soldiers gone, a long long time ago?</line>
                 <line>Where have all the soldiers gone?</line>
@@ -42,7 +43,7 @@
                 <line>When will they ever learn, when will they ever learn?</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Where have all the graveyards gone, long time passing?</line>
                 <line>Where have all the graveyards gone, long time ago?</line>
                 <line>Where have all the graveyards gone?</line>
@@ -57,18 +58,18 @@
             <artist>Simon and Garfunkel</artist>
             <year>1966</year>
             <country>UK</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>political social</theme>
         </meta>
         <lyrics>
-            <stanza>
-                <ine>Are you going to Scarborough Fair</ine>
+            <stanza type='verse'>
+                <line>Are you going to Scarborough Fair</line>
                 <line>Parsley, sage, rosemary and thyme</line>
                 <line>Remember me to one who lives there</line>
                 <line>She once was a true love of mine</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Tell her to make me a cambric shirt</line>
                 <line>(On the side of a hill in the deep forest green)</line>
                 <line>Parsley, sage, rosemary and thyme</line>
@@ -79,7 +80,7 @@
                 <line>(Sleeps unaware of the clarion call)</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Tell her to find me an acre of land</line>
                 <line>(On the side of a hill a sprinkling of leaves)</line>
                 <line>Parsley, sage, rosemary and thyme</line>
@@ -89,7 +90,7 @@
                 <line>Then she'll be a true love of mine</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Tell her to reap it with a sickle of leather</line>
                 <line> (War bellows blazing in scarlet battalions)</line>
                 <line>Parsley, sage, rosemary and thyme</line>
@@ -99,7 +100,7 @@
                 <line>Then she'll be a true love of mine</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Are you going to Scarborough Fair</line>
                 <line>Parsley, sage, rosemary and thyme</line>
                 <line>Remember me to one who lives there</line>
@@ -113,11 +114,11 @@
             <artist>Leonard Cohen</artist>
             <year>1966</year>
             <country>Canada</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Suzanne takes you down to her place near the river,</line>
                 <line>You can hear the boats go by you can spend the night beside her,</line>
                 <line>And you know that she's half crazy but that's why you wanna be there,</line>
@@ -127,14 +128,14 @@
                 <line>That you've always been her lover.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>And you want to travel with her,</line>
                 <line>And you want to travel blind,</line>
                 <line>And you know that she will trust you,</line>
                 <line>For you've touched her perfect body with your mind.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>And Jesus was a sailor when he walked upon the water,</line>
                 <line>And he spent a long time watching from his lonely wooden tower,</line>
                 <line>And when he knew for certain only drowning men could see him,</line>
@@ -143,14 +144,14 @@
                 <line>Forsaken, almost human, he sank beneath your wisdom like a stone.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>And you want to travel with him,</line>
                 <line>And you want to travel blind,</line>
                 <line>And you think maybe you'll trust him,</line>
                 <line>For he's touched your perfect body with his mind.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Now Suzanne takes your hand and she leads you to the river,</line>
                 <line>She is wearing rags and feathers from Salvation Army counters,</line>
                 <line>And the sun pours down like honey on our lady of the harbor,</line>
@@ -160,7 +161,7 @@
                 <line>While Suzanne holds the mirror.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>And you want to travel with her,</line>
                 <line>And you want to travel blind,</line>
                 <line>And you know that you can trust her,</line>
@@ -174,18 +175,18 @@
             <artist>Joni Mitchell</artist>
             <year>1970</year>
             <country>Canada</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>political social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>They paved paradise</line>
                 <line>And put up a parking lot</line>
                 <line>With a pink hotel *, a boutique</line>
                 <line>And a swinging hot spot</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Don't it always seem to go</line>
                 <line>That you don't know what you've got </line>
                 <line>Till it's gone </line>
@@ -193,14 +194,14 @@
                 <line>And put up a parking lot</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>They took all the trees</line>
                 <line>Put 'em in a tree museum *</line>
                 <line>And they charged the people</line>
                 <line>A dollar and a half just to see 'em </line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Don't it always seem to go</line>
                 <line>That you don't know what you've got</line>
                 <line>Till it's gone</line>
@@ -208,7 +209,7 @@
                 <line>And put up a parking lot</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Hey farmer farmer </line>
                 <line>Put away that DDT * now</line>
                 <line>Give me spots on my apples </line>
@@ -216,7 +217,7 @@
                 <line>Please! </line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Don't it always seem to go</line>
                 <line>That you don't know what you've got </line>
                 <line>Till it's gone </line>
@@ -224,14 +225,14 @@
                 <line>And put up a parking lot</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Late last night</line>
                 <line>I heard the screen door slam</line>
                 <line>And a big yellow taxi</line>
                 <line>Took away my old man</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Don't it always seem to go</line>
                 <line>That you don't know what you've got</line>
                 <line>Till it's gone</line>
@@ -239,9 +240,9 @@
                 <line>And put up a parking lot</line>
             </stanza>
 
-            <stanza>
-                <ine>They paved paradise</ine>
-                <ine>And put up a parking lot</ine>
+            <stanza type='chorus'>
+                <line>They paved paradise</line>
+                <line>And put up a parking lot</line>
             </stanza>
         </lyrics>
     </song>
@@ -251,31 +252,31 @@
             <artist>Steve Goodman</artist>
             <year>1971</year>
             <country>USA</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>regional social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Ridin' on the City of New Orleans</line>
                 <line>Illinois Central, Monday mornin' rail;</line>
                 <line>Fourteen cars and fourteen restless riders,</line>
                 <line>Three conductors, twenty five sacks of mail.</line>
                 <line>All along the southbound odyssey,</line>
                 <line>the train rolls out of Kankakee</line>
-                <ine>Ridin' past the houses, farms and fields,</ine>
+                <line>Ridin' past the houses, farms and fields,</line>
                 <line>Passin' trains that have no names,</line>
                 <line>freight yards full of old black men,</line>
                 <line>The graveyards of the rusted automobiles.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Good mornin' America, how are you?</line>
                 <line>Say, don't you know me? I'm your native son.</line>
                 <line>I'm the train they call the City of New Orleans.</line>
                 <line>I'll be gone five hundred miles 'fore the day is done.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Dealin' card games with the old men in the club car,</line>
                 <line>Penny a point, ain't no-one keepin' score.</line>
                 <line> Pass the paper bag that holds the bottle,</line>
@@ -286,16 +287,16 @@
                 <line>And the rythm of the rails is all they feel.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Good day, America, how are you?</line>
                 <line>Say, don't you know me? I'm your native son.</line>
                 <line>I'm the train they call the City of New Orleans.</line>
                 <line>I'll be gone five hundred miles 'fore the day is done.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Nighttime on the City of New Orleans,</line>
-                <ine>Changin' cars in Memphis, Tennessee.</ine>
+                <line>Changin' cars in Memphis, Tennessee.</line>
                 <line>Halfway home, we'll be there 'fore mornin',</line>
                 <line>Through the Mississippi darkness rollin' down to the sea.</line>
                 <line> And all the towns and people seem to fade into a bad dream,</line>
@@ -305,7 +306,7 @@
                 <line>This train's got the disappearin' railroad blues.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>Good night, America, how are you?</line>
                 <line>Say, don't you know me? I'm your native son.</line>
                 <line>I'm the train they call the City of New Orleans.</line>
@@ -320,11 +321,11 @@
             <artist>Ralph McTell</artist>
             <year>1969</year>
             <country>UK</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>regional political</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Have you seen the old man</line>
                 <line>In the closed-down market</line>
                 <line>Kicking up the paper,</line>
@@ -334,30 +335,30 @@
                 <line>Yesterday's paper telling yesterday's news </line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>So how can you tell me you're lonely,</line>
                 <line>And say for you that the sun don't shine?</line>
                 <line>Let me take you by the hand and lead you through the streets of London </line>
                 <line>I'll show you something to make you change your mind</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Have you seen the old girl </line>
                 <line>Who walks the streets of London </line>
                 <line>Dirt in her hair and her clothes in rags?</line>
                 <line> She's no time for talking,</line>
-                <ine>She just keeps right on walking </ine>
+                <line>She just keeps right on walking </line>
                 <line>Carrying her home in two carrier bags.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>So how can you tell me you're lonely,</line>
                 <line>And say for you that the sun don't shine?</line>
                 <line>Let me take you by the hand and lead you through the streets of London</line>
                 <line>I'll show you something to make you change your mind</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>In the all night cafe</line>
                 <line>At a quarter past eleven,</line>
                 <line>Same old man is sitting there on his own</line>
@@ -367,14 +368,14 @@
                 <line>Then he wanders home alone</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>So how can you tell me you're lonely,</line>
                 <line>And say for you that the sun don't shine?</line>
                 <line>Let me take you by the hand and lead you through the streets of London</line>
                 <line>I'll show you something to make you change your mind</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>And have you seen the old man</line>
                 <line>Outside the seaman's mission</line>
                 <line>Memory fading with</line>
@@ -385,7 +386,7 @@
                 <line>And a world that doesn't care</line>
             </stanza>
 
-            <stanza>
+            <stanza type='chorus'>
                 <line>So how can you tell me you're lonely, </line>
                 <line>And say for you that the sun don't shine? </line>
                 <line>Let me take you by the hand and lead you through the streets of London </line>
@@ -400,11 +401,11 @@
             <artist>Dougie MacLean and Alan Roberts</artist>
             <year>1977</year>
             <country>Scotland</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>regional social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>I don't know if you can see</line>
                 <line>The changes that have come over me.</line>
                 <line>In these last few days I've been afraid</line>
@@ -414,7 +415,7 @@
                 <line>And that's the reason why I seem</line>
                 <line>So far away today</line>
             </stanza>
-            <stanza>
+            <stanza type='chorus'>
                 <line>Oh, but let me tell you that I love you</line>
                 <line>That I think about you all the time</line>
                 <line>Caledonia you're calling me</line>
@@ -424,7 +425,7 @@
                 <line>Caledonia's been everything</line>
                 <line>I've ever had</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>Now I have moved and I've kept on moving</line>
                 <line>Proved the points that I needed proving</line>
                 <line>Lost the friends that I needed losing</line>
@@ -434,7 +435,7 @@
                 <line> I have traveled hard with coattails flying</line>
                 <line>Somewhere in the wind</line>
             </stanza>
-            <stanza>
+            <stanza type='chorus'>
                 <line>Oh, but let me tell you that I love you</line>
                 <line>That I think about you all the time</line>
                 <line>Caledonia you're calling me</line>
@@ -444,7 +445,7 @@
                 <line>Caledonia's been everything</line>
                 <line>I've ever had</line>
             </stanza>
-            <stanza>
+            <stanza type='verse'>
                 <line>Now I'm sitting here before the fire</line>
                 <line>The empty room, the forest choir</line>
                 <line>The flames that could not get any higher</line>
@@ -454,7 +455,7 @@
                 <line>When the hands are shaken and the kisses flow</line>
                 <line>Then I will disappear</line>
             </stanza>
-            <stanza>
+            <stanza type='chorus'>
                 <line>Oh, but let me tell you that I love you</line>
                 <line>That I think about you all the time</line>
                 <line>Caledonia you're calling me</line>
@@ -472,98 +473,98 @@
             <artist>Bob Dylan</artist>
             <year>1978</year>
             <country>USA</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>political social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>Gather 'round people</line>
                 <line>Wherever you roam</line>
                 <line> And admit that the waters</line>
                 <line>Around you have grown</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>And accept it that soon</line>
                 <line>You'll be drenched to the bone</line>
                 <line>If your time to you</line>
                 <line>Is worth savin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Then you better start swimmin'</line>
                 <line>Or you'll sink like a stone</line>
                 <line>For the times they are a-changin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Come writers and critics</line>
                 <line>Who prophesize with your pen</line>
                 <line>Keep your eyes wide</line>
                 <line>The chance won't come again</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Don't speak too soon</line>
                 <line>For the wheel's still in spin</line>
                 <line>And there's no tellin' who</line>
                 <line>That it's namin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>For the loser now</line>
                 <line>Will be later to win</line>
                 <line>For the times they, they are a-changin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Come senators, Congressmen</line>
                 <line>Please heed the call</line>
                 <line>Don't stand at the doorway</line>
                 <line>Don't block up the hall</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>For he that gets hurt</line>
                 <line>Will be he who has stalled</line>
                 <line>There's a battle outside</line>
                 <line>And it's ragin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>It'll soon shake your windows</line>
                 <line>And rattle your walls</line>
                 <line>For the times they are a-changin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Come mothers and fathers</line>
                 <line>Throughout the land</line>
                 <line>Don't criticize</line>
                 <line>What you can't understand</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Your sons and your daughters</line>
                 <line>Are beyond your command</line>
                 <line>Your old road is</line>
                 <line>Rapidly agin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Please get out of the new one</line>
                 <line>If you can't lend your hand</line>
                 <line>For your times they are a-changin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>The line it is drawn</line>
                 <line>And the curse it is cast</line>
                 <line>The slow one now</line>
                 <line>Will later be fast</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>As the present now</line>
                 <line>Your old road</line>
                 <line>Will later be past</line>
@@ -571,7 +572,7 @@
                 <line>Rapidly fadin'</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>And the first one now</line>
                 <line>Will later be last</line>
                 <line>For the times they are a-changin' </line>
@@ -584,18 +585,18 @@
             <artist>Buffy Sainte-Marie</artist>
             <year>1964</year>
             <country>Canada</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>political social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>He's 5 foot 2 and he's 6 feet 4</line>
                 <line>He fights with missiles and with spears</line>
                 <line>He's all of 31 and he's only 17.</line>
                 <line>He's been a soldier for a thousand years</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>He's a catholic, a Hindu, an atheist, a Jain</line>
                 <line>A Buddhist, and a Baptist and Jew.</line>
                 <line>And he knows he shouldn't kill</line>
@@ -603,7 +604,7 @@
                 <line>You'll for me my friend and me for you</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>And He's fighting for Canada.</line>
                 <line>He's fighting for France.</line>
                 <line>He's fighting for the USA.</line>
@@ -612,7 +613,7 @@
                 <line> And he thinks we'll put an end to war this way.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>And He's fighting for democracy,</line>
                 <line>He's fighting for the reds</line>
                 <line>He says it's for the peace of all.</line>
@@ -620,21 +621,21 @@
                 <line>And he never sees the writing on the wall.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>But without him,</line>
                 <line>how would Hitler have condemned him at Dachau?</line>
-                <ine>Without him Caesar would have stood alone</ine>
+                <line>Without him Caesar would have stood alone</line>
                 <line>He's the one who gives his body as a weapon of the war.</line>
                 <line>And without him all this killing can't go on</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>He's the universal soldier</line>
                 <line>And he really is the blame</line>
-                <ine>His orders comes from far away no more.</ine>
+                <line>His orders comes from far away no more.</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>They come from him.</line>
                 <line>And you and me.</line>
                 <line>And brothers can't you see.</line>
@@ -648,11 +649,11 @@
             <artist>Gordon Lightfoot</artist>
             <year>1966</year>
             <country>Canada</country>
-            <language>English</language>
-            <theme/>
+            
+            <theme>political social</theme>
         </meta>
         <lyrics>
-            <stanza>
+            <stanza type='verse'>
                 <line>In the early mornin' rain</line>
                 <line>With a dollar in my hand</line>
                 <line>And an aching in my heart</line>
@@ -663,7 +664,7 @@
                 <line>With no place to go</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Out on runway number nine</line>
                 <line>Big seven o seven set to go</line>
                 <line>Well I'm out here on the grass</line>
@@ -674,7 +675,7 @@
                 <line>She's rolling out at last</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>Hear the mighty engines roar</line>
                 <line>See the silver wing on high</line>
                 <line>She's away and westward bound</line>
@@ -685,10 +686,10 @@
                 <line>In about three hours time</line>
             </stanza>
 
-            <stanza>
+            <stanza type='verse'>
                 <line>This ol' airport's got me down</line>
                 <line>It's no earthly good to me</line>
-                <lie>Cause I'm stuck here on the ground</lie>
+                <line>Cause I'm stuck here on the ground</line>
                 <line>Cold and drunk as I might be</line>
                 <line>Can't jump a jet plane</line>
                 <line>Like you can a freight train</line>
@@ -701,4 +702,4 @@
             </stanza>
         </lyrics>
     </song>
-</english>
+</songs>
