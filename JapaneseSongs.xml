@@ -16,7 +16,7 @@
                 <line><noun cat="person" typeN="pro">あなた</noun>のために<noun cat="person" typeN="common">お友達</noun>も</line>
                 <line>集まってくれました</line>
                 <line><noun cat="person" typeN="common">二人</noun>でこさえたおそろいの</line>
-                <line><noun cat="thing" typeN="common" subtheme="cultural">浴衣</noun>も<noun cat="thing" typeN="common">今夜</noun>は<noun cat="person" typeN="common">一人</noun>で着ます</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">浴衣</noun>も<noun cat="thing" typeN="common">今夜</noun>は<noun cat="person" typeN="common">人</noun>で着ます</line>
                 <line><noun cat="thing" typeN="common" subtheme="cultural">線香花火</noun>が見えますか <noun cat="thing" typeN="common">空</noun>の上から</line>
             </stanza>
             <stanza type="chorus">
@@ -62,33 +62,33 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>あのころふたりの アパートは</line>
-                <line>裸電球 まぶしくて</line>
-                <line>貨物列車が 通ると揺れた</line>
-                <line>ふたりに似合いの 部屋でした</line>
-                <line>覚えてますか 寒い夜</line>
-                <line>赤ちょうちんに 誘われて</line>
-                <line>おでんを沢山 買いました</line>
-                <line>月に一度の ぜいたくだけど</line>
-                <line>お酒もちょっぴり 飲んだわね</line>
+                <line>あのころ<noun cat="person" typeN="common">ふたり</noun>の <noun cat="thing" typeN="common">アパート</noun>は</line>
+                <line><noun cat="thing" typeN="common">裸電球</noun> まぶしくて</line>
+                <line><noun cat="thing" typeN="common">貨物列車</noun>が 通ると揺れた</line>
+                <line><noun cat="person" typeN="common">ふたり</noun>に似合いの <noun cat="person" typeN="common">部屋</noun>でした</line>
+                <line>覚えてますか 寒い<noun cat="thing" typeN="common">夜</noun></line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">赤ちょうちん</noun>に 誘われて</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">おでん</noun>を沢山 買いました</line>
+                <line><noun cat="thing" typeN="common">月</noun>に<noun cat="thing" typeN="common">一度</noun>の ぜいたくだけど</line>
+                <line><noun cat="thing" typeN="common">お酒</noun>もちょっぴり 飲んだわね</line>
             </stanza>
             <stanza type="verse">
-                <line>雨がつづくと 仕事もせずに</line>
-                <line>キャベツばかりを かじってた</line>
-                <line>そんな生活が おかしくて</line>
-                <line>あなたの横顔 見つめてた</line>
-                <line>あなたと別れた 雨の夜</line>
-                <line>公衆電話の 箱の中</line>
-                <line>ひざをかかえて 泣きました</line>
+                <line><noun cat="thing" typeN="common">雨</noun>がつづくと <noun cat="thing" typeN="common">仕事</noun>もせずに</line>
+                <line><noun cat="thing" typeN="common">キャベツ</noun>ばかりを かじってた</line>
+                <line>そんな<noun cat="thing" typeN="common">生活</noun>が おかしくて</line>
+                <line><noun cat="person" typeN="pro">あなた</noun>の<noun cat="thing" typeN="common">横顔</noun> 見つめてた</line>
+                <line><noun cat="person" typeN="pro">あなた</noun>と別れた <noun cat="thing" typeN="common">雨</noun>の<noun cat="thing" typeN="common">夜</noun></line>
+                <line><noun cat="thing" typeN="common">公衆電話</noun>の <noun cat="thing" typeN="common">箱</noun>の<noun cat="thing" typeN="common">中</noun></line>
+                <line><noun cat="thing" typeN="common">ひざ</noun>をかかえて 泣きました</line>
                 <line>生きてることは ただそれだけで</line>
                 <line>哀しいことだと 知りました</line>
             </stanza>
             <stanza type="coda">
-                <line>今でも時々 雨の夜</line>
-                <line>赤ちょうちんも 濡れている</line>
-                <line>屋台にあなたが いるような気がします</line>
-                <line>背中丸めて サンダルはいて</line>
-                <line>ひとりで いるような気がします</line>
+                <line>今でも時々 <noun cat="thing" typeN="common">雨</noun>の<noun cat="thing" typeN="common">夜</noun></line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">赤ちょうちん</noun>も 濡れている</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">屋台</noun>に<noun cat="person" typeN="pro">あなた</noun>が いるような<noun cat="thing" typeN="common">気</noun>がします</line>
+                <line><noun cat="thing" typeN="common">背中</noun>丸めて <noun cat="thing" typeN="common">サンダル</noun>はいて</line>
+                <line><noun cat="person" typeN="pro">ひとり</noun>で いるような<noun cat="thing" typeN="common">気</noun>がします</line>
             </stanza>
         </lyrics>
     </song>
@@ -102,23 +102,23 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>君を見つけたこの渚に</line>
-                <line>一人たたずみ思い出す</line>
-                <line>小麦色した可愛いほほ</line>
+                <line><noun cat="person" typeN="pro">君</noun>を見つけたこの<noun cat="thing" typeN="common">渚</noun>に</line>
+                <line><noun cat="person" typeN="common">一人</noun>たたずみ思い出す</line>
+                <line><noun cat="thing" typeN="common">小麦色</noun>した可愛い<noun cat="thing" typeN="common">ほほ</noun></line>
                 <line>忘れはしないいつまでも</line>
-                <line>水面走る白い船</line>
-                <line>長い黒髪風になびかせ</line>
-                <line>波に向って叫んで見ても</line>
-                <line>もう帰らないあの夏の日</line>
+                <line><noun cat="thing" typeN="common">水面</noun>走る白い<noun cat="thing" typeN="common">船</noun></line>
+                <line>長い<noun cat="thing" typeN="common">黒髪</noun><noun cat="thing" typeN="common">風</noun>になびかせ</line>
+                <line><noun cat="thing" typeN="common">波</noun>に向って叫んで見ても</line>
+                <line>もう帰らないあの<noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">日</noun></line>
             </stanza>
             <stanza type="verse">
-                <line>長いまつげの大きな瞳が</line>
-                <line>僕を見つめてうるんでた</line>
-                <line>このまま二人で空の果てまで</line>
-                <line>飛んで行きたい夜だった</line>
-                <line>波に向って　叫んで見ても</line>
-                <line>もう帰らないあの夏の日</line>
-                <line>あの夏の日　あの夏の日</line>
+                <line>長い<noun cat="thing" typeN="common">まつげ</noun>の大きな<noun cat="thing" typeN="common">瞳</noun>が</line>
+                <line><noun cat="person" typeN="pro">僕</noun>を見つめてうるんでた</line>
+                <line>このまま<noun cat="person" typeN="common">二人</noun>で<noun cat="thing" typeN="common">空</noun>の果てまで</line>
+                <line>飛んで行きたい<noun cat="thing" typeN="common">夜</noun>だった</line>
+                <line><noun cat="thing" typeN="common">波</noun>に向って　叫んで見ても</line>
+                <line>もう帰らないあの<noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">日</noun></line>
+                <line>あの<noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">日</noun>　あの<noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">日</noun></line>
             </stanza>
         </lyrics>
     </song>
@@ -132,32 +132,32 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>最終電車で 君にさよなら</line>
-                <line>いつまた逢えると きいた君の言葉が</line>
-                <line>走馬燈のように めぐりながら</line>
-                <line>僕の心に火をともす</line>
-                <line>何も思わずに 電車に飛び乗り</line>
-                <line>君の東京へ東京へと 出かけました</line>
-                <line>いつもいつでも 夢と希望をもって</line>
-                <line>君は東京で 生きていました</line>
-                <line>東京へはもう何度も 行きましたね</line>
-                <line>君の住む美し都</line>
-                <line>東京へはもう何度も 行きましたね</line>
-                <line>君が咲く花の都</line>
+                <line>最終<noun cat="thing" typeN="common">電車</noun>で <noun cat="person" typeN="pro">君</noun>にさよなら</line>
+                <line>いつまた逢えると きいた<noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">言葉</noun>が</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">走馬燈</noun>のように めぐりながら</line>
+                <line><noun cat="person" typeN="pro">僕</noun>の<noun cat="thing" typeN="common">心</noun>に<noun cat="thing" typeN="common">火</noun>をともす</line>
+                <line><noun cat="thing" typeN="common">何</noun>も思わずに <noun cat="thing" typeN="common">電車</noun>に飛び乗り</line>
+                <line><noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common" subtheme="city">東京</noun>へ<noun cat="thing" typeN="common" subtheme="city">東京</noun>へと 出かけました</line>
+                <line>いつもいつでも <noun cat="idea" typeN="common">夢</noun>と<noun cat="idea" typeN="common">希望</noun>をもって</line>
+                <line><noun cat="person" typeN="pro">君</noun>は<noun cat="thing" typeN="common" subtheme="city">東京</noun>で 生きていました</line>
+                <line><noun cat="thing" typeN="common" subtheme="city">東京</noun>へはもう<noun cat="thing" typeN="common">何度</noun>も 行きましたね</line>
+                <line><noun cat="person" typeN="pro">君</noun>の住む美し<noun cat="thing" typeN="common">都</noun></line>
+                <line><noun cat="thing" typeN="common" subtheme="city">東京</noun>へはもう<noun cat="thing" typeN="common">何度</noun>も 行きましたね</line>
+                <line><noun cat="person" typeN="pro">君</noun>が咲く<noun cat="thing" typeN="common">花</noun>の<noun cat="thing" typeN="common">都</noun></line>
             </stanza>
             <stanza type="verse">
-                <line>君はいつでも やさしく微笑む</line>
-                <line>だけど心は むなしくなるばかり</line>
-                <line>いつか二人で 暮らすことを夢みて</line>
+                <line><noun cat="person" typeN="pro">君</noun>はいつでも やさしく微笑む</line>
+                <line>だけど<noun cat="thing" typeN="common">心</noun>は むなしくなるばかり</line>
+                <line>いつか<noun cat="person" typeN="common">二人</noun>で 暮らすことを夢みて</line>
                 <line>今は離れて 生きてゆこう</line>
-                <line>君に笑って さよなら言って</line>
-                <line>電車は走る遠い道を</line>
+                <line><noun cat="person" typeN="pro">君</noun>に笑って さよなら言って</line>
+                <line><noun cat="thing" typeN="common">電車</noun>は走る遠い<noun cat="thing" typeN="common">道</noun>を</line>
                 <line>あぁ今すぐにでも 戻りたいんだ</line>
-                <line>君の住む町 花の東京</line>
-                <line>東京へはもう何度も 行きましたね</line>
-                <line>君の住む美し都</line>
-                <line>東京へはもう何度も 行きましたね</line>
-                <line>君が咲く花の都</line>
+                <line><noun cat="person" typeN="pro">君</noun>の住む<noun cat="thing" typeN="common">町</noun> <noun cat="thing" typeN="common">花</noun>の<noun cat="thing" typeN="common" subtheme="city">東京</noun></line>
+                <line><noun cat="thing" typeN="common" subtheme="city">東京</noun>へはもう<noun cat="thing" typeN="common">何度</noun>も 行きましたね</line>
+                <line><noun cat="person" typeN="pro">君</noun>の住む美し<noun cat="thing" typeN="common">都</noun></line>
+                <line><noun cat="thing" typeN="common" subtheme="city">東京</noun>へはもう<noun cat="thing" typeN="common">何度</noun>も 行きましたね</line>
+                <line><noun cat="person" typeN="pro">君</noun>が咲く<noun cat="thing" typeN="common">花</noun>の<noun cat="thing" typeN="common">都</noun></line>
             </stanza>
         </lyrics>
     </song>
@@ -167,28 +167,29 @@
             <artist>森山良子 BEGIN</artist>
             <year>2000</year>
             <country>Japan</country>
+            <dialect region="Okinawa">Okinawan</dialect>
             <theme>regional social</theme>
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>古いアルバムめくり　ありがとうってつぶやいた</line>
-                <line>いつもいつも胸の中　励ましてくれる人よ</line>
-                <line>晴れ渡る日も　雨の日も　浮かぶあの笑顔</line>
-                <line>想い出遠くあせても</line>
-                <line>おもかげ探して　よみがえる日は　涙そうそう</line>
+                <line>古い<noun cat="thing" typeN="common">アルバム</noun>めくり　ありがとうってつぶやいた</line>
+                <line>いつもいつも<noun cat="thing" typeN="common">胸</noun>の中　励ましてくれる<noun cat="person" typeN="common">人</noun>よ</line>
+                <line>晴れ渡る<noun cat="thing" typeN="common">日</noun>も　<noun cat="thing" typeN="common">雨</noun>の<noun cat="thing" typeN="common">日</noun>も　浮かぶあの<noun cat="thing" typeN="common">笑顔</noun></line>
+                <line><noun cat="thing" typeN="common">想い出</noun>遠くあせても</line>
+                <line><noun cat="thing" typeN="common">おもかげ</noun>探して　よみがえる<noun cat="thing" typeN="common">日</noun>は　<noun cat="thing" typeN="common">涙</noun>そうそう</line>
             </stanza>
             <stanza type="verse">
-                <line>一番星に祈る　それが私のくせになり</line>
-                <line>夕暮れに見上げる空　心いっぱいあなた探す</line>
-                <line>悲しみにも　喜びにも　おもうあの笑顔</line>
-                <line>あなたの場所から私が</line>
+                <line>一番<noun cat="thing" typeN="common">星</noun>に祈る　それが<noun cat="person" typeN="pro">私</noun>の<noun cat="thing" typeN="common">くせ</noun>になり</line>
+                <line><noun cat="thing" typeN="common">夕暮れ</noun>に見上げる<noun cat="thing" typeN="common">空</noun>　<noun cat="thing" typeN="common">心</noun>いっぱい<noun cat="person" typeN="pro">あなた</noun>探す</line>
+                <line>悲しみにも　喜びにも　おもうあの<noun cat="thing" typeN="common">笑顔</noun></line>
+                <line><noun cat="person" typeN="pro">あなた</noun>の<noun cat="thing" typeN="common">場所</noun>から<noun cat="person" typeN="pro">私</noun>が</line>
                 <line>見えたら　きっといつか　会えると信じ　生きてゆく</line>
             </stanza>
             <stanza type="chorus">
-                <line>晴れ渡る日も　雨の日も　浮かぶあの笑顔</line>
-                <line>想い出遠くあせても</line>
-                <line>さみしくて　恋しくて　君への想い　涙そうそう</line>
-                <line>会いたくて　会いたくて　君への想い　涙そうそう</line>
+                <line>晴れ渡る<noun cat="thing" typeN="common">日</noun>も　<noun cat="thing" typeN="common">雨</noun>の<noun cat="thing" typeN="common">日</noun>も　浮かぶあの<noun cat="thing" typeN="common">笑顔</noun></line>
+                <line><noun cat="thing" typeN="common">想い出</noun>遠くあせても</line>
+                <line>さみしくて　恋しくて　<noun cat="person" typeN="pro">君</noun>への<noun cat="idea" typeN="common">想い</noun>　<noun cat="thing" typeN="common">涙</noun>そうそう</line>
+                <line>会いたくて　会いたくて　<noun cat="person" typeN="pro">君</noun>への<noun cat="idea" typeN="common">想い</noun>　<noun cat="thing" typeN="common">涙</noun>そうそう</line>
             </stanza>
         </lyrics>
     </song>
@@ -203,101 +204,101 @@
         <lyrics>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>今日もみわたすかぎりに</line>
-                <line>緑の波がうねる</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line><noun cat="thing" typeN="common">今日</noun>もみわたすかぎりに</line>
+                <line>緑の<noun cat="thing" typeN="common">波</noun>がうねる</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>むかし海の向こうから</line>
-                <line>いくさがやってきた</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line>むかし<noun cat="thing" typeN="common">海</noun>の向こうから</line>
+                <line><noun cat="thing" typeN="common" subtheme="war">いくさ</noun>がやってきた</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>あの日鉄の雨にうたれ</line>
-                <line>父は死んでいった</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line>あの<noun cat="thing" typeN="common">日</noun><noun cat="thing" typeN="common">鉄</noun>の<noun cat="thing" typeN="common">雨</noun>にうたれ</line>
+                <line><noun cat="person" typeN="common">父</noun>は死んでいった</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>そして私の生まれた日に</line>
-                <line>いくさの終わりがきた</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line>そして<noun cat="person" typeN="pro">私</noun>の生まれた<noun cat="thing" typeN="common">日</noun>に</line>
+                <line><noun cat="thing" typeN="common" subtheme="war">いくさ</noun>の終わりがきた</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>風の音にとぎれて消える</line>
-                <line>母の子守の唄</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line><noun cat="thing" typeN="common">風</noun>の<noun cat="thing" typeN="common">音</noun>にとぎれて消える</line>
+                <line><noun cat="person" typeN="common">母</noun>の<noun cat="thing" typeN="common" subtheme="cultural">子守の唄</noun></line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>知らないはずの父の手に</line>
-                <line>だかれた夢を見る</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line>知らないはずの<noun cat="person" typeN="common">父</noun>の<noun cat="thing" typeN="common">手</noun>に</line>
+                <line>だかれた<noun cat="idea" typeN="common">夢</noun>を見る</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>父の声をさがしながら</line>
-                <line>たどる畑の道</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line><noun cat="person" typeN="common">父</noun>の<noun cat="thing" typeN="common">声</noun>をさがしながら</line>
+                <line>たどる<noun cat="thing" typeN="common" subtheme="cultural">畑</noun>の<noun cat="thing" typeN="common">道</noun></line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>お父さんて呼んでみたい</line>
-                <line>お父さんどこにいるの</line>
-                <line>このまま緑の波に</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line><noun cat="person" typeN="common">お父さん</noun>て呼んでみたい</line>
+                <line><noun cat="person" typeN="common">お父さん</noun>どこにいるの</line>
+                <line>このまま緑の<noun cat="thing" typeN="common">波</noun>に</line>
                 <line>おぼれてしまいそう</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="chorus">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>広いさとうきび畑は</line>
+                <line>広い<noun cat="thing" typeN="common" subtheme="cultural">さとうきび畑</noun>は</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風が通りぬけるだけ</line>
-                <line>今日もみわたすかぎりに</line>
-                <line>緑の波がうねる</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">風</noun>が通りぬけるだけ</line>
+                <line><noun cat="thing" typeN="common">今日</noun>もみわたすかぎりに</line>
+                <line>緑の<noun cat="thing" typeN="common">波</noun>がうねる</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="verse">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>忘れられない悲しみが</line>
+                <line>忘れられない<noun cat="idea" typeN="common">悲しみ</noun>が</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>波のように押し寄せる</line>
-                <line>風よ悲しみの歌を</line>
-                <line>海に返してほしい</line>
-                <line>夏の陽ざしの中で</line>
+                <line><noun cat="thing" typeN="common">波</noun>のように押し寄せる</line>
+                <line><noun cat="thing" typeN="common">風</noun>よ悲しみの<noun cat="thing" typeN="common">歌</noun>を</line>
+                <line><noun cat="thing" typeN="common">海</noun>に返してほしい</line>
+                <line><noun cat="thing" typeN="common">夏</noun>の<noun cat="thing" typeN="common">陽ざし</noun>の中で</line>
             </stanza>
             <stanza type="coda">
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>風に涙はかわいても</line>
+                <line><noun cat="thing" typeN="common">風</noun>に<noun cat="thing" typeN="common">涙</noun>はかわいても</line>
                 <line>ざわわ　ざわわ　ざわわ</line>
-                <line>この悲しみは消えない</line>
+                <line>この<noun cat="idea" typeN="common">悲しみ</noun>は消えない</line>
             </stanza>
         </lyrics>
     </song>
@@ -307,38 +308,39 @@
             <artist>岡林信康</artist>
             <year>1968</year>
             <country>Japan</country>
+            <dialect region="Tokyo">Tokyo</dialect>
             <theme>regional social</theme>
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>今日の仕事はつらかった</line>
-                <line>あとは焼酎をあおるだけ</line>
-                <line>どうせ　どうせ山谷のドサずまい</line>
-                <line>ほかにやる事ありゃしねぇ</line>
+                <line><noun cat="thing" typeN="common">今日</noun>の<noun cat="thing" typeN="common">仕事</noun>はつらかった</line>
+                <line>あとは<noun cat="thing" typeN="common" subtheme="cultural">焼酎</noun>をあおるだけ</line>
+                <line>どうせ　どうせ<noun cat="thing" typeN="common" subtheme="area">山谷</noun>のドサずまい</line>
+                <line>ほかにやる<noun cat="thing" typeN="common">事</noun>ありゃしねぇ</line>
             </stanza>
             <stanza type="verse">
-                <line>一人酒場で飲む酒に</line>
-                <line>かえらぬ昔がなつかしい</line>
+                <line><noun cat="person" typeN="common">一人</noun><noun cat="thing" typeN="common">酒場</noun>で飲む<noun cat="thing" typeN="common">酒</noun>に</line>
+                <line>かえらぬ<noun cat="thing" typeN="common">昔</noun>がなつかしい</line>
                 <line>泣いて　泣いてみたってなんになる</line>
-                <line>今じゃ山谷がふるさとよ</line>
+                <line>今じゃ<noun cat="thing" typeN="common">山谷</noun>が<noun cat="thing" typeN="common">ふるさと</noun>よ</line>
             </stanza>
             <stanza type="verse">
-                <line>工事終ればそれっきり</line>
-                <line>お払い箱のおれ達さ</line>
-                <line>いいさ　いいさ山谷の立ちん坊</line>
-                <line>世間うらんで何になる</line>
+                <line><noun cat="thing" typeN="common">工事</noun>終ればそれっきり</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">お払い箱</noun>の<noun cat="person" typeN="pro">おれ達</noun>さ</line>
+                <line>いいさ　いいさ<noun cat="thing" typeN="common" subtheme="city">山谷</noun>の<noun cat="person" typeN="common" subtheme="cultural">立ちん坊</noun></line>
+                <line><noun cat="thing" typeN="common">世間</noun>うらんで<noun cat="thing" typeN="common">何</noun>になる</line>
             </stanza>
             <stanza type="verse">
-                <line>人は山谷を悪く言う</line>
-                <line>だけどおれ達いなくなりゃ</line>
-                <line>ビルも　ビルも道路も出来ゃしねえ</line>
-                <line>誰も分かっちゃくれねぇか</line>
+                <line><noun cat="person" typeN="common">人</noun>は<noun cat="thing" typeN="common" subtheme="city">山谷</noun>を悪く言う</line>
+                <line>だけど<noun cat="person" typeN="pro">おれ達</noun>いなくなりゃ</line>
+                <line><noun cat="thing" typeN="common">ビル</noun>も　<noun cat="thing" typeN="common">ビル</noun>も<noun cat="thing" typeN="common">道路</noun>も出来ゃしねえ</line>
+                <line><noun cat="person" typeN="common">誰</noun>も分かっちゃくれねぇか</line>
             </stanza>
             <stanza type="verse">
-                <line>だけどおれ達ゃ泣かないぜ</line>
-                <line>はたらくおれ達の世の中が</line>
+                <line>だけど<noun cat="person" typeN="pro">おれ達</noun>ゃ泣かないぜ</line>
+                <line>はたらく<noun cat="person" typeN="pro">おれ達</noun>の<noun cat="thing" typeN="common">世の中</noun>が</line>
                 <line>きっと　きっと来るさそのうちに</line>
-                <line>その日にゃ泣こうぜ　うれし泣き</line>
+                <line>その<noun cat="thing" typeN="common">日</noun>にゃ泣こうぜ　うれし泣き</line>
             </stanza>
         </lyrics>
     </song>
@@ -352,44 +354,44 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>都会では自殺する若者が増えている</line>
-                <line>今朝来た新聞の片隅に書いていた</line>
-                <line>だけども問題は今日の雨　傘がない</line>
+                <line><noun cat="thing" typeN="common">都会</noun>では自殺する<noun cat="person" typeN="common">若者</noun>が増えている</line>
+                <line><noun cat="thing" typeN="common">今朝</noun>来た<noun cat="thing" typeN="common">新聞</noun>の片隅に書いていた</line>
+                <line>だけども<noun cat="thing" typeN="common">問題</noun>は<noun cat="thing" typeN="common">今日</noun>の<noun cat="thing" typeN="common">雨</noun>　<noun cat="thing" typeN="common">傘</noun>がない</line>
             </stanza>
             <stanza type="chorus">
-                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
-                <line>君の町に行かなくちゃ　雨にぬれ</line>
+                <line>行かなくちゃ　<noun cat="person" typeN="pro">君</noun>に逢いに行かなくちゃ</line>
+                <line><noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">町</noun>に行かなくちゃ　<noun cat="thing" typeN="common">雨</noun>にぬれ</line>
             </stanza>
             <stanza type="verse">
-                <line>つめたい雨が今日は心に浸みる</line>
-                <line>君の事以外は考えられなくなる</line>
-                <line>それはいい事だろう?</line>
+                <line>つめたい<noun cat="thing" typeN="common">雨</noun>が<noun cat="thing" typeN="common">今日</noun>は<noun cat="thing" typeN="common">心</noun>に浸みる</line>
+                <line><noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">事</noun>以外は考えられなくなる</line>
+                <line>それはいい<noun cat="thing" typeN="common">事</noun>だろう?</line>
             </stanza>
             <stanza type="verse">
-                <line>テレビでは我が国の将来の問題を</line>
-                <line>誰かが深刻な顔をしてしゃべってる</line>
-                <line>だけども問題は今日の雨　傘がない</line>
+                <line><noun cat="thing" typeN="common">テレビ</noun>では<noun cat="person" typeN="pro">我が</noun><noun cat="thing" typeN="common">国</noun>の<noun cat="thing" typeN="common">将来</noun>の<noun cat="thing" typeN="common">問題</noun>を</line>
+                <line><noun cat="person" typeN="common">誰か</noun>が深刻な<noun cat="thing" typeN="common">顔</noun>をしてしゃべってる</line>
+                <line>だけども<noun cat="thing" typeN="common">問題</noun>は<noun cat="thing" typeN="common">今日</noun>の<noun cat="thing" typeN="common">雨</noun>　<noun cat="thing" typeN="common">傘</noun>がない</line>
             </stanza>
             <stanza type="chorus">
-                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
-                <line>君の家に行かなくちゃ　雨にぬれ</line>
+                <line>行かなくちゃ　<noun cat="person" typeN="pro">君</noun>に逢いに行かなくちゃ</line>
+                <line><noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">家</noun>に行かなくちゃ　<noun cat="thing" typeN="common">雨</noun>にぬれ</line>
             </stanza>
             <stanza type="verse">
-                <line>つめたい雨が僕の目の中に降る</line>
-                <line>君の事以外は何も見えなくなる</line>
-                <line>それはいい事だろう?</line>
+                <line>つめたい<noun cat="thing" typeN="common">雨</noun>が<noun cat="person" typeN="pro">僕</noun>の<noun cat="thing" typeN="common">目</noun>の中に降る</line>
+                <line><noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">事</noun>以外は<noun cat="thing" typeN="common">何</noun>も見えなくなる</line>
+                <line>それはいい<noun cat="thing" typeN="common">事</noun>だろう?</line>
             </stanza>
             <stanza type="chorus">
-                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
-                <line>君の町に行かなくちゃ　雨にぬれ</line>
+                <line>行かなくちゃ　<noun cat="person" typeN="pro">君</noun>に逢いに行かなくちゃ</line>
+                <line><noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">町</noun>に行かなくちゃ　<noun cat="thing" typeN="common">雨</noun>にぬれ</line>
             </stanza>
             <stanza type="chorus">
-                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
-                <line>君の家に行かなくちゃ　雨の中を</line>
+                <line>行かなくちゃ　<noun cat="person" typeN="pro">君</noun>に逢いに行かなくちゃ</line>
+                <line><noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">家</noun>に行かなくちゃ　<noun cat="thing" typeN="common">雨</noun>の中を</line>
             </stanza>
             <stanza type="chorus">
-                <line>行かなくちゃ　君に逢いに行かなくちゃ</line>
-                <line>雨にぬれて行かなくちゃ　傘がない</line>
+                <line>行かなくちゃ　<noun cat="person" typeN="pro">君</noun>に逢いに行かなくちゃ</line>
+                <line><noun cat="thing" typeN="common">雨</noun>にぬれて行かなくちゃ　<noun cat="thing" typeN="common">傘</noun>がない</line>
             </stanza>
         </lyrics>
     </song>
@@ -404,25 +406,25 @@
         <lyrics>
             <stanza type="verse">
                 <line>いつもいつも 思ってた</line>
-                <line>サルビアの花を あなたの部屋の中に</line>
+                <line><noun cat="thing" typeN="common" subtheme="country">サルビア</noun>の<noun cat="thing" typeN="common">花</noun>を <noun cat="person" typeN="pro">あなた</noun>の<noun cat="thing" typeN="common">部屋</noun>の中に</line>
                 <line>投げ入れたくて</line>
-                <line>そして君のベットに</line>
-                <line>サルビアの紅い花 しきつめて</line>
-                <line>僕は君を死ぬまで 抱きしめていようと</line>
+                <line>そして<noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">ベット</noun>に</line>
+                <line><noun cat="thing" typeN="common" subtheme="country">サルビア</noun>の紅い<noun cat="thing" typeN="common">花</noun> しきつめて</line>
+                <line><noun cat="person" typeN="pro">僕</noun>は<noun cat="person" typeN="pro">君</noun>を死ぬまで 抱きしめていようと</line>
             </stanza>
             <stanza type="bridge">
-                <line>なのになのに どうして他の人のところへ</line>
-                <line>僕の愛の方が すてきなのに</line>
-                <line>泣きながら 君のあとを追いかけて</line>
-                <line>花ふぶき 舞う道を</line>
-                <line>教会の鐘の音はなんてうそっぱちなのさ</line>
+                <line>なのになのに どうして他の<noun cat="person" typeN="common">人</noun>の<noun cat="thing" typeN="common">ところ</noun>へ</line>
+                <line><noun cat="person" typeN="pro">僕</noun>の<noun cat="idea" typeN="common">愛</noun>の方が すてきなのに</line>
+                <line>泣きながら <noun cat="person" typeN="pro">君</noun>のあとを追いかけて</line>
+                <line><noun cat="thing" typeN="common">花ふぶき</noun> 舞う<noun cat="thing" typeN="common">道</noun>を</line>
+                <line><noun cat="thing" typeN="common">教会</noun>の<noun cat="thing" typeN="common">鐘</noun>の<noun cat="thing" typeN="common">音</noun>はなんてうそっぱちなのさ</line>
             </stanza>
             <stanza type="verse">
-                <line>とびらを開けて 出てきた君は</line>
-                <line>偽りの花嫁</line>
-                <line>ほほをこわばらせ 僕をチラッと見た</line>
-                <line>泣きながら 君のあとを追いかけて</line>
-                <line>花ふぶき 舞う道を</line>
+                <line><noun cat="thing" typeN="common">とびら</noun>を開けて 出てきた<noun cat="person" typeN="pro">君</noun>は</line>
+                <line>偽りの<noun cat="person" typeN="common">花嫁</noun></line>
+                <line><noun cat="thing" typeN="common">ほほ</noun>をこわばらせ <noun cat="person" typeN="pro">僕</noun>をチラッと見た</line>
+                <line>泣きながら <noun cat="person" typeN="pro">君</noun>のあとを追いかけて</line>
+                <line><noun cat="thing" typeN="common">花ふぶき</noun> 舞う<noun cat="thing" typeN="common">道</noun>を</line>
                 <line>ころげながら ころげながら</line>
                 <line>走りつづけたのさ</line>
             </stanza>
@@ -438,32 +440,32 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>櫛の歯が欠けるように　仲間が減ってゆく</line>
-                <line>戦友会に出掛けた夜　おやじが呟いた</line>
-                <line>学舎でなく古の戦の友が集う</line>
-                <line>年に一度の　思えばなんて儚い祭りだろう</line>
-                <line>誰もがいつか　年老いてゆくけれど</line>
-                <line>何とも俺達の風情は</line>
-                <line>他人に玉手箱　開けられてしまった</line>
-                <line>青春の浦島たちのようだ</line>
-                <line>生命懸けておまえ達を　守ったと言わせてやれ</line>
-                <line>それを正義と言うつもりはないが　時代と片付けたくもない</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">櫛</noun>の<noun cat="thing" typeN="common">歯</noun>が欠けるように　<noun cat="person" typeN="common">仲間</noun>が減ってゆく</line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">戦友会</noun>に出掛けた<noun cat="thing" typeN="common">夜</noun>　<noun cat="person" typeN="common">おやじ</noun>が呟いた</line>
+                <line><noun cat="thing" typeN="common">学舎</noun>でなく古の<noun cat="thing" typeN="common" subtheme="war">戦</noun>の<noun cat="person" typeN="common">友</noun>が集う</line>
+                <line><noun cat="thing" typeN="common">年</noun>に<noun cat="thing" typeN="common">一度</noun>の　思えばなんて儚い<noun cat="thing" typeN="common" subtheme="cultural">祭り</noun>だろう</line>
+                <line><noun cat="person" typeN="common">誰も</noun>がいつか　年老いてゆくけれど</line>
+                <line><noun cat="thing" typeN="common">何</noun>とも<noun cat="person" typeN="pro">俺達</noun>の<noun cat="idea" typeN="common">風情</noun>は</line>
+                <line><noun cat="person" typeN="common">他人</noun>に<noun cat="thing" typeN="common" subtheme="cultural">玉手箱</noun>　開けられてしまった</line>
+                <line><noun cat="thing" typeN="common">青春</noun>の<noun cat="person" typeN="common">浦島たち</noun>のようだ</line>
+                <line><noun cat="thing" typeN="common">生命</noun>懸けて<noun cat="person" typeN="pro">おまえ達</noun>を　守ったと言わせてやれ</line>
+                <line>それを<noun cat="idea" typeN="common">正義</noun>と言うつもりはないが　<noun cat="thing" typeN="common">時代</noun>と片付けたくもない</line>
             </stanza>
             <stanza type="verse">
-                <line>今の青春を羨ましくなくもないが　替わろうかと言われても断るだろう</line>
-                <line>不幸な時代の若者たちはそれでも青春を確かに見たのだ</line>
-                <line>銃弾に倒れた友の顔を　忘れることなど出来ない</line>
-                <line>あいつの分もあいつの分もと　生きる思いは解るまい</line>
+                <line>今の<noun cat="thing" typeN="common">青春</noun>を羨ましくなくもないが　替わろうかと言われても断るだろう</line>
+                <line><noun cat="idea" typeN="common">不幸</noun>な<noun cat="thing" typeN="common">時代</noun>の<noun cat="person" typeN="common">若者たち</noun>はそれでも<noun cat="thing" typeN="common">青春</noun>を確かに見たのだ</line>
+                <line><noun cat="thing" typeN="common" subtheme="war">銃弾</noun>に倒れた<noun cat="person" typeN="common">友</noun>の<noun cat="thing" typeN="common">顔</noun>を　忘れることなど出来ない</line>
+                <line><noun cat="person" typeN="pro">あいつ</noun>の<noun cat="thing" typeN="common">分</noun>も<noun cat="person" typeN="pro">あいつ</noun>の<noun cat="thing" typeN="common">分</noun>もと　生きる<noun cat="idea" typeN="common">思い</noun>は解るまい</line>
                 <line>いつかは消えゆく　集いなのだ</line>
-                <line>冬の名残の雪なのだ</line>
+                <line><noun cat="thing" typeN="common">冬</noun>の名残の<noun cat="thing" typeN="common">雪</noun>なのだ</line>
                 <line>そして必ず　二度と必ず</line>
-                <line>降ってはならない雪なのだ</line>
-                <line>穏やかにそう言った後　息子の僕をサカナに</line>
-                <line>珍しくおやじは家で酒を呑んで　その日は早くつぶれた</line>
+                <line>降ってはならない<noun cat="thing" typeN="common">雪</noun>なのだ</line>
+                <line>穏やかにそう言った後　<noun cat="person" typeN="common">息子</noun>の<noun cat="person" typeN="pro">僕</noun>を<noun cat="thing" typeN="common">サカナ</noun>に</line>
+                <line>珍しく<noun cat="person" typeN="common">おやじ</noun>は<noun cat="thing" typeN="common">家</noun>で<noun cat="thing" typeN="common">酒</noun>を呑んで　その<noun cat="thing" typeN="common">日</noun>は早くつぶれた</line>
             </stanza>
             <stanza type="coda">
-                <line>雪が降る今日もどこかで　誰かが凍えてる</line>
-                <line>遠くでバイクの走り去る　青春が聞こえた</line>
+                <line><noun cat="thing" typeN="common">雪</noun>が降る<noun cat="thing" typeN="common">今日</noun>も<noun cat="thing" typeN="common">どこか</noun>で　<noun cat="person" typeN="common">誰か</noun>が凍えてる</line>
+                <line>遠くで<noun cat="thing" typeN="common">バイク</noun>の走り去る　<noun cat="thing" typeN="common">青春</noun>が聞こえた</line>
             </stanza>
         </lyrics>
     </song>
