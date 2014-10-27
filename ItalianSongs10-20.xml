@@ -7,42 +7,43 @@
             <artist>Fabrizio De André</artist>
             <year>1984</year>
             <country>Italy</country>
+            <dialect region="Genoa">Genovese</dialect>
             <theme>regional</theme>
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>Umbre de muri muri de mainé</line>
+                <line><noun cat="thing" typeN="common">Umbre</noun> de <noun cat="thing" typeN="common">muri</noun> <noun cat="thing" typeN="common">muri</noun> de <noun cat="person" typeN="common">mainé</noun></line>
                 <line>dunde ne vegnì duve l'è ch'ané</line>
-                <line>da 'n scitu duve a l'ûn-a a se mustra nûa</line>
-                <line>e a neutte a n'à puntou u cutellu ä gua</line>
-                <line>e a muntä l'àse gh'é restou Diu</line>
-                <line>u Diàu l'é in çë e u s'è gh'è faetu u nìu</line>
-                <line>ne sciurtìmmu da u mä pe sciugà e osse da u Dria</line>
-                <line>e a funtan-a di cumbi 'nta cä de pria</line>
+                <line>da 'n <noun cat="place" typeN="common">scitu</noun> duve a <noun cat="thing" typeN="common">l'ûn-a</noun> a se mustra nûa</line>
+                <line>e a <noun cat="thing" typeN="common">neutte</noun> a n'à puntou u <noun cat="thing" typeN="common">cutellu</noun> ä <noun cat="thing" typeN="common">gua</noun></line>
+                <line>e a muntä <noun cat="thing" typeN="common">l'àse</noun> gh'é restou <noun cat="idea" typeN="common" subtheme="religion">Diu</noun></line>
+                <line>u <noun cat="idea" typeN="common" subtheme="religion">Diàu</noun> l'é in <noun cat="thing" typeN="common">çë</noun> e u s'è gh'è faetu u <noun cat="thing" typeN="common">nìu</noun></line>
+                <line>ne sciurtìmmu da u <noun cat="thing" typeN="common">mä</noun> pe sciugà e <noun cat="thing" typeN="common">osse</noun> da u <noun cat="person" typeN="proper">Dria</noun></line>
+                <line>e a <noun cat="thing" typeN="common">funtan-a</noun> di <noun cat="thing" typeN="common">cumbi</noun> 'nta <noun cat="place" typeN="common">cä</noun> de <noun cat="thing" typeN="common">pria</noun></line>
             </stanza>
             <stanza type="verse">
-                <line>E 'nt'a cä de pria chi ghe saià</line>
-                <line>int'à cä du Dria che u nu l'è mainà</line>
-                <line>gente de Lûgan facce da mandillä</line>
-                <line>qui che du luassu preferiscian l'ä</line>
-                <line>figge de famiggia udù de bun</line>
-                <line>che ti peu ammiàle senza u gundun</line>
+                <line>E 'nt'a <noun cat="place" typeN="common">cä</noun> de <noun cat="thing" typeN="common">pria</noun> chi ghe saià</line>
+                <line>int'à <noun cat="place" typeN="common">cä</noun> du <noun cat="person" typeN="proper">Dria</noun> che u nu l'è <noun cat="person" typeN="common">mainà</noun></line>
+                <line><noun cat="person" typeN="common">gente</noun> de <noun cat="place" typeN="proper" subtheme="city">Lûgan</noun> facce da <noun cat="person" typeN="common">mandillä</noun></line>
+                <line>qui che du <noun cat="thing" typeN="common">luassu</noun> preferiscian l'ä</line>
+                <line><noun cat="person" typeN="common">figge</noun> de <noun cat="person" typeN="common">famiggia</noun> udù de <noun cat="thing" typeN="common">bun</noun></line>
+                <line>che ti peu ammiàle senza u <noun cat="thing" typeN="common">gundun</noun></line>
             </stanza>
             <stanza type="verse">
-                <line>E a 'ste panse veue cose ghe daià</line>
-                <line>cose da beive, cose da mangiä</line>
-                <line>frittûa de pigneu giancu de Purtufin</line>
-                <line>çervelle de bae 'nt'u meximu vin</line>
-                <line>lasagne da fiddià ai quattru tucchi</line>
-                <line>paciûgu in aegruduse de lévre de cuppi</line>
+                <line>E a 'ste <noun cat="thing" typeN="common">panse</noun> veue <noun cat="thing" typeN="common">cose</noun> ghe daià</line>
+                <line><noun cat="thing" typeN="common">cose</noun> da beive, <noun cat="thing" typeN="common">cose</noun> da mangiä</line>
+                <line>frittûa de <noun cat="thing" typeN="common">pigneu</noun> giancu de <noun cat="place" typeN="proper" subtheme="city">Purtufin</noun></line>
+                <line><noun cat="thing" typeN="common">çervelle</noun> de <noun cat="thing" typeN="common">bae</noun> 'nt'u meximu <noun cat="thing" typeN="common">vin</noun></line>
+                <line><noun cat="thing" typeN="common" subtheme="cultural">lasagne</noun> da fiddià ai <noun cat="thing" typeN="common">quattru</noun> <noun cat="thing" typeN="common">tucchi</noun></line>
+                <line>paciûgu in aegruduse de <noun cat="thing" typeN="common">lévre</noun> de <noun cat="thing" typeN="common">cuppi</noun></line>
             </stanza>
             <stanza type="verse">
-                <line>E 'nt'a barca du vin ghe naveghiemu 'nsc'i scheuggi</line>
-                <line>emigranti du rìe cu'i cioi 'nt'i euggi</line>
-                <line>finché u matin crescià da puéilu rechéugge</line>
-                <line>frè di ganeuffeni e dè figge</line>
-                <line>bacan d'a corda marsa d'aegua e de sä</line>
-                <line>che a ne liga e a ne porta 'nte 'na creuza de mä.</line>
+                <line>E 'nt'a <noun cat="thing" typeN="common">barca</noun> du <noun cat="thing" typeN="common">vin</noun> ghe naveghiemu 'nsc'i <noun cat="thing" typeN="common">scheuggi</noun></line>
+                <line><noun cat="person" typeN="common">emigranti</noun> du rìe cu'i <noun cat="thing" typeN="common">cioi</noun> 'nt'i <noun cat="thing" typeN="common">euggi</noun></line>
+                <line>finché u <noun cat="thing" typeN="common">matin</noun> crescià da puéilu rechéugge</line>
+                <line><noun cat="person" typeN="common">frè</noun> di <noun cat="thing" typeN="common">ganeuffeni</noun> e dè <noun cat="person" typeN="common">figge</noun></line>
+                <line><noun cat="person" typeN="common">bacan</noun> d'a <noun cat="thing" typeN="common">corda</noun> marsa d'<noun cat="thing" typeN="common">aegua</noun> e de <noun cat="thing" typeN="common">sä</noun></line>
+                <line>che a ne liga e a ne porta 'nte 'na <noun cat="thing" typeN="common" subtheme="cultural">creuza</noun> de <noun cat="thing" typeN="common">mä</noun>.</line>
             </stanza>
         </lyrics>
     </song>
