@@ -406,10 +406,10 @@
         <lyrics>
             <stanza type="verse">
                 <line>いつもいつも 思ってた</line>
-                <line><noun cat="place" typeN="common" subtheme="country">サルビア</noun>の<noun cat="thing" typeN="common">花</noun>を <noun cat="person" typeN="pro">あなた</noun>の<noun cat="place" typeN="common">部屋</noun>の中に</line>
+                <line><noun cat="place" typeN="proper" subtheme="foreign country">サルビア</noun>の<noun cat="thing" typeN="common">花</noun>を <noun cat="person" typeN="pro">あなた</noun>の<noun cat="place" typeN="common">部屋</noun>の中に</line>
                 <line>投げ入れたくて</line>
                 <line>そして<noun cat="person" typeN="pro">君</noun>の<noun cat="thing" typeN="common">ベット</noun>に</line>
-                <line><noun cat="place" typeN="common" subtheme="country">サルビア</noun>の紅い<noun cat="thing" typeN="common">花</noun> しきつめて</line>
+                <line><noun cat="place" typeN="proper" subtheme="foreign country">サルビア</noun>の紅い<noun cat="thing" typeN="common">花</noun> しきつめて</line>
                 <line><noun cat="person" typeN="pro">僕</noun>は<noun cat="person" typeN="pro">君</noun>を死ぬまで 抱きしめていようと</line>
             </stanza>
             <stanza type="bridge">
