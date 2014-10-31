@@ -16,8 +16,8 @@
                 <line>dunde ne vegnì duve l'è ch'ané</line>
                 <line>da 'n <noun cat="place" typeN="common">scitu</noun> duve a <noun cat="thing" typeN="common">l'ûn-a</noun> a se mustra nûa</line>
                 <line>e a <noun cat="thing" typeN="common">neutte</noun> a n'à puntou u <noun cat="thing" typeN="common">cutellu</noun> ä <noun cat="thing" typeN="common">gua</noun></line>
-                <line>e a muntä <noun cat="thing" typeN="common">l'àse</noun> gh'é restou <noun cat="idea" typeN="common" subtheme="religion">Diu</noun></line>
-                <line>u <noun cat="idea" typeN="common" subtheme="religion">Diàu</noun> l'é in <noun cat="thing" typeN="common">çë</noun> e u s'è gh'è faetu u <noun cat="thing" typeN="common">nìu</noun></line>
+                <line>e a muntä <noun cat="thing" typeN="common">l'àse</noun> gh'é restou <noun cat="idea" typeN="common" subtheme="religious">Diu</noun></line>
+                <line>u <noun cat="idea" typeN="common" subtheme="religious">Diàu</noun> l'é in <noun cat="thing" typeN="common">çë</noun> e u s'è gh'è faetu u <noun cat="thing" typeN="common">nìu</noun></line>
                 <line>ne sciurtìmmu da u <noun cat="thing" typeN="common">mä</noun> pe sciugà e <noun cat="thing" typeN="common">osse</noun> da u <noun cat="person" typeN="proper">Dria</noun></line>
                 <line>e a <noun cat="thing" typeN="common">funtan-a</noun> di <noun cat="thing" typeN="common">cumbi</noun> 'nta <noun cat="place" typeN="common">cä</noun> de <noun cat="thing" typeN="common">pria</noun></line>
             </stanza>
@@ -57,49 +57,49 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>Danzano, le memorie danzano</line>
-                <line>e suonano, i ricordi suonano</line>
-                <line>e cantano vecchie ninnie</line>
-                <line>vecchie madri cantano:</line>
-                <line>“Deus meu! Deus meu! No bides cantas lacrimas in musica?</line>
-                <line>Deus meu! Deus meu! Deus meu!”</line>
+                <line>Danzano, le <noun cat="thing" typeN="common">memorie</noun> danzano</line>
+                <line>e suonano, i <noun cat="thing" typeN="common">ricordi</noun> suonano</line>
+                <line>e cantano vecchie <noun cat="person" typeN="common">ninnie</noun></line>
+                <line>vecchie <noun cat="person" typeN="common">madri</noun> cantano:</line>
+                <line>“<noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! No bides cantas <noun cat="thing" typeN="common">lacrimas</noun> in <noun cat="thing" typeN="common">musica</noun>?</line>
+                <line><noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu!”</line>
             </stanza>
             <stanza type="chorus">
-                <line>Cantano, i ragazzi cantano (dillos antigos, duru duru de allegria)</line>
-                <line>e ballano ad occhi chiusi </line>
-                <line>disperati ballano:</line>
-                <line>“Deus meu! Deus meu! Deus meu!”</line>
+                <line>Cantano, i <noun cat="person" typeN="common">ragazzi</noun> cantano (dillos <noun cat="person" typeN="common">antigos</noun>, duru duru de <noun cat="idea" typeN="common">allegria</noun>)</line>
+                <line>e ballano ad <noun cat="thing" typeN="common">occhi</noun> chiusi</line>
+                <line><noun cat="person" typeN="common">disperati</noun> ballano:</line>
+                <line>“<noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu!”</line>
             </stanza>
             <stanza type="verse">
-                <line>Nella musica la voce della lacrime</line>
-                <line>nella musica la forza delle idee</line>
-                <line>è una liturgia di dolore e di allegria</line>
-                <line>questa musica, Deus meu!</line>
-                <line>Perché musica è la voce di ogni popolo</line>
-                <line>che raccoglie tutta la sua eredità </line>
-                <line>chi la canterà chi la scrive non lo sa ma nell’aria c’era già</line>
-                <line>Ninninnia… Deus meu!</line>
+                <line>Nella <noun cat="thing" typeN="common">musica</noun> la <noun cat="thing" typeN="common">voce</noun> della <noun cat="thing" typeN="common">lacrime</noun></line>
+                <line>nella <noun cat="thing" typeN="common">musica</noun> la <noun cat="idea" typeN="common">forza</noun> delle <noun cat="idea" typeN="common">idee</noun></line>
+                <line>è una <noun cat="thing" typeN="common">liturgia</noun> di <noun cat="idea" typeN="common">dolore</noun> e di <noun cat="idea" typeN="common">allegria</noun></line>
+                <line>questa <noun cat="thing" typeN="common">musica</noun>, <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu!</line>
+                <line>Perché <noun cat="thing" typeN="common">musica</noun> è la <noun cat="thing" typeN="common">voce</noun> di ogni <noun cat="person" typeN="common">popolo</noun></line>
+                <line>che raccoglie tutta la sua <noun cat="thing" typeN="common">eredità</noun></line>
+                <line>chi la <noun cat="thing" typeN="common">canterà</noun> chi la scrive non lo sa ma nell’<noun cat="thing" typeN="common">aria</noun> c’era già</line>
+                <line>Ninninnia… <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu!</line>
             </stanza>
             <stanza type="bridge">
-                <line>Ma si s’amore tou, s’illuminat de musica</line>
-                <line>e tando non este amore come</line>
+                <line>Ma si s’<noun cat="idea" typeN="common">amore</noun> tou, s’illuminat de <noun cat="thing" typeN="common">musica</noun></line>
+                <line>e tando non este <noun cat="idea" typeN="common">amore</noun> come</line>
             </stanza>
             <stanza type="verse">
-                <line>Non si cullano i bambini senza musica</line>
-                <line>non si resta insieme senza una canzon</line>
-                <line>è una liturgia di dolore e di allegria che ci tiene compagnia</line>
-                <line>Sono eterne le memorie della musica </line>
-                <line>perché in fondo le canzoni siamo noi</line>
-                <line>anche se non vuoi le ritrovi prima o poi </line>
-                <line>proprio come te Deus meu</line>
-                <line>Ninnininnia… Deus meu!</line>
+                <line>Non si cullano i <noun cat="person" typeN="common">bambini</noun> senza <noun cat="thing" typeN="common">musica</noun></line>
+                <line>non si resta insieme senza una <noun cat="thing" typeN="common">canzon</noun></line>
+                <line>è una <noun cat="thing" typeN="common">liturgia</noun> di <noun cat="idea" typeN="common">dolore</noun> e di <noun cat="idea" typeN="common">allegria</noun> che ci tiene <noun cat="person" typeN="common">compagnia</noun></line>
+                <line>Sono eterne le <noun cat="thing" typeN="common">memorie</noun> della <noun cat="thing" typeN="common">musica</noun> </line>
+                <line>perché in <noun cat="thing" typeN="common">fondo</noun> le <noun cat="thing" typeN="common">canzoni</noun> siamo <noun cat="person" typeN="pro">noi</noun></line>
+                <line>anche se non vuoi le <noun cat="thing" typeN="common">ritrovi</noun> prima o poi </line>
+                <line>proprio come <noun cat="person" typeN="pro">te</noun> <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu</line>
+                <line>Ninnininnia… <noun cat="idea" typeN="common" subtheme="religiious">Deus</noun> meu!</line>
             </stanza>
             <stanza type="chorus">
-                <line>(cantano )i bambini cantano (dillos antigos, duru duru de allegria) </line>
-                <line>e danzano ( de tamburos diliriende) le memorie danzano</line>
-                <line>e nascono nuove ninnie</line>
-                <line>che le madri imparano:</line>
-                <line>“Deus meu! Deus meu! Deus meu!”</line>
+                <line>(cantano )i <noun cat="person" typeN="common">bambini</noun> cantano (dillos <noun cat="person" typeN="common">antigos</noun>, duru duru de <noun cat="idea" typeN="common">allegria</noun>) </line>
+                <line>e danzano ( de <noun cat="thing" typeN="common">tamburos</noun> diliriende) le <noun cat="thing" typeN="common">memorie</noun> danzano</line>
+                <line>e nascono nuove <noun cat="person" typeN="common">ninnie</noun></line>
+                <line>che le <noun cat="person" typeN="common">madri</noun> imparano:</line>
+                <line>“<noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu! <noun cat="idea" typeN="common" subtheme="religious">Deus</noun> meu!”</line>
             </stanza>
         </lyrics>
     </song>
