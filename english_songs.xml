@@ -12,43 +12,43 @@
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Where have all the flowers gone, long time passing?</line>
-                <line>Where have all the flowers gone, long time ago?</line>
-                <line>Where have all the flowers gone?</line>
-                <line>Young girls pick them, every one</line>
-                <line>When will they ever learn, when will they ever learn?</line>
+                <line>Where have all the <noun cat='thing' typeN='common'>flowers</noun> gone, long time passing?</line>
+                <line>Where have all the <noun cat='thing' typeN='common'>flowers</noun> gone, long time ago?</line>
+                <line>Where have all the <noun cat='thing' typeN='common'>flowers</noun> gone?</line>
+                <line>Young <noun cat='thing' typeN='common'>girls</noun> pick <noun typeN="pro" cat="thing">them</noun>, every one</line>
+                <line>When will <noun typeN="pro" cat="person">they</noun> ever learn, when will <noun cat="person" typeN="pro">they</noun> ever learn?</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Where have all the young girls gone, long time passing?</line>
-                <line>Where have all the young girls gone, long time ago?</line>
-                <line>Where have all the young girls gone?</line>
-                <line>Gone to young men, every one</line>
-                <line>When will they ever learn, when will they ever learn?</line>
+                <line>Where have all the young <noun cat='thing' typeN='common'>girls</noun> gone, long time passing?</line>
+                <line>Where have all the young <noun cat='thing' typeN='common'>girls</noun> gone, long time ago?</line>
+                <line>Where have all the young <noun cat='thing' typeN='common'>girls</noun> gone?</line>
+                <line>Gone to young <noun cat='thing' typeN='common'>men</noun>, every <noun cat="person" typeN="pro">one</noun></line>
+                <line>When will <noun typeN="pro" cat="person">they</noun> ever learn, when will <noun cat="person" typeN="pro">they</noun> ever learn?</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Where have all the young men gone, long time passing?</line>
-                <line>Where have all the young men gone, long time ago?</line>
-                <line>Where have all the young men gone?</line>
-                <line>Gone for soldiers, every one</line>
-                <line>When will they ever learn, when will they ever learn?</line>
+                <line>Where have all the young <noun cat='thing' typeN='common'>men</noun> gone, long time passing?</line>
+                <line>Where have all the young <noun cat='thing' typeN='common'>men</noun> gone, long time ago?</line>
+                <line>Where have all the young <noun cat='thing' typeN='common'>men</noun> gone?</line>
+                <line>Gone for <noun cat='thing' typeN='common'>soldiers</noun>, every <noun typeN="pro" cat="person">one</noun></line>
+                <line>When will <noun cat="person" typeN="pro">they</noun> ever learn, when will <noun typeN="pro" cat="person">they</noun> ever learn?</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>And where have all the soldiers gone, long time passing?</line>
-                <line>Where have all the soldiers gone, a long long time ago?</line>
-                <line>Where have all the soldiers gone?</line>
-                <line>Gone to graveyards, every one</line>
-                <line>When will they ever learn, when will they ever learn?</line>
+                <line>And where have all the <noun cat='thing' typeN='common'>soldiers</noun> gone, long time passing?</line>
+                <line>Where have all the <noun cat='thing' typeN='common'>soldiers</noun> gone, a long long time ago?</line>
+                <line>Where have all the <noun cat='thing' typeN='common'>soldiers</noun> gone?</line>
+                <line>Gone to <noun cat='place' typeN='common'>graveyards</noun>, every <noun cat="person" typeN="pro">one</noun></line>
+                <line>When will <noun cat="person" typeN="pro">they</noun> ever learn, when will <noun typeN="pro" cat="person">they</noun> ever learn?</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Where have all the graveyards gone, long time passing?</line>
-                <line>Where have all the graveyards gone, long time ago?</line>
-                <line>Where have all the graveyards gone?</line>
-                <line>Gone to flowers, every one</line>
-                <line>When will they ever learn, when will they ever learn?</line>
+                <line>Where have all the <noun cat='place' typeN='common'>graveyards</noun> gone, long time passing?</line>
+                <line>Where have all the <noun cat='place' typeN='common'>graveyards</noun> gone, long time ago?</line>
+                <line>Where have all the <noun cat='place' typeN='common'>graveyards</noun> gone?</line>
+                <line>Gone to <noun cat='thing' typeN='common'>flowers</noun>, every one</line>
+                <line>When will <noun typeN="pro" cat="person">they</noun> ever learn, when will <noun cat="person" typeN="pro">they</noun> ever learn?</line>
             </stanza>
         </lyrics>
     </song>
@@ -63,48 +63,48 @@
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Are you going to Scarborough Fair</line>
-                <line>Parsley, sage, rosemary and thyme</line>
-                <line>Remember me to one who lives there</line>
-                <line>She once was a true love of mine</line>
+                <line>Are you going to <noun cat='place' typeN='proper'>Scarborough Fair</noun></line>
+                <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
+                <line>Remember <noun cat="person" typeN="pro">me</noun> to one who lives there</line>
+                <line><noun typeN="pro" cat="person">She</noun> once was a true love of mine</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Tell her to make me a cambric shirt</line>
-                <line>(On the side of a hill in the deep forest green)</line>
-                <line>Parsley, sage, rosemary and thyme</line>
-                <line>(Tracing of sparrow on snow crested ground)</line>
+                <line>Tell <noun cat="person" typeN="pro">her</noun> to make <noun typeN="pro" cat="person">me</noun> a cambric <noun cat='thing' typeN='common'>shirt</noun></line>
+                <line>(On the side of a <noun cat="thing" typeN="common">hill</noun> in the deep forest green)</line>
+                <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
+                <line>(Tracing of <noun cat='thing' typeN='common'>sparrow</noun> on snow crested <noun typeN="common" cat="place">ground</noun>)</line>
                 <line>Without no seams nor needle work</line>
-                <line>(Blankets and bedclothes the child of the mountain)</line>
+                <line>(<noun cat="thing" typeN="common">Blankets</noun> and <noun typeN="common" cat="thing">bedclothes</noun> the <noun typeN="common" cat="person">child</noun> of the mountain)</line>
                 <line>Then she'll be a true love of mine</line>
                 <line>(Sleeps unaware of the clarion call)</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Tell her to find me an acre of land</line>
+                <line>Tell <noun cat="person" typeN="pro">her</noun> to find <noun typeN="pro" cat="person">me</noun> an acre of land</line>
                 <line>(On the side of a hill a sprinkling of leaves)</line>
-                <line>Parsley, sage, rosemary and thyme</line>
-                <line>(Washes the grave with silvery tears)</line>
+                <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
+                <line>(Washes the <noun cat="thing" typeN="common">grave</noun> with silvery tears)</line>
                 <line>Between the salt water and the sea strands</line>
-                <line>(A soldier cleans and polishes a gun)</line>
+                <line>(A <noun typeN="common" cat="person">soldier</noun> cleans and polishes a <noun typeN="common" cat="thing">gun</noun>)</line>
                 <line>Then she'll be a true love of mine</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Tell her to reap it with a sickle of leather</line>
+                <line>Tell <noun cat="person" typeN="pro">her</noun> to reap it with a sickle of leather</line>
                 <line> (War bellows blazing in scarlet battalions)</line>
-                <line>Parsley, sage, rosemary and thyme</line>
-                <line>(Generals order their soldiers to kill)</line>
+                <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
+                <line>(<noun cat="person" typeN="common">Generals</noun> order their <noun cat='thing' typeN='common' >soldiers</noun> to kill)</line>
                 <line>And gather it all in a bunch of heather</line>
                 <line>(And to fight for a cause they've long ago forgotten)</line>
                 <line>Then she'll be a true love of mine</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Are you going to Scarborough Fair</line>
-                <line>Parsley, sage, rosemary and thyme</line>
-                <line>Remember me to one who lives there</line>
-                <line>She once was a true love of mine </line>
+                <line>Are you going to <noun cat='place' typeN='proper'>Scarborough Fair</noun></line>
+                <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
+                <line>Remember <noun cat="person" typeN="pro">me</noun> to one who lives there</line>
+                <line><noun typeN="pro" cat="person">She</noun> once was a true love of mine </line>
             </stanza>
         </lyrics>
     </song>
@@ -119,52 +119,52 @@
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Suzanne takes you down to her place near the river,</line>
-                <line>You can hear the boats go by you can spend the night beside her,</line>
-                <line>And you know that she's half crazy but that's why you wanna be there,</line>
-                <line>And she feeds you tea and oranges that come all the way from China,</line>
-                <line>And just when you mean to tell her that you have no love to give her,</line>
-                <line>Then she gets you on her wavelength and she lets the river answer,</line>
-                <line>That you've always been her lover.</line>
+                <line><noun cat='person' typeN='proper'>Suzanne</noun> takes <noun typeN="pro" cat="person">you</noun> down to her place near the <noun cat="place" typeN="common">river</noun>,</line>
+                <line><noun cat="person" typeN="pro">You</noun> can hear the boats go by <noun typeN="pro" cat="person">you</noun> can spend the night beside <noun typeN="pro" cat="person">her</noun>,</line>
+                <line>And <noun cat="person" typeN="pro">you</noun> know that she's half crazy but that's why <noun typeN="pro" cat="person">you</noun> wanna be there,</line>
+                <line>And <noun typeN="pro" cat="person">she</noun> feeds <noun cat="person" typeN="pro">you</noun> <noun typeN="common" cat="thing">tea</noun> and <noun cat="thing" typeN="common">oranges</noun> that come all the way from <noun cat="place" typeN="proper">China</noun>,</line>
+                <line>And just when <noun typeN="pro" cat="person">you</noun> mean to tell <noun cat="person" typeN="pro">her</noun> that <noun typeN="pro" cat="person">you</noun> have no love to give <noun cat="person" typeN="pro">her</noun>,</line>
+                <line>Then <noun typeN="pro" cat="person">she</noun> gets <noun cat="person" typeN="pro">you</noun> on her wavelength and <noun typeN="pro" cat="person">she</noun> lets the <noun cat="thing" typeN="common">river</noun> answer,</line>
+                <line>That you've always been her <noun typeN="common" cat="person">lover</noun>.</line>
             </stanza>
 
             <stanza type='chorus'>
-                <line>And you want to travel with her,</line>
-                <line>And you want to travel blind,</line>
-                <line>And you know that she will trust you,</line>
-                <line>For you've touched her perfect body with your mind.</line>
+                <line>And <noun cat="person" typeN="pro">you</noun> want to travel with <noun typeN="pro" cat="person">her</noun>,</line>
+                <line>And <noun cat="person" typeN="pro">you</noun> want to travel blind,</line>
+                <line>And <noun typeN="pro" cat="person">you</noun> know that <noun cat="person" typeN="pro">she</noun> will trust you,</line>
+                <line>For you've touched her perfect <noun typeN="common" cat="thing">body</noun> with your <noun cat="thing" typeN="common">mind</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>And Jesus was a sailor when he walked upon the water,</line>
-                <line>And he spent a long time watching from his lonely wooden tower,</line>
-                <line>And when he knew for certain only drowning men could see him,</line>
-                <line>He said "all men will be sailors then until the sea shall free them,"</line>
-                <line>But he himself was broken, long before the sky would open</line>
-                <line>Forsaken, almost human, he sank beneath your wisdom like a stone.</line>
+                <line>And <noun cat='person' typeN='proper'>Jesus</noun> was a <noun typeN="common" cat="person">sailor</noun> when <noun cat='person' typeN="pro">he</noun> walked upon the <noun cat="thing" typeN="common">water</noun>,</line>
+                <line>And <noun cat='person' typeN="pro">he</noun> spent a long time watching from <noun cat='person' typeN="pro">his</noun> lonely wooden <noun typeN="common" cat="thing">tower</noun>,</line>
+                <line>And when <noun cat='person' typeN="pro">he</noun> knew for certain only drowning <noun cat='thing' typeN='common'>men</noun> could see him,</line>
+                <line><noun cat='person' typeN="pro">He</noun> said "all <noun cat='thing' typeN='common'>men</noun> will be sailors then until the sea shall free them,"</line>
+                <line>But <noun cat='person' typeN="pro">he</noun> himself was broken, long before the <noun cat="place" typeN="common">sky</noun> would open</line>
+                <line>Forsaken, almost human, <noun cat='person' typeN="pro">he</noun> sank beneath your wisdom like a <noun typeN="common" cat="thing">stone</noun>.</line>
             </stanza>
 
             <stanza type='chorus'>
-                <line>And you want to travel with him,</line>
-                <line>And you want to travel blind,</line>
-                <line>And you think maybe you'll trust him,</line>
-                <line>For he's touched your perfect body with his mind.</line>
+                <line>And <noun cat="person" typeN="pro">you</noun> want to travel with <noun typeN="pro" cat="person">him</noun>,</line>
+                <line>And <noun cat="person" typeN="pro">you</noun> want to travel blind,</line>
+                <line>And <noun typeN="pro" cat="person">you</noun> think maybe you'll trust <noun cat="person" typeN="pro">him</noun>,</line>
+                <line>For he's touched your perfect <noun typeN="common" cat="thing">body</noun> with his <noun cat="thing" typeN="common">mind</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Now Suzanne takes your hand and she leads you to the river,</line>
-                <line>She is wearing rags and feathers from Salvation Army counters,</line>
+                <line>Now <noun cat='person' typeN='proper'>Suzanne</noun> takes your hand and <noun typeN="pro" cat="person">she</noun> leads <noun cat="person" typeN="pro">you</noun> to the <noun typeN="common" cat="place" >river</noun>,</line>
+                <line><noun cat="person" typeN="pro">She</noun> is wearing <noun typeN="common" cat="thing">rags</noun> and <noun cat="thing" typeN="common">feathers</noun> from Salvation Army counters,</line>
                 <line>And the sun pours down like honey on our lady of the harbor,</line>
-                <line>And she shows you where to look among the garbage and the flowers,</line>
+                <line>And she shows you where to look among the garbage and the <noun cat='thing' typeN='common' >flowers</noun>,</line>
                 <line>There are heroes in the seaweed, there are children in the morning,</line>
                 <line>They are leaning out for love and they will lean that way forever,</line>
-                <line>While Suzanne holds the mirror.</line>
+                <line>While <noun cat='person' typeN='proper'>Suzanne</noun> holds the mirror.</line>
             </stanza>
 
             <stanza type='chorus'>
-                <line>And you want to travel with her,</line>
+                <line>And you want to travel with <noun cat='person' typeN='pro'>her</noun>,</line>
                 <line>And you want to travel blind,</line>
-                <line>And you know that you can trust her,</line>
+                <line>And you know that you can trust <noun cat='person' typeN='pro'>her</noun>,</line>
                 <line>For she's touched your perfect body with her mind.</line>
             </stanza>
         </lyrics>
@@ -210,24 +210,24 @@
             </stanza>
 
             <stanza type='verse'>
-                <line>Hey farmer farmer </line>
+                <line>Hey <noun cat='person' typeN="common">farmer</noun> <noun cat='person' typeN="common">farmer</noun> </line>
                 <line>Put away that DDT * now</line>
-                <line>Give me spots on my apples </line>
-                <line>But leave me the birds and the bees</line>
+                <line>Give <noun cat='person' typeN="pro">me</noun> spots on my <noun cat='thing' typeN="common">apples</noun> </line>
+                <line>But leave <noun cat='person' typeN="pro">me</noun> the <noun cat="thing" typeN="common">birds</noun> and the <noun cat="thing" typeN="common">bees</noun></line>
                 <line>Please! </line>
             </stanza>
 
             <stanza type='chorus'>
                 <line>Don't it always seem to go</line>
-                <line>That you don't know what you've got </line>
+                <line>That <noun cat="person" typeN="pro">you</noun> don't know what you've got </line>
                 <line>Till it's gone </line>
-                <line>They paved paradise </line>
-                <line>And put up a parking lot</line>
+                <line><noun typeN="pro" cat="person">They</noun> paved paradise </line>
+                <line>And put up a <noun cat="place" typeN="common">parking lot</noun></line>
             </stanza>
 
             <stanza type='verse'>
                 <line>Late last night</line>
-                <line>I heard the screen door slam</line>
+                <line><noun typeN="pro" cat="person">I</noun> heard the screen door slam</line>
                 <line>And a big yellow taxi</line>
                 <line>Took away my old man</line>
             </stanza>
@@ -237,12 +237,12 @@
                 <line>That you don't know what you've got</line>
                 <line>Till it's gone</line>
                 <line>They paved paradise</line>
-                <line>And put up a parking lot</line>
+                <line>And put up a <noun cat="place" typeN="common">parking lot</noun></line>
             </stanza>
 
             <stanza type='chorus'>
                 <line>They paved paradise</line>
-                <line>And put up a parking lot</line>
+                <line>And put up a <noun typeN="common" cat="place">parking lot</noun></line>
             </stanza>
         </lyrics>
     </song>
@@ -265,8 +265,8 @@
                 <line>the train rolls out of Kankakee</line>
                 <line>Ridin' past the houses, farms and fields,</line>
                 <line>Passin' trains that have no names,</line>
-                <line>freight yards full of old black men,</line>
-                <line>The graveyards of the rusted automobiles.</line>
+                <line>freight yards full of old black <noun cat='thing' typeN='common' >men</noun>,</line>
+                <line>The <noun cat='place' typeN='common'>graveyards</noun> of the rusted automobiles.</line>
             </stanza>
 
             <stanza type='chorus'>
@@ -277,7 +277,7 @@
             </stanza>
 
             <stanza type='verse'>
-                <line>Dealin' card games with the old men in the club car,</line>
+                <line>Dealin' card games with the old <noun cat='thing' typeN='common' >men</noun> in the club car,</line>
                 <line>Penny a point, ain't no-one keepin' score.</line>
                 <line> Pass the paper bag that holds the bottle,</line>
                 <line>Feel the wheels a-rumblin' 'neath the floor.</line>
@@ -518,7 +518,7 @@
             </stanza>
 
             <stanza type='verse'>
-                <line>Come senators, Congressmen</line>
+                <line>Come senators, Congress<noun cat='thing' typeN='common' >men</noun></line>
                 <line>Please heed the call</line>
                 <line>Don't stand at the doorway</line>
                 <line>Don't block up the hall</line>
@@ -668,9 +668,9 @@
                 <line>Out on runway number nine</line>
                 <line>Big seven o seven set to go</line>
                 <line>Well I'm out here on the grass</line>
-                <line>Where the pavement never grows</line>
+                <line>Where the pave<noun cat='thing' typeN='common' >men</noun>t never grows</line>
                 <line>Where the liquor tasted good</line>
-                <line>And the women all were fast</line>
+                <line>And the wo<noun cat='thing' typeN='common' >men</noun> all were fast</line>
                 <line>There she goes my friend</line>
                 <line>She's rolling out at last</line>
             </stanza>
