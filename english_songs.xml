@@ -15,7 +15,7 @@
                 <line>Where have all the <noun cat='thing' typeN='common'>flowers</noun> gone, long time passing?</line>
                 <line>Where have all the <noun cat='thing' typeN='common'>flowers</noun> gone, long time ago?</line>
                 <line>Where have all the <noun cat='thing' typeN='common'>flowers</noun> gone?</line>
-                <line>Young <noun cat='thing' typeN='common'>girls</noun> pick <noun typeN="pro" cat="thing">them</noun>, every one</line>
+                <line>Young <noun cat='thing' typeN='common'>girls</noun> pick <noun typeN="pro" cat="thing">them</noun>, every <noun typeN="pro" cat="person">one</noun></line>
                 <line>When will <noun typeN="pro" cat="person">they</noun> ever learn, when will <noun cat="person" typeN="pro">they</noun> ever learn?</line>
             </stanza>
 
@@ -47,7 +47,7 @@
                 <line>Where have all the <noun cat='place' typeN='common'>graveyards</noun> gone, long time passing?</line>
                 <line>Where have all the <noun cat='place' typeN='common'>graveyards</noun> gone, long time ago?</line>
                 <line>Where have all the <noun cat='place' typeN='common'>graveyards</noun> gone?</line>
-                <line>Gone to <noun cat='thing' typeN='common'>flowers</noun>, every one</line>
+                <line>Gone to <noun cat='thing' typeN='common'>flowers</noun>, every <noun cat="person" typeN="pro">one</noun></line>
                 <line>When will <noun typeN="pro" cat="person">they</noun> ever learn, when will <noun cat="person" typeN="pro">they</noun> ever learn?</line>
             </stanza>
         </lyrics>
@@ -65,29 +65,29 @@
             <stanza type='verse'>
                 <line>Are you going to <noun cat='place' typeN='proper'>Scarborough Fair</noun></line>
                 <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
-                <line>Remember <noun cat="person" typeN="pro">me</noun> to one who lives there</line>
+                <line>Remember <noun cat="person" typeN="pro">me</noun> to <noun typeN="pro" cat="person">one</noun> who lives there</line>
                 <line><noun typeN="pro" cat="person">She</noun> once was a true love of mine</line>
             </stanza>
 
             <stanza type='verse'>
                 <line>Tell <noun cat="person" typeN="pro">her</noun> to make <noun typeN="pro" cat="person">me</noun> a cambric <noun cat='thing' typeN='common'>shirt</noun></line>
-                <line>(On the side of a <noun cat="thing" typeN="common">hill</noun> in the deep forest green)</line>
+                <line>(On the <noun cat="place" typeN="common">side</noun> of a <noun cat="thing" typeN="common">hill</noun> in the deep forest green)</line>
                 <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
                 <line>(Tracing of <noun cat='thing' typeN='common'>sparrow</noun> on snow crested <noun typeN="common" cat="place">ground</noun>)</line>
-                <line>Without no seams nor needle work</line>
-                <line>(<noun cat="thing" typeN="common">Blankets</noun> and <noun typeN="common" cat="thing">bedclothes</noun> the <noun typeN="common" cat="person">child</noun> of the mountain)</line>
-                <line>Then she'll be a true love of mine</line>
-                <line>(Sleeps unaware of the clarion call)</line>
+                <line>Without no <noun typeN="common" cat="thing">seams</noun> nor <noun cat="thing" typeN="common">needle work</noun></line>
+                <line>(<noun cat="thing" typeN="common">Blankets</noun> and <noun typeN="common" cat="thing">bedclothes</noun> the <noun typeN="common" cat="person">child</noun> of the <noun cat="place" typeN="common">mountain</noun>)</line>
+                <line>Then <noun typeN="pro" cat="person">she</noun>'ll be a true love of mine</line>
+                <line>(Sleeps unaware of the clarion <noun cat="thing" typeN="common">call</noun>)</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Tell <noun cat="person" typeN="pro">her</noun> to find <noun typeN="pro" cat="person">me</noun> an acre of land</line>
-                <line>(On the side of a hill a sprinkling of leaves)</line>
+                <line>Tell <noun cat="person" typeN="pro">her</noun> to find <noun typeN="pro" cat="person">me</noun> an acre of <noun typeN="common" cat="thing">land</noun></line>
+                <line>(On the <noun cat="thing" typeN="common">side</noun> of a <noun typeN="common" cat="thing">hill</noun> a sprinkling of <noun cat="thing" typeN="common">leaves</noun>)</line>
                 <line><noun cat='thing' typeN='common'>Parsley</noun>, <noun cat='thing' typeN='common'>sage</noun>, <noun cat='thing' typeN='common'>rosemary</noun> and <noun cat='thing' typeN='common'>thyme</noun></line>
-                <line>(Washes the <noun cat="thing" typeN="common">grave</noun> with silvery tears)</line>
-                <line>Between the salt water and the sea strands</line>
+                <line>(Washes the <noun cat="thing" typeN="common">grave</noun> with silvery <noun typeN="common" cat="thing">tears</noun>)</line>
+                <line>Between the <noun cat="thing" typeN="common">salt water</noun> and the <noun cat="thing" typeN="common">sea strands</noun></line>
                 <line>(A <noun typeN="common" cat="person">soldier</noun> cleans and polishes a <noun typeN="common" cat="thing">gun</noun>)</line>
-                <line>Then she'll be a true love of mine</line>
+                <line>Then <noun typeN="pro" cat="person">she</noun>'ll be a true love of mine</line>
             </stanza>
 
             <stanza type='verse'>
@@ -97,7 +97,7 @@
                 <line>(<noun cat="person" typeN="common">Generals</noun> order their <noun cat='thing' typeN='common' >soldiers</noun> to kill)</line>
                 <line>And gather it all in a bunch of heather</line>
                 <line>(And to fight for a cause they've long ago forgotten)</line>
-                <line>Then she'll be a true love of mine</line>
+                <line>Then <noun typeN="pro" cat="person">she</noun>'ll be a true love of mine</line>
             </stanza>
 
             <stanza type='verse'>
@@ -132,7 +132,7 @@
                 <line>And <noun cat="person" typeN="pro">you</noun> want to travel with <noun typeN="pro" cat="person">her</noun>,</line>
                 <line>And <noun cat="person" typeN="pro">you</noun> want to travel blind,</line>
                 <line>And <noun typeN="pro" cat="person">you</noun> know that <noun cat="person" typeN="pro">she</noun> will trust you,</line>
-                <line>For you've touched her perfect <noun typeN="common" cat="thing">body</noun> with your <noun cat="thing" typeN="common">mind</noun>.</line>
+                <line>For <noun typeN="pro" cat="person">you</noun>'ve touched her perfect <noun typeN="common" cat="thing">body</noun> with your <noun cat="thing" typeN="common">mind</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
@@ -148,24 +148,24 @@
                 <line>And <noun cat="person" typeN="pro">you</noun> want to travel with <noun typeN="pro" cat="person">him</noun>,</line>
                 <line>And <noun cat="person" typeN="pro">you</noun> want to travel blind,</line>
                 <line>And <noun typeN="pro" cat="person">you</noun> think maybe you'll trust <noun cat="person" typeN="pro">him</noun>,</line>
-                <line>For he's touched your perfect <noun typeN="common" cat="thing">body</noun> with his <noun cat="thing" typeN="common">mind</noun>.</line>
+                <line>For <noun cat="person" typeN="pro">he</noun>'s touched your perfect <noun typeN="common" cat="thing">body</noun> with his <noun cat="thing" typeN="common">mind</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
                 <line>Now <noun cat='person' typeN='proper'>Suzanne</noun> takes your hand and <noun typeN="pro" cat="person">she</noun> leads <noun cat="person" typeN="pro">you</noun> to the <noun typeN="common" cat="place" >river</noun>,</line>
                 <line><noun cat="person" typeN="pro">She</noun> is wearing <noun typeN="common" cat="thing">rags</noun> and <noun cat="thing" typeN="common">feathers</noun> from Salvation Army counters,</line>
-                <line>And the sun pours down like honey on our lady of the harbor,</line>
+                <line>And the <noun cat="thing" typeN="common">sun</noun> pours down like honey on our lady of the harbor,</line>
                 <line>And she shows you where to look among the garbage and the <noun cat='thing' typeN='common' >flowers</noun>,</line>
                 <line>There are heroes in the seaweed, there are children in the morning,</line>
                 <line>They are leaning out for love and they will lean that way forever,</line>
-                <line>While <noun cat='person' typeN='proper'>Suzanne</noun> holds the mirror.</line>
+                <line>While <noun cat='person' typeN='proper'>Suzanne</noun> holds the <noun typeN="common" cat="thing">mirror</noun>.</line>
             </stanza>
 
             <stanza type='chorus'>
-                <line>And you want to travel with <noun cat='person' typeN='pro'>her</noun>,</line>
-                <line>And you want to travel blind,</line>
-                <line>And you know that you can trust <noun cat='person' typeN='pro'>her</noun>,</line>
-                <line>For she's touched your perfect body with her mind.</line>
+                <line>And <noun typeN="pro" cat="person">you</noun> want to travel with <noun cat='person' typeN='pro'>her</noun>,</line>
+                <line>And <noun cat="person" typeN="pro">you</noun> want to travel blind,</line>
+                <line>And <noun typeN="pro" cat="person">you</noun> know that <noun cat="person" typeN="pro">you</noun> can trust <noun cat='person' typeN='pro'>her</noun>,</line>
+                <line>For <noun cat="person" typeN="pro">she</noun>'s touched your perfect <noun typeN="common" cat="thing">body</noun> with her <noun typeN="common" cat="thing">mind</noun>.</line>
             </stanza>
         </lyrics>
     </song>
@@ -665,40 +665,40 @@
             </stanza>
 
             <stanza type='verse'>
-                <line>Out on runway number nine</line>
-                <line>Big seven o seven set to go</line>
-                <line>Well I'm out here on the grass</line>
-                <line>Where the pave<noun cat='thing' typeN='common' >men</noun>t never grows</line>
-                <line>Where the liquor tasted good</line>
-                <line>And the wo<noun cat='thing' typeN='common' >men</noun> all were fast</line>
-                <line>There she goes my friend</line>
-                <line>She's rolling out at last</line>
+                <line>Out on <noun typeN="common" cat="place">runway</noun> number nine</line>
+                <line>Big <noun cat="thing" typeN="common">seven o seven</noun> set to go</line>
+                <line>Well <noun typeN="pro" cat="person">I</noun>'m out here on the <noun cat="place" typeN="common">grass</noun></line>
+                <line>Where the <noun cat="thing" typeN="common">pavement</noun> never grows</line>
+                <line>Where the <noun typeN="common" cat="thing">liquor</noun> tasted good</line>
+                <line>And the <noun cat='thing' typeN='common' >women</noun> all were fast</line>
+                <line>There <noun typeN="pro" cat="person">she</noun> goes my <noun cat="person" typeN="common">friend</noun></line>
+                <line><noun cat="person" typeN="pro">She</noun>'s rolling out at last</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Hear the mighty engines roar</line>
-                <line>See the silver wing on high</line>
-                <line>She's away and westward bound</line>
-                <line>For above the clouds she flies</line>
-                <line>Where the mornin' rain don't fall</line>
-                <line>And the sun always shines</line>
-                <line>She'll be flying over my home</line>
-                <line>In about three hours time</line>
+                <line>Hear the mighty <noun cat="thing" typeN="common">engines</noun> roar</line>
+                <line>See the silver <noun typeN="common" cat="thing">wing</noun> on high</line>
+                <line><noun typeN="pro" cat="person">She</noun>'s away and westward bound</line>
+                <line>For above the <noun typeN="common" cat="thing">clouds</noun> <noun cat="person" typeN="pro">she</noun> flies</line>
+                <line>Where the <noun cat="thing" typeN="common">mornin' rain</noun> don't fall</line>
+                <line>And the <noun typeN="common" cat="thing">sun</noun> always shines</line>
+                <line><noun cat="person" typeN="pro">She</noun>'ll be flying over my <noun typeN="common" cat="place">home</noun></line>
+                <line>In about three hours <noun cat="idea" typeN="common">time</noun></line>
             </stanza>
 
             <stanza type='verse'>
-                <line>This ol' airport's got me down</line>
-                <line>It's no earthly good to me</line>
-                <line>Cause I'm stuck here on the ground</line>
-                <line>Cold and drunk as I might be</line>
-                <line>Can't jump a jet plane</line>
-                <line>Like you can a freight train</line>
-                <line>So I best be on my way</line>
-                <line>In the early mornin' rain</line>
-                <line>So I best be on my way</line>
-                <line>In the early mornin' rain</line>
-                <line>So I best be on my way</line>
-                <line>In the early mornin' rain</line>
+                <line>This ol' <noun typeN="common" cat="place">airport</noun>'s got <noun typeN="pro" cat="person">me</noun> down</line>
+                <line>It's no earthly <noun cat="idea" typeN="common">good</noun> to <noun cat="person" typeN="pro">me</noun></line>
+                <line>Cause <noun typeN="pro" cat="person">I</noun>'m stuck here on the <noun cat="place" typeN="common">ground</noun></line>
+                <line>Cold and drunk as <noun typeN="pro" cat="person">I</noun> might be</line>
+                <line>Can't jump a <noun typeN="common" cat="thing">jet plane</noun></line>
+                <line>Like <noun typeN="pro" cat="person">you</noun> can a <noun cat="thing" typeN="common">freight train</noun></line>
+                <line>So <noun cat="person" typeN="pro">I</noun> best be on my <noun cat="idea" typeN="common">way</noun></line>
+                <line>In the early <noun typeN="common" cat="thing">mornin' rain</noun></line>
+                <line>So <noun typeN="pro" cat="person">I</noun> best be on my <noun typeN="common" cat="idea">way</noun></line>
+                <line>In the early <noun cat="thing" typeN="common">mornin' rain</noun></line>
+                <line>So <noun cat="person" typeN="pro">I</noun> best be on my <noun cat="idea" typeN="common">way</noun></line>
+                <line>In the early <noun typeN="common" cat="thing">mornin' rain</noun></line>
             </stanza>
         </lyrics>
     </song>

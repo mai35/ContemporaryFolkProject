@@ -1,0 +1,32 @@
+body{
+    background-color:#444444;
+    text-align:center;
+}
+#naveMenu ul{
+    font-family: georgia;
+    margin: auto;
+    width:610px;
+    list-style-type:none;
+    text-align:center;
+    background-color:#FF8822;
+    height: 40px;
+    position:relative;
+    padding-top:10px;
+    margin-bottom: 5px;
+}
+#navMenu ul li{
+    display:block;
+    text-align:center;
+    float:left;
+}
+#navMenu ul li a{
+    text-decoration:none;
+    padding:.005em 1em; 
+    color:white;
+    text-align:center;
+    display:block;
+}
+#navMenu ul li a:hover{
+    color:#FFED67;
+    text-align:center;
+}
