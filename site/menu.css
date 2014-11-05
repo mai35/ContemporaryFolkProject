@@ -1,14 +1,22 @@
 body{
-    background-color:#444444;
+    color:white;
+    font-family:Zapf-Chancery, cursive, sans-serif;
+    font-size: 150%;
     text-align:center;
+    padding-top:25px;
+    padding-bottom:30px; 
+    margin-top: 320px;
+    background-image: url('redbackground.jpg');
+    background-size: 100%
 }
 #naveMenu ul{
-    font-family: georgia;
-    margin: auto;
+    font-family:Zapf-Chancery, cursive, sans-serif;
+    font-size: 150%;
+    margin:0 auto;
     width:610px;
     list-style-type:none;
     text-align:center;
-    background-color:#FF8822;
+    background-color:#EDECE1;
     height: 40px;
     position:relative;
     padding-top:10px;
@@ -27,6 +35,6 @@ body{
     display:block;
 }
 #navMenu ul li a:hover{
-    color:#FFED67;
+    color:#C9C7B9;
     text-align:center;
 }
