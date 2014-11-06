@@ -3,12 +3,13 @@ body{
     font-family:Zapf-Chancery, cursive, sans-serif;
     font-size: 115%;
     text-align:center;
-    padding-top:25px;
+    padding-top:15px;
     padding-bottom:30px;
     background-image: url('redbackground.jpg');
     background-size: 100%;
-    margin-top: 320px;
+    margin-top: 5px;
 }
+img{width:1250px; height:175px}
 h1{
      color:#EDECE1;
      font-weight:bold;
