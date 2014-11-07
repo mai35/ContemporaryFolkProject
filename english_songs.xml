@@ -7,8 +7,7 @@
             <artist>The Kingston Trio</artist>
             <year>1961</year>
             <country>USA</country>
-            
-            <theme> political</theme>
+            <theme>political</theme>
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -58,7 +57,6 @@
             <artist>Simon and Garfunkel</artist>
             <year>1966</year>
             <country>UK</country>
-            
             <theme>political social</theme>
         </meta>
         <lyrics>
@@ -114,7 +112,6 @@
             <artist>Leonard Cohen</artist>
             <year>1966</year>
             <country>Canada</country>
-            
             <theme>social</theme>
         </meta>
         <lyrics>
@@ -175,7 +172,6 @@
             <artist>Joni Mitchell</artist>
             <year>1970</year>
             <country>Canada</country>
-            
             <theme>political social</theme>
         </meta>
         <lyrics>
@@ -228,8 +224,8 @@
             <stanza type='verse'>
                 <line>Late last night</line>
                 <line><noun typeN="pro" cat="person">I</noun> heard the screen door slam</line>
-                <line>And a big yellow taxi</line>
-                <line>Took away my old man</line>
+                <line>And a big <noun typeN="common" cat="thing" subtheme="cultural">yellow taxi</noun></line>
+                <line>Took away my <noun cat="person" typeN="common">old man</noun></line>
             </stanza>
 
             <stanza type='chorus'>
@@ -252,20 +248,19 @@
             <artist>Steve Goodman</artist>
             <year>1971</year>
             <country>USA</country>
-            
             <theme>regional social</theme>
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Ridin' on the City of New Orleans</line>
+                <line>Ridin' on the <noun cat="thing" typeN="common">city</noun> of <noun cat="place" typeN="proper" subtheme="city ref">New Orleans</noun></line>
                 <line>Illinois Central, Monday mornin' rail;</line>
-                <line>Fourteen cars and fourteen restless riders,</line>
-                <line>Three conductors, twenty five sacks of mail.</line>
+                <line>Fourteen <noun typeN="common" cat="thing">cars</noun> and fourteen restless <noun cat="person" typeN="common">riders</noun>,</line>
+                <line>Three <noun cat="person" typeN="common">conductors</noun>, twenty five <noun typeN="common" cat="thing">sacks</noun> of <noun typeN="common" cat="thing">mail</noun>.</line>
                 <line>All along the southbound odyssey,</line>
-                <line>the train rolls out of Kankakee</line>
-                <line>Ridin' past the houses, farms and fields,</line>
-                <line>Passin' trains that have no names,</line>
-                <line>freight yards full of old black <noun cat='thing' typeN='common'>men</noun>,</line>
+                <line>the <noun typeN="common" cat="thing">train</noun> rolls out of <noun cat="place" typeN="proper" subtheme="city ref">Kankakee</noun></line>
+                <line>Ridin' past the <noun cat="thing" typeN="common">houses</noun>, <noun cat="thing" typeN="common">farms</noun> and <noun typeN="common" cat="thing">fields</noun>,</line>
+                <line>Passin' <noun typeN="common" cat="thing">trains</noun> that have no <noun cat="thing" typeN="common">names</noun>,</line>
+                <line><noun typeN="common" cat="thing">freight yards</noun> full of <noun cat='thing' typeN='common'>old black men</noun>,</line>
                 <line>The <noun cat='place' typeN='common'>graveyards</noun> of the rusted <noun cat="thing" typeN="common">automobiles</noun>.</line>
             </stanza>
 
@@ -277,7 +272,7 @@
             </stanza>
 
             <stanza type='verse'>
-                <line>Dealin' <noun typeN="common" cat="thing">card games</noun> with the old <noun cat='thing' typeN='common'>men</noun> in the <noun cat="place" typeN="common" subtheme="cultural">club car</noun>,</line>
+                <line>Dealin' <noun typeN="common" cat="thing">card games</noun> with the <noun cat='thing' typeN='common'>old men</noun> in the <noun cat="place" typeN="common" subtheme="cultural">club car</noun>,</line>
                 <line><noun subtheme="cultural" typeN="common" cat="thing">Penny</noun> a <noun cat="idea" typeN="common">point</noun>, ain't <noun typeN="pro" cat="person">no-one</noun> keepin' <noun cat="thing" typeN="common">score</noun>.</line>
                 <line> Pass the <noun typeN="common" cat="thing">paper bag</noun> that holds the <noun cat="thing" typeN="common">bottle</noun>,</line>
                 <line>Feel the <noun typeN="common" cat="thing">wheels</noun> a-rumblin' 'neath the <noun cat="place" typeN="common">floor</noun>.</line>
@@ -320,7 +315,6 @@
             <artist>Ralph McTell</artist>
             <year>1969</year>
             <country>UK</country>
-            
             <theme>regional political</theme>
         </meta>
         <lyrics>
@@ -400,7 +394,6 @@
             <artist>Dougie MacLean and Alan Roberts</artist>
             <year>1977</year>
             <country>Scotland</country>
-            
             <theme>regional social</theme>
         </meta>
         <lyrics>
@@ -472,7 +465,6 @@
             <artist>Bob Dylan</artist>
             <year>1978</year>
             <country>USA</country>
-            
             <theme>political social</theme>
         </meta>
         <lyrics>
@@ -583,7 +575,6 @@
             <artist>Buffy Sainte-Marie</artist>
             <year>1964</year>
             <country>Canada</country>
-            
             <theme>political social</theme>
         </meta>
         <lyrics>
@@ -647,7 +638,6 @@
             <artist>Gordon Lightfoot</artist>
             <year>1966</year>
             <country>Canada</country>
-            
             <theme>political social</theme>
         </meta>
         <lyrics>

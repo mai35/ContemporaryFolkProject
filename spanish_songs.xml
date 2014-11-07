@@ -3,7 +3,7 @@
 <songs language="spanish">
     <song>
         <meta>
-            <title>Pájaro Chogüí</title>
+            <title>Pájaro Chogüi</title>
             <artist>Julio Iglesias</artist>
             <year>1995</year>
             <country>Spain</country>
@@ -12,20 +12,20 @@
         <lyrics>
             <stanza type="verse">
                 <line>Cuenta la <noun cat="thing" typeN="common">leyenda</noun> que en un <noun typeN="common" cat="thing">árbol</noun></line>
-                <line>se encontraba encaramado</line>
+                <line><noun ref="indiecito" cat="person" typeN="pro">se</noun> encontraba encaramado</line>
                 <line>un <noun typeN="common" cat="person">indiecito</noun> guaraní </line>
                 <line>Que sobre saltado por un <noun cat="thing" typeN="common">grito</noun> de su <noun typeN="common" cat="person">madre</noun></line>
-                <line>Perdió apoyo y que cayendo se murió </line>
+                <line>Perdió apoyo y que cayendo <noun ref="indiecito" cat="person" typeN="pro">se</noun> murió </line>
                 <line> Y que entre los <noun cat="thing" typeN="common">brazos</noun> maternales </line>
                 <line> por extraño sortilegio </line>
-                <line>en chogüi se convirtió </line>
+                <line>en <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun> <noun ref="indiecito" cat="person" typeN="pro">se</noun> convirtió </line>
             </stanza>
 
             <stanza type="chorus">
-                <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Cantando esta volando va perdiéndose en el <noun cat="place" typeN="common">cielo</noun> azul turquí</line>
-                <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Que lindo esta, que lindo va perdiéndose en el <noun typeN="common" cat="place" subtheme="country ref">guaraní</noun></line>
+                <line><noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun> </line>
+                <line>Cantando esta volando va perdiéndo<noun cat="person" typeN="common" ref="Chogüi">se</noun> en el <noun cat="place" typeN="common">cielo</noun> azul turquí</line>
+                <line><noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun> </line>
+                <line>Que lindo esta, que lindo va perdiéndo<noun cat="person" typeN="common" ref="Chogüi">se</noun> en el <noun typeN="common" cat="place" subtheme="country ref">guaraní</noun></line>
             </stanza>
 
             <stanza type="verse">
@@ -38,10 +38,10 @@
             </stanza>
 
             <stanza type="chorus">
-                <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Cantando esta volando va perdiéndose en el <noun cat="place" typeN="common">cielo</noun> azul turquí </line>
-                <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Que lindo esta, que lindo va perdiéndose en <noun typeN="common" cat="place" subtheme="country ref">guaraní</noun></line>
+                <line><noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun> </line>
+                <line>Cantando esta volando va perdiéndo<noun cat="person" typeN="common" ref="Chogüi">se</noun> en el <noun cat="place" typeN="common">cielo</noun> azul turquí </line>
+                <line><noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun>, <noun typeN="proper" cat="thing" subtheme="cultural" ref="pájaro">Chogüi</noun> </line>
+                <line>Que lindo esta, que lindo va perdiéndo<noun cat="person" typeN="common" ref="Chogüi">se</noun> en <noun typeN="common" cat="place" subtheme="country ref">guaraní</noun></line>
             </stanza>
         </lyrics>
     </song>
@@ -55,29 +55,29 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>A veces te imagino libre de verdad,</line>
-                <line>Cumpliendo tu destino de felicidad, </line>
-                <line>Ninguna pena adentro ni una soledad</line>
-                <line> Y es tanto ese deseo que parece real.</line>
+                <line>A veces <noun typeN="pro" cat="person">te</noun> imagino libre de <noun cat="idea" typeN="common">verdad</noun>,</line>
+                <line>Cumpliendo tu <noun typeN="common" cat="idea">destino</noun> de <noun cat="idea" typeN="common">felicidad</noun>, </line>
+                <line>Ninguna <noun typeN="common" cat="idea">pena</noun> adentro ni una <noun cat="idea" typeN="common">soledad</noun></line>
+                <line> Y es tanto ese <noun typeN="common" cat="idea">deseo</noun> que parece real.</line>
             </stanza>
             <stanza type="chorus">
-                <line> Aprender la lección de la historia </line>
-                <line> Debe ser no perder la memoria. </line>
+                <line> Aprender la <noun cat="thing" typeN="common">lección</noun> de la <noun typeN="common" cat="thing">historia</noun> </line>
+                <line> Debe ser no perder la <noun cat="idea" typeN="common">memoria</noun>. </line>
             </stanza>
             <stanza type="chorus">
-                <line>Aprender la lección de la historia </line>
-                <line> Debe ser no perder la memoria. </line>
+                <line> Aprender la <noun cat="thing" typeN="common">lección</noun> de la <noun typeN="common" cat="thing">historia</noun> </line>
+                <line> Debe ser no perder la <noun cat="idea" typeN="common">memoria</noun>. </line>
             </stanza>
 
             <stanza type="verse">
-                <line> Te busco en los que sueñan y los que te dan </line>
+                <line> <noun typeN="pro" cat="person">Te</noun> busco en <noun cat="person" typeN="pro">los</noun> que sueñan y <noun cat="person" typeN="pro">los</noun> que te dan </line>
                 <line>Eternamente todo sin echarse atrás, </line>
-                <line>La gente más sencilla, la que sabe amar </line>
-                <line> Y aun tiene coraje para no callar. </line>
+                <line>La <noun typeN="common" cat="person">gente</noun> más sencilla, <noun cat="person" typeN="pro" ref="gente">la</noun> que sabe amar </line>
+                <line> Y aun tiene <noun typeN="common" cat="idea">coraje</noun> para no callar. </line>
             </stanza>
 
             <stanza type="chorus">
-                <line>Aprender la lección de la historia... </line>
+                <line> Aprender la <noun cat="thing" typeN="common">lección</noun> de la <noun typeN="common" cat="thing">historia</noun> </line>
                 <line>NUNCA MÁS</line>
             </stanza>
         </lyrics>
@@ -92,7 +92,7 @@
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line><noun typeN="common" cat="person">Amor</noun>, ya que te encuentro </line>
+                <line><noun typeN="common" cat="person">Amor</noun>, ya que <noun typeN="pro" cat="person">te</noun> encuentro </line>
                 <line>ven que quiero saludar<noun cat="person" typeN="pro">te</noun> </line>
                 <line>tal vez seria la <noun typeN="common" cat="thing">suerte</noun> </line>
                 <line>que hoy se puso de mi <noun cat="thing" typeN="common">parte</noun> </line>
@@ -107,13 +107,13 @@
 
             <stanza type="verse">
                 <line><noun cat="person" typeN="pro">yo</noun> se que <noun cat="person" typeN="pro">te</noun> hice <noun typeN="common" cat="thing">daño</noun></line>
-                <line> y del <noun cat="thing" typeN="common">adios</noun> yo fui el <noun typeN="common" cat="person">culpable</noun> </line>
+                <line> y del <noun cat="thing" typeN="common">adios</noun> <noun typeN="pro" cat="person">yo</noun> fui el <noun typeN="common" cat="person">culpable</noun> </line>
                 <line>tal vez pedir <noun cat="idea" typeN="common">perdon</noun> </line>
                 <line>no es suficiente o ya sea tarde </line>
             </stanza>
 
             <stanza type="verse">
-                <line> ya vez al confesar<noun typeN="pro" cat="person">te</noun> lo </line>
+                <line> ya vez al confesar<noun typeN="pro" cat="person">te</noun><noun cat="thing" typeN="pro">lo</noun> </line>
                 <line>que siento estoy llorando </line>
                 <line>mi <noun cat="person" typeN="common">amor</noun> quiero que sepas la verdad </line>
                 <line><noun typeN="pro" cat="person">te</noun> sigo amando </line>
@@ -149,7 +149,7 @@
 
             <stanza type="chorus">
                 <line>No es <noun cat="idea" typeN="common">casualidad</noun> </line>
-                <line> <noun typeN="pro" cat="person">yo</noun> sali a buscar<noun cat="person" typeN="pro">te</noun> </line>
+                <line> <noun typeN="pro" cat="person">yo</noun> salí a buscar<noun cat="person" typeN="pro">te</noun> </line>
                 <line> a caminar sin <noun typeN="common" cat="thing">rumbo</noun> </line>
                 <line>queriendo encontrar<noun cat="person" typeN="pro">te</noun> </line>
             </stanza>
