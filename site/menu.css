@@ -1,6 +1,6 @@
 body{
     color:#EDECE1;
-    font-family:Zapf-Chancery, cursive, georgia;
+    font-family:Zapf-Chancery, georgia, sans-serif;
     font-size: 115%;
     text-align:center;
     padding-top:15px;
@@ -34,7 +34,7 @@ p{
     padding-left:250px;
 }
 #navMenu ul{
-    font-family:Zapf-Chancery, cursive, georgia;
+    font-family:Zapf-Chancery, georgia, sans-serif;
     font-size: 115%;
     margin:0 auto;
     width:610px;
