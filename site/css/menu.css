@@ -5,7 +5,7 @@ body{
     text-align:center;
     padding-top:15px;
     padding-bottom:30px;
-    background-image: url('redbackground.jpg');
+    background-image: url('../images/redbackground.jpg');
     background-size: 100%;
     margin-top: 5px;
 }
