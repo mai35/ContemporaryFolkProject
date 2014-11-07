@@ -374,7 +374,7 @@
                 <line><noun cat="thing" typeN="common">Memory</noun> fading with</line>
                 <line>The <noun typeN="common" cat="thing" subtheme="war">medal ribbons</noun> that he wears.</line>
                 <line>In our winter <noun cat='place' typeN="common">city</noun>,</line>
-                <line>The <noun typeN="common" cat="thing">rain</noun> cries a little <noun cat="idea" typeN=" ">pity</noun></line>
+                <line>The <noun typeN="common" cat="thing">rain</noun> cries a little <noun cat="idea" typeN="common">pity</noun></line>
                 <line>For one more forgotten <noun typeN="common" cat="person" subtheme="war">hero</noun> </line>
                 <line>And a <noun cat="idea" typeN="common">world</noun> that doesn't care</line>
             </stanza>
@@ -626,7 +626,7 @@
 
             <stanza type='verse'>
                 <line><noun typeN="pro" cat="person">They</noun> come from <noun cat="person" typeN="pro">him</noun>.</line>
-                <line>And <noun cat="person" typeN="pro">you</noun> and <noun typeN="pro">me</noun>.</line>
+                <line>And <noun cat="person" typeN="pro">you</noun> and <noun typeN="pro" cat="person">me</noun>.</line>
                 <line>And <noun typeN="common" cat="person">brothers</noun> can't <noun typeN="pro" cat="person">you</noun> see.</line>
                 <line>This is not the <noun cat="idea" typeN="common">way</noun> <noun typeN="pro" cat="person">we</noun> put an <noun cat="idea" typeN="common">end</noun> to <noun cat="thing" typeN="common" subtheme="war">war</noun></line>
             </stanza>
