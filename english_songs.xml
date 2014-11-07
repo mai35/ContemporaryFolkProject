@@ -191,10 +191,10 @@
             </stanza>
 
             <stanza type='verse'>
-                <line>They took all the trees</line>
-                <line>Put 'em in a tree museum *</line>
-                <line>And they charged the people</line>
-                <line>A dollar and a half just to see 'em </line>
+                <line><noun typeN="pro" cat="person">They</noun> took all the <noun cat="thing" typeN="common">trees</noun></line>
+                <line>Put <noun typeN="pro" cat="thing" ref="trees">'em</noun> in a <noun cat="place" typeN="common">tree museum</noun> *</line>
+                <line>And <noun cat="person" typeN="pro">they</noun> charged the <noun typeN="common" cat="person">people</noun></line>
+                <line>A <noun cat="thing" typeN="common" subtheme="cultural">dollar and a half</noun> just to see <noun typeN="pro" cat="thing" ref="trees">'em</noun> </line>
             </stanza>
 
             <stanza type='chorus'>
