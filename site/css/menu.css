@@ -17,12 +17,12 @@ h1{
      padding-left:250px;
  }
  h2{
-     color:#8C9596;
+     color:black;
      padding-right:250px;
      padding-left:250px;
  }
  h3{
-    color: #8C9596;
+    color: black;
     padding-right:250px;
     padding-left:250px;
  }
@@ -41,7 +41,7 @@ p{
     width:610px;
     list-style-type:none;
     text-align:center;
-    background-color:#6D7475;
+    background-color:black;
     height: 40px;
     position:relative;
     padding-top:10px;
