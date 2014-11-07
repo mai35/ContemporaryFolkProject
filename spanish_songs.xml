@@ -7,42 +7,41 @@
             <artist>Julio Iglesias</artist>
             <year>1995</year>
             <country>Spain</country>
-
             <theme>political social</theme>
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>Cuenta la leyenda que en un árbol</line>
+                <line>Cuenta la <noun cat="thing" typeN="common">leyenda</noun> que en un <noun typeN="common" cat="thing">árbol</noun></line>
                 <line>se encontraba encaramado</line>
-                <line>un indiecito guaraní </line>
-                <line>Que sobre saltado por un grito de su madre</line>
+                <line>un <noun typeN="common" cat="person">indiecito</noun> guaraní </line>
+                <line>Que sobre saltado por un <noun cat="thing" typeN="common">grito</noun> de su <noun typeN="common" cat="person">madre</noun></line>
                 <line>Perdió apoyo y que cayendo se murió </line>
-                <line> Y que entre los brazos maternales </line>
+                <line> Y que entre los <noun cat="thing" typeN="common">brazos</noun> maternales </line>
                 <line> por extraño sortilegio </line>
                 <line>en chogüi se convirtió </line>
             </stanza>
 
             <stanza type="chorus">
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Cantando esta volando va perdiéndose en el cielo azul turquí</line>
+                <line>Cantando esta volando va perdiéndose en el <noun cat="place" typeN="common">cielo</noun> azul turquí</line>
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Que lindo esta, que lindo va perdiéndose en el guaraní</line>
+                <line>Que lindo esta, que lindo va perdiéndose en el <noun typeN="common" cat="place" subtheme="country ref">guaraní</noun></line>
             </stanza>
 
             <stanza type="verse">
-                <line>Y desde aquel día se recuerda al indiecito </line>
-                <line>Cuando se oye como un eco aquel chogüi </line>
-                <line>Es el canto alegre y bullanguero </line>
-                <line>del precioso naranjero que repite su cantar</line>
-                <line>Salta y picotea las naranjas que es su fruta preferida </line>
+                <line>Y desde aquel <noun cat="thing" typeN="common">día</noun> se recuerda al <noun typeN="common" cat="person">indiecito</noun> </line>
+                <line>Cuando se oye como un <noun cat="thing" typeN="common">eco</noun> aquel chogüi </line>
+                <line>Es el <noun typeN="common" cat="thing">canto</noun> alegre y bullanguero </line>
+                <line>del precioso <noun typeN="common" cat="person">naranjero</noun> que repite su <noun cat="thing" typeN="common">cantar</noun></line>
+                <line>Salta y picotea las <noun cat="thing" typeN="common">naranjas</noun> que es su <noun typeN="common" cat="thing">fruta</noun> preferida </line>
                 <line>Repitiendo sin cesar </line>
             </stanza>
 
             <stanza type="chorus">
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Cantando esta volando va perdiéndose en el cielo azul turquí </line>
+                <line>Cantando esta volando va perdiéndose en el <noun cat="place" typeN="common">cielo</noun> azul turquí </line>
                 <line>Chogüi, Chogüi, Chogüi, Chogüi </line>
-                <line>Que lindo esta, que lindo va perdiéndose en el guaraní</line>
+                <line>Que lindo esta, que lindo va perdiéndose en <noun typeN="common" cat="place" subtheme="country ref">guaraní</noun></line>
             </stanza>
         </lyrics>
     </song>
@@ -52,7 +51,6 @@
             <artist>Teresa Parodi and León Gieco</artist>
             <year>1987</year>
             <country>Argentina</country>
-
             <theme>political</theme>
         </meta>
         <lyrics>
@@ -90,71 +88,70 @@
             <artist>Grupo Cimarrón</artist>
             <year/>
             <country/>
-
             <theme>social</theme>
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>Amor, ya que te encuentro </line>
-                <line>ven que quiero saludarte </line>
-                <line>tal vez seria la suerte </line>
-                <line>que hoy se puso de mi parte </line>
+                <line><noun typeN="common" cat="person">Amor</noun>, ya que te encuentro </line>
+                <line>ven que quiero saludar<noun cat="person" typeN="pro">te</noun> </line>
+                <line>tal vez seria la <noun typeN="common" cat="thing">suerte</noun> </line>
+                <line>que hoy se puso de mi <noun cat="thing" typeN="common">parte</noun> </line>
+            </stanza>
+
+            <stanza type="chorus">
+                <line>el <noun typeN="common" cat="thing">día</noun> que terminamos </line>
+                <line>y parti <noun typeN="pro" cat="person">te</noun> vi llorando </line>
+                <line> creí que iba olvidar<noun typeN="pro" cat="thing">lo</noun> </line>
+                <line>y mas de <noun cat="person" typeN="pro">ti</noun> voy recordando </line>
             </stanza>
 
             <stanza type="verse">
-                <line>el dia que terminamos </line>
-                <line>y parti te vi llorando </line>
-                <line> crei que iba olvidarlo </line>
-                <line>y mas de ti voy recordando </line>
-            </stanza>
-
-            <stanza type="verse">
-                <line>yo se que te hice daño</line>
-                <line> y del adios yo fui el culpable </line>
-                <line>tal vez pedir perdon </line>
+                <line><noun cat="person" typeN="pro">yo</noun> se que <noun cat="person" typeN="pro">te</noun> hice <noun typeN="common" cat="thing">daño</noun></line>
+                <line> y del <noun cat="thing" typeN="common">adios</noun> yo fui el <noun typeN="common" cat="person">culpable</noun> </line>
+                <line>tal vez pedir <noun cat="idea" typeN="common">perdon</noun> </line>
                 <line>no es suficiente o ya sea tarde </line>
             </stanza>
 
             <stanza type="verse">
-                <line> ya vez al confesarte lo </line>
+                <line> ya vez al confesar<noun typeN="pro" cat="person">te</noun> lo </line>
                 <line>que siento estoy llorando </line>
-                <line>mi amor quiero que sepas la verdad </line>
-                <line>te sigo amando </line>
+                <line>mi <noun cat="person" typeN="common">amor</noun> quiero que sepas la verdad </line>
+                <line><noun typeN="pro" cat="person">te</noun> sigo amando </line>
             </stanza>
 
             <stanza type="chorus">
-                <line>No es casualidad </line>
-                <line> yo sali a buscarte </line>
-                <line> a caminar sin rumbo </line>
-                <line>queriendo encontrarte </line>
+                <line>No es <noun cat="idea" typeN="common">casualidad</noun> </line>
+                <line> <noun typeN="pro" cat="person">yo</noun> sali a buscar<noun cat="person" typeN="pro">te</noun> </line>
+                <line> a caminar sin <noun typeN="common" cat="thing">rumbo</noun> </line>
+                <line>queriendo encontrar<noun cat="person" typeN="pro">te</noun> </line>
             </stanza>
 
             <stanza type="verse">
-                <line>Hoy te quiero pedir </line>
-                <line> para demostrarte </line>
+                <line>Hoy <noun typeN="pro" cat="person">te</noun> quiero pedir </line>
+                <line> para demostrar<noun cat="person" typeN="pro">te</noun> </line>
                 <line>si no es imposible </line>
-                <line> otra oportunidad </line>
-            </stanza>
-
-            <stanza type="verse">
-                <line>el dia que terminamos</line>
-                <line> y parti te vi llorando </line>
-                <line>crei que iba olvidarlo </line>
-                <line>y mas de ti voy recordando </line>
-            </stanza>
-
-            <stanza type="verse">
-                <line>ya vez al confesarte lo </line>
-                <line>que siento estoy llorando </line>
-                <line> mi amor quiero que sepas la verdad </line>
-                <line>te sigo amando </line>
+                <line> otra <noun typeN="common" cat="thing">oportunidad</noun> </line>
             </stanza>
 
             <stanza type="chorus">
-                <line>No es casualidad </line>
-                <line>yo sali a buscarte </line>
-                <line>a caminar sin rumbo </line>
-                <line>queriendo encontrarte.</line>
+                <line>el <noun cat="thing" typeN="common">día</noun> que terminamos</line>
+                <line> y parti <noun typeN="common" cat="person">te</noun> vi llorando </line>
+                <line>creí que iba olvidar<noun cat="thing" typeN="pro">lo</noun> </line>
+                <line>y mas de <noun typeN="pro" cat="person">ti</noun> voy recordando </line>
+            </stanza>
+
+            <stanza type="verse">
+                <line>ya vez al confesar<noun cat="person" typeN="pro">te</noun><noun typeN="pro" cat="thing">lo</noun> </line>
+                <line>que siento estoy llorando </line>
+                <line> mi <noun typeN="common" cat="person">amor</noun> quiero que sepas la verdad </line>
+                <line><noun cat="person" typeN="pro">te</noun> sigo amando </line>
+            </stanza>
+
+            <stanza type="chorus">
+                <line>No es <noun cat="idea" typeN="common">casualidad</noun> </line>
+                <line> <noun typeN="pro" cat="person">yo</noun> sali a buscar<noun cat="person" typeN="pro">te</noun> </line>
+                <line> a caminar sin <noun typeN="common" cat="thing">rumbo</noun> </line>
+                <line>queriendo encontrar<noun cat="person" typeN="pro">te</noun> </line>
             </stanza>
         </lyrics>
     </song>
@@ -164,25 +161,24 @@
             <artist>León Gieco</artist>
             <year>1989</year>
             <country>Argentina</country>
-
             <theme>regional political</theme>
         </meta>
         <lyrics>
             <stanza type="verse">
-                <line>Yo soy del continente del miedo </line>
-                <line>Yo soy del continente del fuego. </line>
-                <line>Yo soy del continente del miedo</line>
-                <line>Yo soy del continente del fuego. </line>
-                <line>Continente del fuego </line>
-                <line>Juego futuro, futuro juego. </line>
+                <line><noun cat="person" typeN="pro">Yo</noun> soy del continente del <noun typeN="common" cat="idea">miedo</noun> </line>
+                <line><noun cat="person" typeN="pro">Yo</noun> soy del continente del <noun cat="thing" typeN="common">fuego</noun>. </line>
+                <line><noun cat="person" typeN="pro">Yo</noun> soy del continente del <noun typeN="common" cat="idea">miedo</noun></line>
+                <line><noun cat="person" typeN="pro">Yo</noun> soy del continente del <noun cat="thing" typeN="common">fuego</noun>. </line>
+                <line><noun typeN="common" cat="thing">Continente</noun> del <noun cat="thing" typeN="common">fuego</noun> </line>
+                <line><noun cat="thing" typeN="common">Juego</noun> futuro, futuro juego. </line>
             </stanza>
             <stanza type="verse">
-                <line>Yo soy del continente del miedo </line>
-                <line>Yo soy del continente del fuego.</line>
-                <line>Tierra llena de sol y de luna</line>
-                <line>el miedo alumbra debajo de mi. </line>
-                <line>Y en esta tierra de cuerpo de fuego </line>
-                <line>el miedo del juego me hace triste asi.</line>
+                <line><noun cat="person" typeN="pro">Yo</noun> soy del continente del <noun typeN="common" cat="idea">miedo</noun> </line>
+                <line><noun cat="person" typeN="pro">Yo</noun> soy del continente del <noun cat="thing" typeN="common">fuego</noun>.</line>
+                <line><noun typeN="common" cat="thing">Tierra</noun> llena de <noun cat="thing" typeN="common">sol</noun> y de <noun typeN="common" cat="thing">luna</noun></line>
+                <line>el <noun typeN="common" cat="idea">miedo</noun> alumbra debajo de <noun typeN="pro" cat="person">mi</noun>. </line>
+                <line>Y en esta <noun cat="thing" typeN="common">tierra</noun> de <noun typeN="common" cat="thing">cuerpo</noun> de <noun cat="thing" typeN="common">fuego</noun> </line>
+                <line>el <noun typeN="common" cat="idea">miedo</noun> del <noun cat="thing" typeN="common">juego</noun> me hace triste asi.</line>
             </stanza>
         </lyrics> </song>
     <song>
@@ -191,58 +187,57 @@
             <artist>Joan Baez</artist>
             <year>1974</year>
             <country>USA</country>
-            
             <theme>regional social</theme>
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Gracias a la vida que me ha dado tanto.</line>
-                <line>Me dio dos luceros, que cuando los abro,</line>
-                <line>Perfecto distingo lo negro del blanco</line>
-                <line>Y en el alto cielo su fondo estrellado</line>
-                <line> Y en las multitudes el hombre que yo amo.</line>
+                <line>Gracias a la <noun cat="thing" typeN="common">vida</noun> que me ha dado tanto.</line>
+                <line>Me dio dos <noun typeN="common" cat="thing">luceros</noun>, que cuando los abro,</line>
+                <line>Perfecto distingo <noun cat="thing" typeN="pro">lo</noun> negro del blanco</line>
+                <line>Y en el alto <noun typeN="common" cat="thing">cielo</noun> su fondo estrellado</line>
+                <line> Y en las <noun cat="person" typeN="common">multitudes</noun> el <noun typeN="common" cat="person">hombre</noun> que yo amo.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Gracias a la vida que me ha dado tanto.</line>
-                <line>Me ha dado el oido que en todo su ancho</line>
-                <line>Graba noche y dia, grillos y canarios,</line>
-                <line>Martillos, turbinas, ladridos, chubascos,</line>
-                <line>Y la voz tan tierna de mi bien amado.</line>
+                <line>Gracias a la <noun cat="thing" typeN="common">vida</noun> que me ha dado tanto.</line>
+                <line>Me ha dado el <noun typeN="common" cat="thing">oido</noun> que en todo su ancho</line>
+                <line>Graba <noun cat="thing" typeN="common">noche</noun> y <noun typeN="common" cat="thing">dia</noun>, <noun cat="thing" typeN="common">grillos</noun> y <noun typeN="common" cat="thing">canarios</noun>,</line>
+                <line><noun cat="thing" typeN="common">Martillos</noun>, <noun typeN="common" cat="thing">turbinas</noun>, <noun cat="thing" typeN="common">ladridos</noun>, <noun typeN="common" cat="thing">chubascos</noun>,</line>
+                <line>Y la <noun cat="thing" typeN="common">voz</noun> tan tierna de mi bien <noun typeN="common" cat="person">amado</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Gracias a la vida que me ha dado tanto.</line>
-                <line>Me ha dado el sonido y el abecedario;</line>
-                <line> Con el las palabras que pienso y declaro:</line>
-                <line>Madre, amigo, hermano, y luz alumbrando</line>
-                <line>La ruta del alma del que estoy amando.</line>
+                <line>Gracias a la <noun cat="thing" typeN="common">vida</noun> que me ha dado tanto.</line>
+                <line>Me ha dado el <noun typeN="common" cat="thing">sonido</noun> y el <noun cat="thing" typeN="common">abecedario</noun>;</line>
+                <line> Con él las <noun typeN="common" cat="thing">palabras</noun> que pienso y declaro:</line>
+                <line><noun cat="person" typeN="common">Madre</noun>, <noun typeN="common" cat="person">amigo</noun>, <noun cat="person" typeN="common">hermano</noun>, y <noun typeN="common" cat="thing">luz</noun> alumbrando</line>
+                <line>La <noun cat="thing" typeN="common">ruta</noun> del <noun typeN="common" cat="thing">alma</noun> del que estoy amando.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Gracias a la vida que me ha dado tanto.</line>
-                <line> Me ha dado la marcha de mis pies cansados;</line>
-                <line>Con ellos anduve ciudades y charcos,</line>
-                <line> Playas y desiertos, montanas y llanos,</line>
-                <line>Y la casa tuya, tu calle y tu patio.</line>
+                <line>Gracias a la <noun cat="thing" typeN="common">vida</noun> que me ha dado tanto.</line>
+                <line> Me ha dado la <noun typeN="common" cat="thing">marcha</noun> de mis <noun cat="thing" typeN="common">pies</noun> cansados;</line>
+                <line>Con <noun typeN="pro" cat="thing">ellos</noun> anduve <noun cat="place" typeN="common">ciudades</noun> y <noun typeN="common" cat="thing">charcos</noun>,</line>
+                <line> <noun cat="place" typeN="common">Playas</noun> y <noun typeN="common" cat="place">desiertos</noun>, <noun cat="thing" typeN="common">montanas</noun> y <noun typeN="common" cat="place">llanos</noun>,</line>
+                <line>Y la <noun cat="place" typeN="common">casa</noun> tuya, tu <noun typeN="common" cat="place">calle</noun> y tu <noun cat="thing" typeN="common">patio</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Gracias a la vida que me ha dado tanto.</line>
-                <line>Me dio el corazon que agita su marco</line>
-                <line> Cuando miro el fruto del cerebro humano,</line>
-                <line>Cuando miro al bueno tan lejos del malo,</line>
-                <line> Cuando miro al fondo de tus ojos claros.</line>
+                <line>Gracias a la <noun typeN="common" cat="thing">vida</noun> que me ha dado tanto.</line>
+                <line>Me dio el <noun cat="thing" typeN="common" subtheme="love">corazón</noun> que agita su <noun typeN="common" cat="thing">marco</noun></line>
+                <line> Cuando miro el <noun typeN="common" cat="thing">fruto</noun> del <noun cat="thing" typeN="common">cerebro humano</noun>,</line>
+                <line>Cuando miro al <noun cat="idea" typeN="common">bueno</noun> tan lejos del <noun typeN="common" cat="idea">malo</noun>,</line>
+                <line> Cuando miro al <noun cat="idea" typeN="common">fondo</noun> de tus <noun typeN="common" cat="thing">ojos</noun> claros.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line> Gracias a la vida que me ha dado tanto.</line>
-                <line>Me ha dado la risa y me ha dado el llanto.</line>
-                <line>Asi yo distingo dicha de quebranto,</line>
-                <line> Los dos materiales que forman mi canto,</line>
-                <line>Y el canto de ustedes que es mi mismo canto,</line>
-                <line> Y el canto de todos que es mi propio canto.</line>
-                <line>Gracias a la vida que me ha dado tanto</line>
+                <line> Gracias a la <noun cat="thing" typeN="common">vida</noun> que me ha dado tanto.</line>
+                <line>Me ha dado la <noun typeN="common" cat="thing">risa</noun> y me ha dado el <noun cat="thing" typeN="common">llanto</noun>.</line>
+                <line>Asi <noun typeN="pro" cat="person">yo</noun> distingo dicha de quebranto,</line>
+                <line> Los dos <noun cat="thing" typeN="common">materiales</noun> que forman mi <noun typeN="common" cat="thing">canto</noun>,</line>
+                <line>Y el <noun cat="thing" typeN="common">canto</noun> de <noun typeN="pro" cat="person">ustedes</noun> que es mi mismo <noun cat="thing" typeN="common">canto</noun>,</line>
+                <line> Y el <noun typeN="common" cat="thing">canto</noun> de <noun cat="person" typeN="pro">todos</noun> que es mi propio <noun typeN="common" cat="thing">canto</noun>.</line>
+                <line>Gracias a la <noun cat="thing" typeN="common">vida</noun> que me ha dado tanto</line>
             </stanza>
         </lyrics>
     </song>
@@ -252,41 +247,40 @@
             <artist>Charly García</artist>
             <year>1983</year>
             <country>Argentina</country>
-
             <theme>political</theme>
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Los amigos del barrio pueden desaparecer,</line>
-                <line>los cantores de radio pueden desaparecer. </line>
-                <line> Los que están en los diarios pueden desaparecer, </line>
-                <line>la persona que amas puede desaparecer.</line>
-                <line>Los que están en el aire </line>
-                <line> pueden desaparecer en el aire.</line>
-                <line> Los que están en la calle </line>
-                <line>pueden desaparecer en la calle.</line>
+                <line>Los <noun typeN="common" cat="person">amigos</noun> del <noun cat="place" typeN="common">barrio</noun> pueden desaparecer,</line>
+                <line>los <noun typeN="common" cat="person">cantores</noun> de <noun cat="thing" typeN="common">radio</noun> pueden desaparecer. </line>
+                <line> <noun typeN="pro" cat="person">Los</noun> que están en los <noun cat="thing" typeN="common">diarios</noun> pueden desaparecer, </line>
+                <line>la <noun typeN="common" cat="person">persona</noun> que amas puede desaparecer.</line>
+                <line><noun cat="person" typeN="pro">Los</noun> que están en el <noun typeN="common" cat="thing">aire</noun> </line>
+                <line> pueden desaparecer en el <noun cat="thing" typeN="common">aire</noun>.</line>
+                <line> <noun typeN="pro" cat="person">Los</noun> que están en la <noun cat="place" typeN="common">calle</noun> </line>
+                <line>pueden desaparecer en la <noun typeN="common" cat="place">calle</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line> Los amigos del barrio pueden desaparecer,</line>
-                <line>pero los dinosaurios van a desaparecer.</line>
+                <line> Los <noun cat="person" typeN="common">amigos</noun> del <noun typeN="common" cat="place">barrio</noun> pueden desaparecer,</line>
+                <line>pero los <noun cat="person" typeN="common" subtheme="political">dinosaurios</noun> van a desaparecer.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line> No estoy tranquilo, mi amor, </line>
-                <line>hoy es sábado a la noche un amigo está en cana. </line>
-                <line>Oh, mi amor, desaparece el mundo.</line>
+                <line> No estoy tranquilo, mi <noun subtheme="love" typeN="common" cat="person">amor</noun>, </line>
+                <line>hoy es <noun cat="thing" typeN="proper">sábado</noun> a la <noun cat="thing" typeN="common">noche</noun> un <noun typeN="common" cat="person">amigo</noun> está en cana. </line>
+                <line>Oh, mi <noun typeN="common" cat="person">amor</noun>, desaparece el <noun cat="idea" typeN="common">mundo</noun>.</line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Si los pesados, mi amor,</line>
-                <line>llevan todo ese montón </line>
-                <line>de equipaje en la mano. </line>
-                <line>Oh, mi amor, yo quiero estar liviano. </line>
-                <line>Cuando el mundo tira para abajo</line>
-                <line>es mejor no estar atado a nada, </line>
-                <line>imaginen a los dinosaurios </line>
-                <line>en la cama.</line>
+                <line>Si los <noun typeN="common" cat="thing">pesados</noun>, mi <noun cat="person" typeN="common" subtheme='love'>amor</noun>,</line>
+                <line>llevan todo ese <noun typeN="common" cat="idea">montón</noun> </line>
+                <line>de <noun typeN="common" cat="thing">equipaje</noun> en la <noun cat="thing" typeN="common">mano</noun>. </line>
+                <line>Oh, mi <noun cat="person" typeN="common" subtheme="love">amor</noun>, yo quiero estar liviano. </line>
+                <line>Cuando el <noun typeN="common" cat="idea">mundo</noun> tira para abajo</line>
+                <line>es mejor no estar atado a <noun cat="thing" typeN="pro">nada</noun>, </line>
+                <line>imaginen a los <noun cat="person" typeN="common" subtheme="political">dinosaurios</noun> </line>
+                <line>en la <noun typeN="common" cat="thing">cama</noun>.</line>
             </stanza>
         </lyrics>
     </song>
@@ -296,76 +290,78 @@
             <artist>Jarcha</artist>
             <year>1976</year>
             <country>España</country>
-
             <theme>political</theme>
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Dicen los viejos que en este país hubo una guerra </line>
-                <line>y hay dos Españas que guardan aún,</line>
-                <line>el rencor de viejas deudas</line>
-                <line>Dicen los viejos que este país necesita </line>
-                <line>palo largo y mano dura </line>
-                <line>para evitar lo peor </line>
+                <line>Dicen los <noun typeN="common" cat="person">viejos</noun> que en este <noun cat="idea" typeN="common" subtheme="political">país</noun> hubo una <noun typeN="common" cat="thing" subtheme="war">guerra</noun> </line>
+                <line>y hay dos <noun subtheme="political" cat="idea" typeN="proper">Españas</noun> que guardan aún,</line>
+                <line>el <noun typeN="common" cat="thing">rencor</noun> de viejas <noun cat="idea" typeN="common">deudas</noun></line>
+                <line>Dicen los <noun typeN="common" cat="person">viejos</noun> que este <noun cat="idea" typeN="common" subtheme="political">país</noun> necesita </line>
+                <line><noun typeN="common" cat="thing">palo</noun> largo y <noun cat="thing" typeN="common">mano</noun> dura </line>
+                <line>para evitar <noun typeN="pro" cat="thing">lo</noun> peor </line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Pero yo sólo he visto gente</line>
+                <line>Pero <noun cat="person" typeN="pro">yo</noun> sólo he visto <noun typeN="common" cat="person">gente</noun></line>
                 <line> que sufre y calla </line>
-                <line>Dolor y miedo </line>
-                <line>Gente que sólo desea su pan,</line>
-                <line>su hembra y la fiesta en paz </line>
+                <line><noun typeN="common" cat="idea">Dolor</noun> y <noun cat="idea" typeN="common">miedo</noun> </line>
+                <line><noun typeN="common" cat="person">Gente</noun> que sólo desea su <noun cat="thing" typeN="common">pan</noun>,</line>
+                <line>su <noun cat="idea" typeN="common">hembra</noun> y la <noun typeN="common" cat="thing">fiesta</noun> en <noun cat="idea" typeN="common">paz</noun> </line>
             </stanza>
 
             <stanza type='chorus'>
-                <line>Libertad, libertad sin ira libertad </line>
-                <line> guárdate tu miedo y tu ira </line>
-                <line>porque hay libertad, sin ira libertad </line>
-                <line>y si no la hay sin duda la habrá</line>
-                <line>Libertad, libertad sin ira libertad </line>
-                <line>guárdate tu miedo y tu ira </line>
-                <line>porque hay libertad, sin ira libertad </line>
-                <line>y si no la hay sin duda la habrá </line>
+                <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
+                <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+                </stanza>
+            <stanza type='chorus'>
+                <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
+                <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
             </stanza>
-
             <stanza type='verse'>
-                <line> Dicen los viejos que hacemos lo que nos da la gana </line>
+                <line> Dicen los <noun typeN="common" cat="person">viejos</noun> que hacemos <noun cat="thing" typeN="pro">lo</noun> que nos da la <noun typeN="common" cat="idea">gana</noun> </line>
                 <line> Y no es posible que así pueda haber </line>
-                <line> Gobierno que gobierne nada </line>
-                <line>Dicen los viejos que no se nos dé rienda suelta </line>
-                <line>que todos aquí llevamos</line>
-                <line>la violencia a flor de piel</line>
+                <line> <noun cat="thing" typeN="common" subtheme="political">Gobierno</noun> que gobierne <noun typeN="common" cat="idea">nada</noun> </line>
+                <line>Dicen los <noun cat="person" typeN="common">viejos</noun> que no se nos dé <noun cat="idea" typeN="common" subtheme="political">rienda</noun> suelta </line>
+                <line>que <noun typeN="common" cat="person">todos</noun> aquí llevamos</line>
+                <line>la <noun cat="thing" typeN="common" subtheme="political">violencia</noun> a <noun typeN="common" cat="thing">flor</noun> de <noun cat="thing" typeN="common">piel</noun></line>
             </stanza>
             <stanza type='verse'>
-                <line> Pero yo sólo he visto gente muy obediente </line>
-                <line>hasta en la cama </line>
-                <line>Gente que tan sólo pide</line>
-                <line>vivir su vida, sin más mentiras y en paz</line>
+                <line> Pero <noun typeN="pro" cat="person">yo</noun> sólo he visto <noun cat="person" typeN="common">gente</noun> muy obediente </line>
+                <line>hasta en la <noun typeN="common" cat="place">cama</noun> </line>
+                <line><noun cat="person" typeN="common">Gente</noun> que tan sólo pide</line>
+                <line>vivir su <noun typeN="common" cat="thing">vida</noun>, sin más <noun cat="thing" typeN="common">mentiras</noun> y en <noun typeN="common" cat="idea">paz</noun></line>
             </stanza>
 
             <stanza type='chorus'>
-                <line>Libertad, libertad sin ira libertad </line>
-                <line>guárdate tu miedo y tu ira </line>
-                <line>porque hay libertad, sin ira libertad </line>
-                <line> y si no la hay sin duda la habrá </line>
-                <line>Libertad, libertad sin ira libertad </line>
-                <line> guárdate tu miedo y tu ira </line>
-                <line>porque hay libertad, sin ira libertad</line>
-                <line>y si no la hay sin duda la habrá </line>
+                <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
+                <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+            </stanza>
+            <stanza type='chorus'>
+                <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
+                <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
             </stanza>
 
-            <stanza type='chorus'>
-                <line>Libertad, libertad sin ira libertad </line>
-                <line> guárdate tu miedo y tu ira </line>
-                <line> porque hay libertad, sin ira libertad </line>
-                <line> y si no la hay sin duda la habrá </line>
-            </stanza>
+<stanza type='chorus'>
+    <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+    <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
+    <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+    <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+</stanza>
 
             <stanza type='chorus'>
-                <line> Libertad, libertad sin ira libertad</line>
-                <line> guárdate tu miedo y tu ira </line>
-                <line>porque hay libertad, sin ira libertad </line>
-                <line>y si no la hay sin duda la habrá (bis)</line>
+                <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
+                <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
+                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
             </stanza>
         </lyrics>
     </song>
@@ -375,47 +371,46 @@
             <artist>Silvio Rodriguez</artist>
             <year>1978</year>
             <country>Cuba</country>
-
             <theme>political social</theme>
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line> Ojala que las hojas no te toquen el cuerpo cuando caigan </line>
-                <line>para que no las puedas convertir en cristal </line>
-                <line>ojala que la lluvia deje de ser el milagro que baja por tu cuerpo </line>
-                <line> ojala que la luna pueda salir sin ti </line>
-                <line>ojala que la tierra no te bese los pasos. </line>
+                <line> Ojala que las <noun typeN="common" cat="thing">hojas</noun> no <noun cat="person" typeN="pro">te</noun> toquen el <noun cat="thing" typeN="common">cuerpo</noun> cuando caigan </line>
+                <line>para que no <noun typeN="pro" cat="thing" ref="hojas">las</noun> puedas convertir en <noun cat="thing" typeN="common">cristal</noun> </line>
+                <line>ojala que la <noun typeN="common" cat="thing">lluvia</noun> deje de ser el <noun cat="idea" typeN="common">milagro</noun> que baja por tu <noun typeN="common" cat="thing">cuerpo</noun> </line>
+                <line> ojala que la <noun cat="thing" typeN="common">luna</noun> pueda salir sin <noun typeN="pro" cat="person">ti</noun> </line>
+                <line>ojala que la <noun typeN="common" cat="thing">tierra</noun> no <noun typeN="pro" cat="person">te</noun> bese los <noun cat="thing" typeN="common">pasos</noun>. </line>
             </stanza>
 
 
-            <stanza type='verse'>
-                <line> ojala se te acabe la mirada constante </line>
-                <line>la palara precisa, la sonrisa perfecta</line>
-                <line>ojala pase algo que te borre de pronto</line>
-                <line>una luz cegadora, un disparo de nieve </line>
-                <line>ojala por lo menos que me lleve la muerte </line>
-                <line> para no verte tanto, para no verte siempre </line>
-                <line>en todos los segundos, en todas las visiones</line>
-                <line>ojala que no pueda tocarte ni en canciones </line>
+            <stanza type='chorus'>
+                <line> ojala se <noun cat="person" typeN="pro">te</noun> acabe la <noun typeN="common" cat="thing">mirada</noun> constante </line>
+                <line>la <noun cat="thing" typeN="common">palabra</noun> precisa, la <noun typeN="common" cat="thing">sonrisa</noun> perfecta</line>
+                <line>ojala pase <noun typeN="pro" cat="thing">algo</noun> que <noun cat="person" typeN="pro">te</noun> borre de pronto</line>
+                <line>una <noun cat="thing" typeN="common">luz</noun> cegadora, un <noun typeN="common" cat="thing">disparo</noun> de <noun cat="thing" typeN="common">nieve</noun> </line>
+                <line>ojala por lo menos que <noun typeN="pro" cat="person">me</noun> lleve la <noun cat="thing" typeN="common" subtheme="death">muerte</noun> </line>
+                <line> para no ver<noun typeN="pro" cat="person">te</noun> tanto, para no ver<noun cat="person" typeN="pro">te</noun> siempre </line>
+                <line>en todos los <noun cat="thing" typeN="common">segundos</noun>, en todas las <noun typeN="common" cat="thing">visiones</noun></line>
+                <line>ojala que no pueda tocar<noun typeN="pro" cat="person">te</noun> ni en <noun cat="thing" typeN="common">canciones</noun> </line>
             </stanza>
 
             <stanza type='verse'>
-                <line>Ojala que la aurora no de gritos que caigan en mi espalda</line>
-                <line>ojala que tu nombre se le olvide esa voz </line>
-                <line>ojala las paredes no retengan tu ruido de camino cansado</line>
-                <line>ojala que el deseo se valla tras de ti </line>
-                <line>a tu viejo gobierno de difuntos y flores</line>
+                <line>Ojala que la <noun typeN="common" cat="thing">aurora</noun> no de <noun cat="thing" typeN="common">gritos</noun> que caigan en mi <noun typeN="common" cat="thing">espalda</noun></line>
+                <line>ojala que tu <noun cat="thing" typeN="common">nombre</noun> se <noun cat="thing" typeN="pro" ref="voz">le</noun> olvide esa <noun typeN="common" cat="thing">voz</noun> </line>
+                <line>ojala las <noun typeN="common" cat="thing">paredes</noun> no retengan tu <noun cat="thing" typeN="common">ruido</noun> de <noun typeN="common" cat="thing">camino</noun> cansado</line>
+                <line>ojala que el <noun cat="idea" typeN="common">deseo</noun> se valla tras de <noun typeN="pro" cat="person">ti</noun> </line>
+                <line>a tu viejo <noun cat="thing" typeN="common" subtheme="political">gobierno</noun> de <noun typeN="common" cat="thing">difuntos</noun> y <noun cat="thing" typeN="common">flores</noun></line>
             </stanza>
 
-            <stanza type='verse'>
-                <line>ojala se te acabe la mirada constante </line>
-                <line>la palara precisa, la sonrisa perfecta </line>
-                <line>ojala pase algo que te borre de pronto</line>
-                <line>una luz cegadora, un disparo de nieve </line>
-                <line>ojala por lo menos que me lleve la muerte</line>
-                <line>para no verte tanto, para no verte siempre</line>
-                <line>en todos los segundos, en todas las visiones </line>
-                <line>ojala que no pueda tocarte ni en canciones</line>
+            <stanza type='chorus'>
+                <line> ojala se <noun cat="person" typeN="pro">te</noun> acabe la <noun typeN="common" cat="thing">mirada</noun> constante </line>
+                <line>la <noun cat="thing" typeN="common">palabra</noun> precisa, la <noun typeN="common" cat="thing">sonrisa</noun> perfecta</line>
+                <line>ojala pase <noun typeN="pro" cat="thing">algo</noun> que <noun cat="person" typeN="pro">te</noun> borre de pronto</line>
+                <line>una <noun cat="thing" typeN="common">luz</noun> cegadora, un <noun typeN="common" cat="thing">disparo</noun> de <noun cat="thing" typeN="common">nieve</noun> </line>
+                <line>ojala por lo menos que <noun typeN="pro" cat="person">me</noun> lleve la <noun cat="thing" typeN="common" subtheme="death">muerte</noun> </line>
+                <line> para no ver<noun typeN="pro" cat="person">te</noun> tanto, para no ver<noun cat="person" typeN="pro">te</noun> siempre </line>
+                <line>en todos los <noun cat="thing" typeN="common">segundos</noun>, en todas las <noun typeN="common" cat="thing">visiones</noun></line>
+                <line>ojala que no pueda tocar<noun typeN="pro" cat="person">te</noun> ni en <noun cat="thing" typeN="common">canciones</noun> </line>
             </stanza>
         </lyrics>
     </song>
@@ -430,41 +425,41 @@
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Hay algunos que dicen</line>
-                <line>que todos los caminos conducen a roma</line>
-                <line>y es verdad porque el mío</line>
-                <line> me lleva cada noche al hueco que te nombra</line>
-                <line>y le hablo y le suelto</line>
-                <line>una sonrisa, una blasfemia y dos derrotas;</line>
-                <line>luego apago tus ojos</line>
-                <line>y duermo con tu nombre besando mi boca.</line>
+                <line>Hay <noun cat="person" typeN="common">algunos</noun> que dicen</line>
+                <line>que todos los <noun typeN="common" cat="thing">caminos</noun> conducen a <noun cat="place" typeN="proper" subtheme="foreign city">Roma</noun></line>
+                <line>y es <noun typeN="common" cat="idea">verdad</noun> porque el mío</line>
+                <line> <noun cat="person" typeN="pro">me</noun> lleva cada noche al <noun typeN="common" cat='thing'>hueco</noun> que <noun typeN="pro" cat="person">te</noun> nombra</line>
+                <line>y <noun typeN="pro" cat="thing" ref="hueco">le</noun> hablo y <noun cat="thing" typeN="pro" ref="hueco">le</noun> suelto</line>
+                <line>una <noun typeN="common" cat="thing">sonrisa</noun>, una <noun cat="idea" typeN="common">blasfemia</noun> y dos <noun typeN="common" cat="thing">derrotas</noun>;</line>
+                <line>luego apago tus <noun typeN="common" cat="thing">ojos</noun></line>
+                <line>y duermo con tu <noun cat="thing" typeN="common">nombre</noun> besando mi <noun typeN="common" cat="thing">boca</noun>.</line>
             </stanza>
             <stanza type='verse'>
-                <line>Ay, amor mío,</line>
+                <line>Ay, <noun cat="person" typeN="common" subtheme="love">amor</noun> mío,</line>
                 <line>qué terriblemente absurdo</line>
                 <line>es estar vivo</line>
-                <line>sin el alma de tu cuerpo,</line>
-                <line>sin tu latido.</line>
+                <line>sin el <noun cat="idea" typeN="common">alma</noun> de tu <noun typeN="common" cat="thing">cuerpo</noun>,</line>
+                <line>sin tu <noun cat="thing" typeN="common">latido</noun>.</line>
             </stanza>
             <stanza type='verse'>
-                <line> Que el final de esta historia,</line>
-                <line>enésima autobiografía de un fracaso,</line>
-                <line> no te sirva de ejemplo,</line>
-                <line>hay quien afirma que el amor es un milagro</line>
-                <line>que no hay mal que no cure</line>
-                <line>pero tampoco bien que le dure cien años;</line>
-                <line>eso casi lo salva,</line>
-                <line>lo malo son las noches que mojan mi mano.</line>
+                <line> Que el <noun typeN="common" cat="idea">final</noun> de esta <noun cat="thing" typeN="common">historia</noun>,</line>
+                <line>enésima <noun cat="thing" typeN="common">autobiografía</noun> de un <noun typeN="common" cat="idea">fracaso</noun>,</line>
+                <line> no <noun typeN="pro" cat="person">te</noun> sirva de <noun cat="thing" typeN="common">ejemplo</noun>,</line>
+                <line>hay <noun typeN="common" cat="person">quien</noun> afirma que el <noun typeN="common" cat="idea" subtheme="love">amor</noun> es un <noun subtheme="religious" cat="idea" typeN="common">milagro</noun></line>
+                <line>que no hay <noun cat="idea" typeN="common">mal</noun> que no cure</line>
+                <line>pero tampoco <noun typeN="common" cat="idea">bien</noun> que <noun cat="idea" typeN="common" ref="bien">le</noun> dure cien años;</line>
+                <line>eso casi <noun typeN="pro" cat="idea">lo</noun> salva,</line>
+                <line>lo <noun cat="idea" typeN="common">malo</noun> son las <noun cat="thing" typeN="common">noches</noun> que mojan mi <noun typeN="common" cat="thing">mano</noun>.</line>
             </stanza>
             <stanza type='verse'>
-                <line>Aunque todo ya es nada,</line>
-                <line>no sé por qué te escondes y huyes de mi encuentro.</line>
-                <line>por saber de tu vida</line>
-                <line>no creo que vulnere ningún mandamiento;</line>
-                <line>tan terrible es el odio</line>
-                <line>que ni te atreves a mostrarme tu desprecio,</line>
-                <line>pero no me hagas caso,</line>
-                <line>lo que me pasa es que este mundo no lo entiendo.</line>
+                <line>Aunque todo ya es <noun typeN="pro" cat="idea">nada</noun>,</line>
+                <line>no sé por qué <noun cat="person" typeN="pro">te</noun> escondes y huyes de mi <noun typeN="common" cat="thing">encuentro</noun>.</line>
+                <line>por saber de tu <noun cat="thing" typeN="common">vida</noun></line>
+                <line>no creo que vulnere ningún <noun typeN="common" cat="thing">mandamiento</noun>;</line>
+                <line>tan terrible es el <noun cat="idea" typeN="common">odio</noun></line>
+                <line>que ni <noun typeN="pro" cat="person">te</noun> atreves a mostrar<noun cat="person" typeN="pro">me</noun> tu <noun typeN="common" cat="idea">desprecio</noun>,</line>
+                <line>pero no <noun typeN="pro" cat="person">me</noun> hagas caso,</line>
+                <line>lo que <noun typeN="pro" cat="person">me</noun> pasa es que este <noun cat="idea" typeN="common">mundo</noun> no <noun typeN="pro" cat="idea" ref="mundo">lo</noun> entiendo.</line>
             </stanza>
         </lyrics>
     </song>
@@ -474,49 +469,48 @@
             <artist>Fernando Delgadillo</artist>
             <year>1992</year>
             <country>México</country>
-
             <theme>social</theme>
         </meta>
         <lyrics>
             <stanza type='verse'>
-                <line>Hoy que llevo en la boca el sabor a vencido</line>
-                <line>procura tener a la mano un amigo que cuide tu frente y tu voz </line>
-                <line>y que cuide de ti, y para ti tus vestidos</line>
-                <line>y a tus pensamientos mantenlos atentos y a mano tu amigo</line>
+                <line>Hoy que llevo en la <noun cat="thing" typeN="common">boca</noun> el <noun typeN="common" cat="thing">sabor</noun> a vencido</line>
+                <line>procura tener a la <noun cat="thing" typeN="common">mano</noun> un <noun typeN="common" cat="person">amigo</noun> que cuide tu <noun cat="thing" typeN="common">frente</noun> y tu <noun typeN="common" cat="thing">voz</noun> </line>
+                <line>y que cuide de <noun cat="person" typeN="pro">ti</noun>, y para <noun typeN="pro" cat="person">ti</noun> tus <noun cat="thing" typeN="common">vestidos</noun></line>
+                <line>y a tus <noun typeN="common" cat="thing">pensamientos</noun> manten<noun cat="thing" typeN="pro" ref="pensamientos">los</noun> atentos y a mano tu <noun typeN="common" cat="person">amigo</noun></line>
             </stanza>
             <stanza type='verse'>
-                <line>La importancia de verte morderte los labios de preocupación</line>
-                <line>es hoy tan necesaria como verte siempre</line>
-                <line>como andar siguiéndote con la cabeza en la imaginación</line>
-                <line> porque sabes, y si no lo sabes, no importa,</line>
-                <line>yo sé lo que siento, yo sé lo que cortan después unos labios </line>
-                <line>esos labios rojos y afilados</line>
-                <line>y estos puños que tiemblan de rabia cuando estas contenta</line>
-                <line>que tiemblan de muerte si alguien se te acercara a ti.</line>
+                <line>La <noun cat="idea" typeN="common">importancia</noun> de ver<noun typeN="pro" cat="person">te</noun> morder<noun cat="person" typeN="pro">te</noun> los <noun typeN="common" cat="thing">labios</noun> de <noun cat="idea" typeN="common">preocupación</noun></line>
+                <line>es hoy tan necesaria como ver<noun typeN="pro" cat="person">te</noun> siempre</line>
+                <line>como andar siguiéndote con la <noun cat="thing" typeN="common">cabeza</noun> en la <noun typeN="common" cat="idea">imaginación</noun></line>
+                <line> porque sabes, y si no <noun cat="thing" typeN="pro">lo</noun> sabes, no importa,</line>
+                <line><noun typeN="pro" cat="person">yo</noun> sé <noun typeN="pro" cat="thing">lo</noun> que siento, yo sé <noun cat="thing" typeN="pro">lo</noun> que cortan después unos <noun cat="thing" typeN="common">labios</noun> </line>
+                <line>esos <noun typeN="common" cat="thing">labios</noun> rojos y afilados</line>
+                <line>y estos <noun cat="thing" typeN="common">puños</noun> que tiemblan de <noun typeN="common" cat="idea">rabia</noun> cuando estás contenta</line>
+                <line>que tiemblan de <noun cat="thing" typeN="common">muerte</noun> si alguien se <noun typeN="pro" cat="person">te</noun> acercara a <noun cat="person" typeN="pro">ti</noun>.</line>
             </stanza>
             <stanza type='verse'>
-                <line>Hoy procura que aquella ventana que mira a la calle en tu cuarto</line>
-                <line> se tenga cerrada, porque no vaya a ser yo el viento de la noche</line>
-                <line>y te mire y recorra la piel con mi aliento</line>
-                <line> y hasta te acaricie y te deje dormir</line>
-                <line>y me meta en tu pecho y me vuelva a salir</line>
-                <line> y respires de mí...</line>
+                <line>Hoy procura que aquella <noun typeN="common" cat="thing">ventana</noun> que mira a la <noun cat="place" typeN="common">calle</noun> en tu <noun typeN="common" cat="place">cuarto</noun></line>
+                <line> se tenga cerrada, porque no vaya a ser <noun cat="person" typeN="pro">yo</noun> el <noun typeN="common" cat="thing">viento</noun> de la <noun cat="thing" typeN="common">noche</noun></line>
+                <line>y <noun cat="person" typeN="pro">te</noun> mire y recorra la <noun typeN="common" cat="thing">piel</noun> con mi <noun cat="thing" typeN="common">aliento</noun></line>
+                <line> y hasta <noun cat="person" typeN="pro">te</noun> acaricie y <noun cat="person" typeN="pro">te</noun> deje dormir</line>
+                <line>y <noun typeN="pro" cat="person">me</noun> meta en tu <noun typeN="common" cat="thing">pecho</noun> y <noun typeN="pro" cat="person">me</noun> vuelva a salir</line>
+                <line> y respires de <noun cat="person" typeN="pro">mí</noun>...</line>
             </stanza>
             <stanza type='verse'>
-                <line>O me vuelva una estrella y te estreche en mis rayos</line>
-                <line>y todo por no hacerme un poco de caso</line>
-                <line>ten miedo de mayo</line>
-                <line> y ten miedo de mí</line>
+                <line>O <noun typeN="pro" cat="person">me</noun> vuelva una <noun typeN="common" cat="thing">estrella</noun> y <noun cat="person" typeN="pro">te</noun> estreche en mis <noun typeN="common" cat="thing">rayos</noun></line>
+                <line>y <noun cat="thing" typeN="common">todo</noun> por no hacer<noun typeN="pro" cat="person">me</noun> un poco de caso</line>
+                <line>ten <noun typeN="common" cat="idea">miedo</noun> de <noun cat="thing" typeN="common">mayo</noun></line>
+                <line> y ten <noun typeN="common" cat="idea">miedo</noun> de <noun cat="person" typeN="pro">mí</noun></line>
             </stanza>
             <stanza type='verse'>
-                <line>Porque no vaya a ser que cansado de verte</line>
-                <line>me meta en tus brazos para poseerte y te arranque las ropas</line>
-                <line> y te bese los pies</line>
-                <line>y te llame mi diosa</line>
-                <line>y no pueda mirarte de frente</line>
-                <line> y te diga llorando después:</line>
-                <line> por favor tenme miedo</line>
-                <line>tiembla mucho de miedo mujer</line>
+                <line>Porque no vaya a ser que cansado de ver<noun cat="person" typeN="pro">te</noun></line>
+                <line>me meta en tus <noun typeN="common" cat="thing">brazos</noun> para poseer<noun cat="person" typeN="pro">te</noun> y <noun cat="person" typeN="pro">te</noun> arranque las <noun cat="person" typeN="common">ropas</noun></line>
+                <line> y <noun cat="person" typeN="pro">te</noun> bese los <noun typeN="common" cat="thing">pies</noun></line>
+                <line>y <noun cat="person" typeN="pro">te</noun> llame mi <noun cat="person" typeN="common" subtheme="religious">diosa</noun></line>
+                <line>y no pueda mirar<noun cat="person" typeN="pro">te</noun> de frente</line>
+                <line> y <noun typeN="pro" cat="person">te</noun> diga llorando después:</line>
+                <line> por favor ten<noun typeN="pro" cat="person">me</noun> <noun cat="idea" typeN="common">miedo</noun></line>
+                <line>tiembla mucho de <noun typeN="common" cat="idea">miedo</noun> <noun cat="place" typeN="common" subtheme="love">mujer</noun></line>
                 <line>porque no puede ser...</line>
             </stanza>
         </lyrics>
