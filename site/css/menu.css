@@ -10,6 +10,16 @@ body{
     margin-top: 5px;
 }
 img{width:1250px; height:175px}
+
+div.content{
+    background-color:#E3DFD3;
+    width:80%;
+    margin:0 auto;
+    padding-bottom:5px;
+    padding-top:2px;
+    padding-left:10px;
+    padding-right:10px;
+}
 h1{
      color:#EDECE1;
      font-weight:bold;
