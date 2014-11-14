@@ -12,35 +12,37 @@ body{
 img{width:1250px; height:175px}
 
 div.content{
-    background-color:#E3DFD3;
+    background-color:#D8CCAA;
     width:80%;
     margin:0 auto;
     padding-bottom:5px;
     padding-top:2px;
     padding-left:10px;
     padding-right:10px;
+    opacity: 0.8
 }
 h1{
-     color:#EDECE1;
+     color:#860500;
      font-weight:bold;
      padding-right:250px;
      padding-left:250px;
  }
  h2{
-     color: #000000;
+     color: #860500;
      padding-right:250px;
      padding-left:250px;
  }
  h3{
-    color: #000000;
+    color: #860500;
     padding-right:250px;
     padding-left:250px;
  }
 a{
-     color:#EDECE1;
+     color:#860500;
  }
 p{
     font-family: "Book Antiqua", sans-serif;
+    color: #000000;
     padding-right:250px;
     padding-left:250px;
 }
