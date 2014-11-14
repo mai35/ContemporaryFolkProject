@@ -1,0 +1,10 @@
+body.Italian{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/Italian.jpg'); background-size: 100%}
+body.English{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/AmericanBG.jpg'); background-size: 100%}
+body.Japanese{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/JapaneseBG.png'); background-size: 100%}
+body.Spanish{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/SpainBG.jpg'); background-size: 100%}
+h1{font-weight:bold; font-size:250%}
+h2{font-weight:bold; font-size:200%}
+h3{font-weight:bold; font-size:175%}
+h4{font-weight:bold; font-size:150%}
+ul{list-style-position: inside}
+li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}

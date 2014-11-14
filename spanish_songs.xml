@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="folkSchemaRevised_10-20.rnc" type="application/relax-ng-compact-syntax"?>
-<songs language="spanish">
+<songs language="Spanish">
     <song>
         <meta>
             <title>Pájaro Chogüi</title>

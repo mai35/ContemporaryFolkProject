@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="folkSchemaRevised_10-20.rnc" type="application/relax-ng-compact-syntax"?>
-<songs language ='english'>
+<songs language ='English'>
     <song>
         <meta>
             <title>Where Have All the Flowers Gone?</title>

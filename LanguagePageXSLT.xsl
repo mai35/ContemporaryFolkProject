@@ -7,11 +7,12 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="ishikawa_mako_XSLT06-CSS.css"/>
-                <title>Italian Songs</title>
+                <link rel="stylesheet" type="text/css" href="css/languagePages.css"/>
+                <title><xsl:apply-templates select="songs/@language"/> Songs</title>
             </head>
-            <body>
-                <h1>Italian Songs and Lyrics</h1>
+            <body class="{songs/@language}">
+                <h1><xsl:apply-templates select="songs/@language"/> Songs and Lyrics</h1>
+                <xsl:comment>#include virtual="include/menu.html"</xsl:comment>
                 <h2>Contents</h2>
                 <ul>
                     <xsl:apply-templates select="//meta" mode="toc">
@@ -29,6 +30,7 @@
     <xsl:template match="song">
         <xsl:apply-templates select="meta"/>
         <p><xsl:apply-templates select="lyrics"/></p>
+        <hr/>
     </xsl:template>
     <xsl:template match="meta">
         <h3>
