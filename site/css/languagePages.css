@@ -16,6 +16,7 @@ li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}
     list-style-type:none;
     text-align:center;
     background-color: #000000;
+    height:45px;
     position:relative;
     padding-top:10px;
     margin-bottom: 5px;
@@ -39,10 +40,9 @@ li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}
 
 #navMenu ul li > ul{
     display:none;
-    font-size: 115%;
     padding:0px;
     position:relative;
-    width:105px;
+    width:120px;
     margin:0;
     background-color:black;
 }
@@ -50,29 +50,30 @@ li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}
 #navMenu ul li li{
 
     display:block;
-    font-size: 115%;
     padding:3px 0px 3px 5px;
     color:#EDECE1;
-    width:150px;
+    width:200px;
     cursor:pointer;
     text-align:center;
     background-color:black;
 }
-#navMenu ul li:hover > ul,
-#navMenu ul li:active ul
+#navMenu ul li:hover > ul
+/*#navMenu ul li:active ul*/
 {
     display:block;
     text-align:center;
-    width:167px;
+    width:200px;
     color:#EDECE1;
     position:absolute
 }
 
 #navMenu ul li ul li a:hover
 {
+    font-size:100%;
     color:#C9C7B9
 }
 
 #navMenu ul li ul li a{
+    font-size:100%;
     color:#EDECE1
 }
