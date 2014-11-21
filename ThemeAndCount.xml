@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<themeCount>
+    <theme>
+        <name>political</name>
+        <count>4</count>
+    </theme>
+    <theme>
+        <name>political social</name>
+        <count>9</count>
+    </theme>
+    <theme>
+        <name>regional</name>
+        <count>3</count>
+    </theme>
+    <theme>
+        <name>regional political</name>
+        <count>2</count>
+    </theme>
+    <theme>
+        <name>regional social</name>
+        <count>8</count>
+    </theme>
+    <theme>
+        <name>social</name>
+        <count>14</count>
+    </theme>
+</themeCount>
