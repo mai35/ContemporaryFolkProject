@@ -54,6 +54,7 @@ li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}
     font-size: 115%;
     padding:3px 0px 3px 5px;
     color:#EDECE1;
+    width:150px;
     cursor:pointer;
     text-align:center;
     background-color:black;
