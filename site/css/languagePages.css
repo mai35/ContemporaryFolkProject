@@ -31,7 +31,7 @@ li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}
     padding:.005em 1em; 
     color:#EDECE1;
     text-align:center;
-    display:block;
+    display:inline-block;
 }
 #navMenu ul li a:hover{
     color:#C9C7B9;
