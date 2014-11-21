@@ -83,11 +83,8 @@ p{
     padding:0px;
     position:relative;
     width:120px;
-    top:100%;
-    float:none;
     margin:0;
     background-color:black;
-    border-top:none
 }
 
 #navMenu ul li li{
