@@ -46,6 +46,7 @@ p{
     padding-right:250px;
     padding-left:250px;
 }
+
 #navMenu ul{
     font-family: "Book Antiqua", sans-serif;
     font-size: 115%;
@@ -58,12 +59,6 @@ p{
     position:relative;
     padding-top:10px;
     margin-bottom: 5px;
-}
-
-#navMenu ul:after{
-    content:"";
-    clear:both;
-    display:block;
 }
 
 #navMenu ul li{
@@ -83,11 +78,11 @@ p{
     text-align:center;
 }
 
-#navMenu ul li > ul{
+#navMenu ul li ul{
     display:none;
     padding:0px;
-    position:relative;
-    width:105px;
+    position:absolute;
+    width:120px;
     top:100%;
     float:none;
     margin:0;
@@ -104,21 +99,23 @@ p{
     text-align:center;
     background-color:black;
 }
-#navMenu ul li:hover > ul,
+#navMenu ul li:hover ul,
 #navMenu ul li:active ul
 {
     display:block;
     text-align:center;
-    width:167px;
+    width:200px;
     color:#EDECE1;
     position:absolute
 }
 
 #navMenu ul li ul li a:hover
 {
+    font-size: 115%;
     color:#444444
 }
 
 #navMenu ul li ul li a{
+    font-size: 115%;
     color:#EDECE1
 }

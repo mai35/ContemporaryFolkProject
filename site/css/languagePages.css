@@ -37,3 +37,45 @@ li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}
     color:#C9C7B9;
     text-align:center;
 }
+
+#navMenu ul li > ul{
+    display:none;
+    font-size: 115%;
+    padding:0px;
+    position:relative;
+    width:105px;
+    top:100%;
+    float:none;
+    margin:0;
+    background-color:black;
+    border-top:none
+}
+
+#navMenu ul li li{
+
+    display:block;
+    font-size: 115%;
+    padding:3px 0px 3px 5px;
+    color:#EDECE1;
+    cursor:pointer;
+    text-align:center;
+    background-color:black;
+}
+#navMenu ul li:hover > ul,
+#navMenu ul li:active ul
+{
+    display:block;
+    text-align:center;
+    width:167px;
+    color:#EDECE1;
+    position:absolute
+}
+
+#navMenu ul li ul li a:hover
+{
+    color:#444444
+}
+
+#navMenu ul li ul li a{
+    color:#EDECE1
+}
