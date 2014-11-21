@@ -71,7 +71,7 @@ p{
     padding:.005em 1em; 
     color:#EDECE1;
     text-align:center;
-    display:block;
+    display:inline-block;
 }
 #navMenu ul li a:hover{
     color:#C9C7B9;
@@ -81,7 +81,7 @@ p{
 #navMenu ul li ul{
     display:none;
     padding:0px;
-    position:absolute;
+    position:relative;
     width:120px;
     top:100%;
     float:none;
