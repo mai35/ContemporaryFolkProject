@@ -47,7 +47,7 @@ p{
     padding-left:3%;
 }
 
-#navMenu ul{
+#navMenu > ul{
     font-family: "Book Antiqua", sans-serif;
     font-size: 115%;
     margin:0 auto;
@@ -59,26 +59,26 @@ p{
     height:45px;
     padding-top:10px;
     margin-bottom: 5px;
+    z-index:1;
 }
-
-#navMenu ul li{
+ul > li.active{
     display:block;
     text-align:center;
     float:left;
 }
-#navMenu ul li a{
+li.active > a{
     text-decoration:none;
     padding:.005em 1em; 
     color:#EDECE1;
     text-align:center;
     display:inline-block;
 }
-#navMenu ul li a:hover{
+li.active > a:hover{
     color:#C9C7B9;
     text-align:center;
 }
 
-#navMenu ul li ul{
+li.active > ul.dropdown{
     display:none;
     padding:0px;
     position:relative;
@@ -87,9 +87,10 @@ p{
     background-color:black;
 }
 
-#navMenu ul li li{
+ul.dropdown > li{
 
     display:block;
+    font-size:90%;
     padding:3px 0px 3px 5px;
     color:#EDECE1;
     cursor:pointer;
@@ -97,8 +98,8 @@ p{
     text-align:center;
     background-color:black;
 }
-#navMenu ul li:hover ul,
-#navMenu ul li:active ul
+li.active:hover > ul.dropdown,
+li.active:active > ul.dropdown
 {
     display:block;
     text-align:center;
@@ -107,13 +108,13 @@ p{
     position:absolute
 }
 
-#navMenu ul li ul li a:hover
+ul.dropdown > li > a:hover
 {
     font-size: 100%;
     color:#C9C7B9
 }
 
-#navMenu ul li ul li a{
+ul.dropdown > li > a{
     font-size: 100%;
     color:#EDECE1
 }
