@@ -18,7 +18,7 @@
                     <xsl:apply-templates select="//meta" mode="toc"><xsl:sort/></xsl:apply-templates>
                 </ul>
                 <hr/>
-                <div><xsl:apply-templates><xsl:sort/></xsl:apply-templates></div>
+                <div><xsl:apply-templates><xsl:sort select="title"/></xsl:apply-templates></div>
             </body>
         </html>
     </xsl:template>
@@ -26,9 +26,11 @@
         <li><a href="#{title}" name="{title}_toc"><xsl:apply-templates select="title"/> (by: <xsl:apply-templates select="artist"/>)</a></li>
     </xsl:template>
     <xsl:template match="song">
-        <xsl:apply-templates select="meta"/>
+        <div>
+        <xsl:apply-templates select="meta"><xsl:sort select="title"/></xsl:apply-templates>
         <p><xsl:apply-templates select="lyrics"/></p>
         <hr/>
+        </div>
     </xsl:template>
     <xsl:template match="meta">
         <h3>
