@@ -15,10 +15,10 @@
                 <xsl:comment>#include virtual="include/menu.html"</xsl:comment>
                 <h2>Contents</h2>
                 <ul>
-                    <xsl:apply-templates select="//meta" mode="toc"><xsl:sort/></xsl:apply-templates>
+                    <xsl:apply-templates select="//meta" mode="toc"/>
                 </ul>
                 <hr/>
-                <div><xsl:apply-templates><xsl:sort/></xsl:apply-templates></div>
+                <xsl:apply-templates/>
             </body>
         </html>
     </xsl:template>
