@@ -1,5 +1,5 @@
 xquery version "3.0";
-declare default element namespace "http://www.w3.org/1999/xhtml";
+declare default element namespace "http://www.w3.org/1999/xhtml"; (:This is your problem!:)
 let $songsCollect := collection('/db/course/folk')
 let $songs := $songsCollect//song
 let $distinctThemes := distinct-values($songsCollect//*:theme)
@@ -31,3 +31,9 @@ return
                 }</ol>):)
     }</body>
 </html>
+
+(:We think that you're trying to set the namespace for the HTML output. 
+You can do that with the information found at http://en.wikibooks.org/wiki/XQuery/eXist_Crib_sheet#output_XHTML_document
+
+Once you remove the namespace prefixes, the XQuery should output the correct results.
+:)
