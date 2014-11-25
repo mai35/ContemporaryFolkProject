@@ -21,6 +21,10 @@ div.content{
     padding-right:3%;
     opacity: 0.8
 }
+div.creativeCommons img{
+    width:10%;
+    height:3%;
+}
 h1{
      color:#99000E;
      font-weight:bold;

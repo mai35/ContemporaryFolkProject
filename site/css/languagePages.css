@@ -8,6 +8,10 @@ h3{font-weight:bold; font-size:175%}
 h4{font-weight:bold; font-size:150%}
 ul{list-style-position: inside}
 li, p{font-family:"Book Antiqua", sans-serif; font-size:125%}
+div.creativeCommons img{
+    width:10%;
+    height:3%;
+}
 #navMenu > ul{
     font-family: "Book Antiqua", sans-serif;
     font-size: 115%;
