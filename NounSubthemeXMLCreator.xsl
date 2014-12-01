@@ -12,6 +12,7 @@
         <xsl:if test="exists(@subtheme)">
             <nounSubthemes>
                 <noun><xsl:apply-templates/></noun>
+                <language><xsl:apply-templates select="ancestor::songs/@language"/></language>
                 <subtheme><xsl:apply-templates select="@subtheme"/></subtheme>
             </nounSubthemes>
         </xsl:if>
