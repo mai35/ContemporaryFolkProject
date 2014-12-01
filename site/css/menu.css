@@ -21,6 +21,13 @@ div.content{
     padding-right:3%;
     opacity: 0.8
 }
+#svg-wrap{
+  border:2px black solid;
+  padding:0 1em;
+  overflow-x:scroll;
+  width:1150px;
+  height:475px
+}
 div.creativeCommons img{
     width:10%;
     height:3%;
