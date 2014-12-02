@@ -17,7 +17,9 @@
                     <tr>
                         <th>Noun</th>
                         <th>Language</th>
-                        <th>Subtheme</th>
+                        <th>Song Title</th>
+                        <th>Song Theme</th>
+                        <th>Noun Subtheme</th>
                     </tr>
                     <xsl:apply-templates select="//noun"/>
                 </table>
@@ -32,6 +34,12 @@
                 </td>
                 <td>
                     <xsl:apply-templates select="ancestor::songs/@language"/>
+                </td>
+                <td>
+                    <xsl:apply-templates select="ancestor::song//title"/>
+                </td>
+                <td>
+                    <xsl:apply-templates select="ancestor::song//theme"/>
                 </td>
                 <td>
                     <xsl:apply-templates select="@subtheme"/>
