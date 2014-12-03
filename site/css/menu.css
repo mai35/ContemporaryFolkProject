@@ -21,9 +21,18 @@ div.content{
     padding-right:3%;
     opacity: 0.8
 }
+
+#themeSongList{
+     font-family: "Book Antiqua", sans-serif;
+    color: #000000;
+}
+
+#themeSongList > ol, ul{
+list-style-position: inside
+}
+
 #svg-wrap{
   border:2px black solid;
-  padding:0 1em;
   width:100%;
 }
 div.creativeCommons img{
