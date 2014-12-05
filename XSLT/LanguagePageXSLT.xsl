@@ -28,7 +28,7 @@
         </html>
     </xsl:template>
     <xsl:template match="meta" mode="toc">
-        <li><a href="#{title}" name="{title}_toc"><xsl:apply-templates select="title"/> (by: <xsl:apply-templates select="artist"/>)</a></li>
+        <li><a href="#{translate(title,' ','_')}" name="{translate(title,' ', '_')}_toc"><xsl:apply-templates select="title"/> (by: <xsl:apply-templates select="artist"/>)</a></li>
     </xsl:template>
     <xsl:template match="song">
         <div>
@@ -39,7 +39,7 @@
     </xsl:template>
     <xsl:template match="meta">
         <h3>
-            <a href="#{title}_toc" name="{title}"><xsl:apply-templates select="title"/></a>
+            <a href="#{translate(title,' ','_')}_toc" name="{translate(title,' ', '_')}"><xsl:apply-templates select="title"/></a>
         </h3>
         <h4><xsl:apply-templates select="artist"/></h4>
     </xsl:template>
