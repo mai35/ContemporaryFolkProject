@@ -4,10 +4,11 @@
     <song>
         <meta>
             <title>Where Have All the Flowers Gone?</title>
-            <artist>The Kingston Trio</artist>
-            <year>1961</year>
+            <artist>Pete Seger</artist>
+            <year>1964</year>
             <country>USA</country>
             <theme>political</theme>
+            <!-- http://www.lyricsfreak.com/p/peter+paul+mary/where+have+all+the+flowers+gone_20107752.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -58,6 +59,7 @@
             <year>1966</year>
             <country>UK</country>
             <theme>political social</theme>
+            <!-- http://www.azlyrics.com/lyrics/simongarfunkel/scarboroughfaircanticle.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -113,6 +115,7 @@
             <year>1966</year>
             <country>Canada</country>
             <theme>social</theme>
+            <!-- http://www.lyricsfreak.com/l/leonard+cohen/suzanne_20082890.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -173,6 +176,7 @@
             <year>1970</year>
             <country>Canada</country>
             <theme>political social</theme>
+            <!-- http://www.azlyrics.com/lyrics/jonimitchell/bigyellowtaxi.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -249,6 +253,7 @@
             <year>1971</year>
             <country>USA</country>
             <theme>regional social</theme>
+            <!-- http://www.lyricsmode.com/lyrics/s/steve_goodman/city_of_new_orleans.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -316,6 +321,7 @@
             <year>1969</year>
             <country>UK</country>
             <theme>regional political</theme>
+            <!-- http://www.metrolyrics.com/streets-of-london-lyrics-ralph-mctell.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -395,6 +401,7 @@
             <year>1977</year>
             <country>Scotland</country>
             <theme>regional social</theme>
+            <!-- http://www.lyricsfreak.com/d/dougie+maclean/caledonia_20168493.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -466,6 +473,7 @@
             <year>1978</year>
             <country>USA</country>
             <theme>political social</theme>
+            <!-- http://www.azlyrics.com/lyrics/bobdylan/thetimestheyareachangin.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -576,6 +584,7 @@
             <year>1964</year>
             <country>Canada</country>
             <theme>political social</theme>
+            <!-- http://www.lyricsmode.com/lyrics/b/buffy_sainte_marie/universal_soldier.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -639,6 +648,7 @@
             <year>1966</year>
             <country>Canada</country>
             <theme>political social</theme>
+            <!-- http://www.azlyrics.com/lyrics/gordonlightfoot/earlymorningrain.html -->
         </meta>
         <lyrics>
             <stanza type='verse'>

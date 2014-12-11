@@ -5,9 +5,10 @@
         <meta>
             <title>Pájaro Chogüi</title>
             <artist>Julio Iglesias</artist>
-            <year>1995</year>
+            <year>1980</year>
             <country>Spain</country>
             <theme>political social</theme>
+            <!-- http://www.albumcancionyletra.com/pajaro-chogui_de_julio-iglesias___163524.aspx -->
         </meta>
         <lyrics>
             <stanza type="verse">
@@ -52,6 +53,7 @@
             <year>1987</year>
             <country>Argentina</country>
             <theme>political</theme>
+            <!-- http://www.musica.com/letras.asp?letra=1838684 -->
         </meta>
         <lyrics>
             <stanza type="verse">
@@ -86,9 +88,10 @@
         <meta>
             <title>No es casualidad</title>
             <artist>Grupo Cimarrón</artist>
-            <year/>
-            <country/>
+            <year>1988</year>
+            <country>México</country>
             <theme>social</theme>
+            <!-- http://www.musica.com/letras.asp?letra=2061619 -->
         </meta>
         <lyrics>
             <stanza type="verse">
@@ -162,6 +165,7 @@
             <year>1989</year>
             <country>Argentina</country>
             <theme>regional political</theme>
+            <!-- http://www.musica.com/letras.asp?letra=835826 -->
         </meta>
         <lyrics>
             <stanza type="verse">
@@ -184,10 +188,11 @@
     <song>
         <meta>
             <title>Gracias a la vida</title>
-            <artist>Joan Baez</artist>
-            <year>1974</year>
-            <country>USA</country>
+            <artist>Violeta Parra</artist>
+            <year>1966</year>
+            <country>Chile</country>
             <theme>regional social</theme>
+            <!-- http://www.musica.com/letras.asp?letra=127494 -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -248,6 +253,7 @@
             <year>1983</year>
             <country>Argentina</country>
             <theme>political</theme>
+            <!-- http://www.musica.com/letras.asp?letra=819221 -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -291,6 +297,7 @@
             <year>1976</year>
             <country>España</country>
             <theme>political</theme>
+            <!-- http://www.musica.com/letras.asp?letra=1222725 -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -314,13 +321,13 @@
                 <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
                 <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
                 <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
-                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+                <line>y si no <noun cat="idea" typeN="pro" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" typeN="pro" cat="idea">la</noun> habrá</line>
                 </stanza>
             <stanza type='chorus'>
                 <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
                 <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
                 <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
-                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+                <line>y si no <noun cat="idea" typeN="pro" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" typeN="pro" cat="idea">la</noun> habrá</line>
             </stanza>
             <stanza type='verse'>
                 <line> Dicen los <noun typeN="common" cat="person">viejos</noun> que hacemos <noun cat="thing" typeN="pro">lo</noun> que nos da la <noun typeN="common" cat="idea">gana</noun> </line>
@@ -341,27 +348,27 @@
                 <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
                 <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
                 <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
-                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+                <line>y si no <noun cat="idea" typeN="pro" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" typeN="pro" cat="idea">la</noun> habrá</line>
             </stanza>
             <stanza type='chorus'>
                 <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
                 <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
                 <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
-                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+                <line>y si no <noun cat="idea" typeN="pro" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" typeN="pro" cat="idea">la</noun> habrá</line>
             </stanza>
 
 <stanza type='chorus'>
     <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
     <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
     <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
-    <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+    <line>y si no <noun cat="idea" typeN="pro" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" typeN="pro" cat="idea">la</noun> habrá</line>
 </stanza>
 
             <stanza type='chorus'>
                 <line><noun typeN="common" cat="idea" subtheme="political">Libertad</noun>, <noun cat="idea" typeN="common" subtheme="political">libertad</noun> sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
                 <line> guárdate tu <noun typeN="common" cat="idea">miedo</noun> y tu <noun cat="idea" typeN="common">ira</noun> </line>
                 <line>porque hay <noun cat="idea" typeN="common" subtheme="political">libertad</noun>, sin <noun cat="idea" typeN="common">ira</noun> <noun subtheme="political" typeN="common" cat="idea">libertad</noun> </line>
-                <line>y si no <noun cat="idea" typeN="pro" subtheme="political" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" subtheme="political" typeN="pro" cat="idea">la</noun> habrá</line>
+                <line>y si no <noun cat="idea" typeN="pro" ref="libertad">la</noun> hay sin <noun cat="idea" typeN="common">duda</noun> <noun ref="libertad" typeN="pro" cat="idea">la</noun> habrá</line>
             </stanza>
         </lyrics>
     </song>
@@ -372,6 +379,7 @@
             <year>1978</year>
             <country>Cuba</country>
             <theme>political social</theme>
+            <!-- http://www.musica.com/letras.asp?letra=844852 -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -420,8 +428,8 @@
             <artist>Luis Eduardo Aute</artist>
             <year>1984</year>
             <country>Filipinas</country>
-
             <theme>social</theme>
+            <!-- http://www.musica.com/letras.asp?letra=94332 -->
         </meta>
         <lyrics>
             <stanza type='verse'>
@@ -470,6 +478,7 @@
             <year>1992</year>
             <country>México</country>
             <theme>social</theme>
+            <!-- http://www.musica.com/letras.asp?letra=94332 -->
         </meta>
         <lyrics>
             <stanza type='verse'>
