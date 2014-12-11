@@ -1,11 +1,18 @@
 /*
-  Part of this code has been taken from:
-  
   SortTable
   version 2
   7th April 2007
   Stuart Langridge, http://www.kryogenix.org/code/browser/sorttable/
 
+  Instructions:
+  Download this file
+  Add <script src="sorttable.js"></script> to your HTML
+  Add class="sortable" to any table you'd like to make sortable
+  Click on the headers to sort
+
+  Thanks to many, many people for contributions and suggestions.
+  Licenced as X11: http://www.kryogenix.org/code/browser/licence.html
+  This basically means: do what you want with it.
 */
 
 
@@ -13,8 +20,11 @@ var stIsIE = /*@cc_on!@*/false;
 
 sorttable = {
   init: function() {
+    // quit if this function has already been called
     if (arguments.callee.done) return;
+    // flag this function so we don't do the same thing twice
     arguments.callee.done = true;
+    // kill the timer
     if (_timer) clearInterval(_timer);
 
     if (!document.createElement || !document.getElementsByTagName) return;
@@ -31,14 +41,21 @@ sorttable = {
 
   makeSortable: function(table) {
     if (table.getElementsByTagName('thead').length == 0) {
+      // table doesn't have a tHead. Since it should have, create one and
+      // put the first table row in it.
       the = document.createElement('thead');
       the.appendChild(table.rows[0]);
       table.insertBefore(the,table.firstChild);
     }
+    // Safari doesn't support table.tHead, sigh
     if (table.tHead == null) table.tHead = table.getElementsByTagName('thead')[0];
 
-    if (table.tHead.rows.length != 1) return; 
-    
+    if (table.tHead.rows.length != 1) return; // can't cope with two header rows
+
+    // Sorttable v1 put rows with a class of "sortbottom" at the bottom (as
+    // "total" rows, for example). This is B&R, since what you're supposed
+    // to do is put them in a tfoot. So, if there are sortbottom rows,
+    // for backwards compatibility, move them to tfoot (creating it if needed).
     sortbottomrows = [];
     for (var i=0; i<table.rows.length; i++) {
       if (table.rows[i].className.search(/\bsortbottom\b/) != -1) {
@@ -83,7 +100,7 @@ sorttable = {
             this.removeChild(document.getElementById('sorttable_sortfwdind'));
             sortrevind = document.createElement('span');
             sortrevind.id = "sorttable_sortrevind";
-            sortrevind.innerHTML ='<svg xmlns="http://www.w3.org/2000/svg" height="10" width="10"><polygon points="5,0 10,5 0,5" style="fill:black;stroke-width:1"/></svg>';
+            sortrevind.innerHTML = stIsIE ? '&nbsp<font face="webdings">5</font>' : '&nbsp;&#x25B4;';
             this.appendChild(sortrevind);
             return;
           }
@@ -96,7 +113,7 @@ sorttable = {
             this.removeChild(document.getElementById('sorttable_sortrevind'));
             sortfwdind = document.createElement('span');
             sortfwdind.id = "sorttable_sortfwdind";
-            sortfwdind.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" height="10" width="10"> <polygon points="0,0 5,5 10,0" style="fill:black;stroke-width:1"/></svg>';
+            sortfwdind.innerHTML = stIsIE ? '&nbsp<font face="webdings">6</font>' : '&nbsp;&#x25BE;';
             this.appendChild(sortfwdind);
             return;
           }
@@ -117,7 +134,7 @@ sorttable = {
           this.className += ' sorttable_sorted';
           sortfwdind = document.createElement('span');
           sortfwdind.id = "sorttable_sortfwdind";
-          sortfwdind.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" height="10" width="10"><polygon points="0,0 5,5 10,0" style="fill:black;stroke-width:1"/></svg>';
+          sortfwdind.innerHTML = stIsIE ? '&nbsp<font face="webdings">6</font>' : '&nbsp;&#x25BE;';
           this.appendChild(sortfwdind);
 
 	        // build an array to sort. This is a Schwartzian transform thing,
@@ -130,8 +147,8 @@ sorttable = {
 	        for (var j=0; j<rows.length; j++) {
 	          row_array[row_array.length] = [sorttable.getInnerText(rows[j].cells[col]), rows[j]];
 	        }
-	        /* If you want a stable sort, uncomment the following line
-	        sorttable.shaker_sort(row_array, this.sorttable_sortfunction); */
+	        /* If you want a stable sort, uncomment the following line */
+	        //sorttable.shaker_sort(row_array, this.sorttable_sortfunction);
 	        /* and comment out this one */
 	        row_array.sort(this.sorttable_sortfunction);
 
@@ -152,7 +169,7 @@ sorttable = {
     for (var i=0; i<table.tBodies[0].rows.length; i++) {
       text = sorttable.getInnerText(table.tBodies[0].rows[i].cells[column]);
       if (text != '') {
-        if (text.match(/^-?[Â£$Â¤]?[\d,.]+%?$/)) {
+        if (text.match(/^-?[£$¤]?[\d,.]+%?$/)) {
           return sorttable.sort_numeric;
         }
         // check for a date: dd/mm/yyyy or dd/mm/yy
