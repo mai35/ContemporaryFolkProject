@@ -65,7 +65,7 @@ p{
     padding-left:3%;
 }
 
-table{
+table.sortable{
     font-family: "Book Antiqua", sans-serif;
     color: #000000;
     padding-right:3%;
@@ -73,6 +73,7 @@ table{
     margin-left:auto; 
     margin-right:auto;
 }
+
 #navMenu > ul{
     font-family: "Book Antiqua", sans-serif;
     font-size: 115%;
