@@ -1,7 +1,11 @@
 body.Italian{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/Italian.jpg'); background-size: 100%}
+    /*http://think0.deviantart.com/art/Italy-Grunge-Flag-108956753*/
 body.English{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/AmericanBG.jpg'); background-size: 100%}
+    /*http://wallpaper-kid.com/american-flag-powerpoint-background.htm*/
 body.Japanese{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/JapaneseBG.png'); background-size: 100%}
+    /*http://think0.deviantart.com/art/Japan-Grunge-Flag-112127885*/
 body.Spanish{font-family:"Zapf Chancery", "Monotype Corsiva", "Book Antiqua", sans-serif; text-align:center; background-image: url('../images/SpainBG.jpg'); background-size: 100%}
+    /*http://think0.deviantart.com/art/Spain-Grunge-Flag-112653575*/
 h1{font-weight:bold; font-size:250%}
 h2{font-weight:bold; font-size:200%}
 h3{font-weight:bold; font-size:175%}

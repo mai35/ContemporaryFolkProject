@@ -7,56 +7,55 @@
         <link href="css/menu.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <div class="header"><img src="images/Flags.png" alt="Flags" /></div>
+        <div class="header">
+            <img src="images/Flags.png" alt="Flags" />
+            <!--American Flag: http://wallown.com/american-flag-wallpaper-grunge.html-->
+            <!--Other Flags: http://think0.deviantart.com/gallery/?catpath=%2F&q=flag-->
+        </div>
         <!--#include virtual="include/menu.html" -->
         <div class="content">
             <h1>Contemporary Folk Music</h1>
             <h2>Methodology</h2>
             <h3>How did we tag our songs?</h3>
-            <p>Firstly, since we're looking at songs it was important to maintain a specific
-                structure throughout. Our schema started out with simply the structure tags and
-                elements. We had chosen a total of ten songs for each language so our xml documents
-                contained the songs that were were grouped according to what language they were. </p>
-            <p>As we looked at each individual song within our xml documents tags such as meta and
-                lyrics, were the first important structure tags. We knew we needed to look at
-                information about each of the songs as well as the lyrics themselves.</p>
+            <p>First, since we were looking at songs, it was important to maintain a specific
+                structure throughout our corpus. Our schema started out with just the structure tags and
+                elements. We had chosen a total of ten songs for each language so our XML documents
+                contained the songs that were grouped according to what language they were. </p>
+            <p>As we looked at each individual song within our XML documents, tags such as meta and
+                lyrics were the first important structure tags to group different kinds of information. 
+                We knew we needed to look at descriptive information about each of the songs as well as 
+                the lyrics themselves.</p>
             <p> Within the meta element we had elements such as country, language, title, artist,
                 year, dialect, and most importantly theme. Since not all of our songs within
                 languages were from the same country, country could be a useful element for later
-                analysis. Language, however, is probably a more important element. Dialect was not
-                as important an element as we originally thought since it seems to be only an
-                Italian folk song differentiation. Obviously, we chose to include the song title and
+                analysis. Language was a more important element for our research. However, dialect within a language was not
+                as important an element as we originally thought since it seems to be prevalent only in
+                Italian folk songs. We chose to include the song title and
                 artist name in order to differentiate both within our song collection and between
                 the original version and any remakes that have been produced of the song. We chose
-                year as another element because we were looking at a specific, if not broad,
-                timeframe. It was necessary that all of our song chioces were produced or recorded
-                after 1960.</p>
-            <p>Within each individual song we had a tag for lyrics that came after our meta tag
-                header. Within the lyrics tag we had stanza, line, and noun. Our stanza element had
-                a type attribute. Originally we thought that it would be important to differentiate
-                between the different types of stanza like verse, chorus, or bridge. However in this
-                semester project we did not end up using the distinction for analysis. Line elements
-                had no attributes and were simply to maintain normal lyrical structure that most
-                songs have when they are written down. Our noun tags were probably our most
-                important information tags.</p>
-            <p>Since our research question has to do with themes we decided that a lot of themes are
-                evident based on word choice. More specifically nouns tend to show or at least hint
-                at the overall theme of a song. Therefore we decided to look at all of the nouns,
-                pronouns included, to see if there was an overall hint to whether or not nouns were
-                that definitive in showing song themes. Within our noun elements we had the
-                following attributes: typeN, cat, ref, foreign, subtheme. The typeN attricute was
+                year as another element to note because we were looking at a specific
+                timeframe, from the 1960s to the present.</p>
+            <p>Within each individual song we had a tag for lyrics that came after our metadata
+                header. Within the lyrics tag we had stanza, line, and noun elements. Our stanza element had
+                a type attribute to distinguish verses, chorus, and bridges because we thought it may help
+                our analysis. However, we did not end up using the distinction for analysis within the time frame 
+                of this semester. Line elements had no attributes and were included simply to maintain 
+                lyrical structure that most songs have when they are written down. Our noun tags were our most
+                important tags.</p>
+            <p>Since our research question has to do with themes, we decided that a lot of themes can be
+                determined based on word choice. More specifically, nouns tend to show or at least hint
+                at the overall theme of a song. Therefore, we decided to look at all of the nouns,
+                pronouns included. Within our noun elements we had the
+                following attributes: typeN, cat, ref, foreign, subtheme. The typeN attribute was
                 used to differentiate between pronouns, proper nouns and common nouns. The cat
-                attricute was whether it was a person, place, thing or idea. The ref attribute was
-                mainly used for pronouns that might refer to a previous noun. The foreign attribute
-                was whether or not the word was from another language or not since borrowing does
-                seem to occur in most languages. And then the most imporant attribute for our
-                analysis was the subtheme attribute.</p>
-            <p>Unlike our theme element that had specific prechosen themes we tagged our subthemes
-                separately. It is unclear if having done that was a good or a bad idea but it was
-                the way we decided to do it. Our subthemes had more to do with an individual word,
-                the noun, than anything overall. The noun itself regardless of context of the song
-                has its own subtheme. Not all of the nouns in our songs had a subtheme attribute but
-                the ones that did were marked. </p>
+                attribute denoted whether the noun was a person, place, thing or idea. The ref attribute was
+                mainly used for pronouns that referred to a previous noun. The foreign attribute
+                was used to determine whether or not the word was from another language or not since borrowing occurs in many languages.</p>
+            <p>The most imporant attribute for our analysis was the subtheme attribute.
+                Unlike our theme element that was chosen amongst specific predetermined themes, we allowed for our subthemes
+                to be more specific and determined by the context of the noun. The noun itself, regardless of the context of the whole song,
+                has its own subthematic meaning. Not all of the nouns in our songs had a subtheme attribute, but there were a substantial
+                number that were marked up in our corpus. </p>
         </div>
         <div class="creativeCommons">
             <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">

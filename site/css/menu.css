@@ -6,6 +6,7 @@ body{
     padding-top:15px;
     padding-bottom:30px;
     background-image: url('../images/redbackground.jpg');
+        /*http://fashionplaceface.com/red-grunge-background/*/
     background-size: 100%;
     margin-top: 5px;
 }
@@ -87,7 +88,7 @@ table{
     z-index:1;
 }
 ul > li.active{
-    display:block;
+    display:inline-block;
     text-align:center;
     float:left;
 }
